@@ -15,24 +15,15 @@ From the project root:
 ./build_sim.sh
 ```
 
-Or manually:
-```bash
-mkdir -p build
-cd build
-cmake ..
-cmake --build .
-```
-
-`build_sim.sh` copies executables to `./bin`.
-
 ## 3) Run experiments
-From the project root (after build):
+From the /build/main/ (after build):
 ```bash
-./bin/test_background_noise
-./bin/test_neuron
-./bin/test_adder
-./bin/test_electrode
-./bin/test_top
+./test_background_noise
+./test_neuron
+./test_adder
+./test_electrode
+./test_top
+./electrode_brain_sim
 ```
 
 Each experiment writes CSV logs in the working directory (`/build/main/`):
