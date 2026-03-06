@@ -1,9 +1,0 @@
-build/
-*.o
-*.so
-*.a
-*.out
-*.log
-*.csv
-*.png
-*.ipynb_checkpoints

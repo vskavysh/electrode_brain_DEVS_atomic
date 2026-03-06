@@ -1,0 +1,10 @@
+/home/devs/Desktop/DEVS/0_projects/electrode_devs_project_final/build/CMakeFiles/edit_cache.dir
+/home/devs/Desktop/DEVS/0_projects/electrode_devs_project_final/build/CMakeFiles/rebuild_cache.dir
+/home/devs/Desktop/DEVS/0_projects/electrode_devs_project_final/build/main/CMakeFiles/electrode_brain_sim.dir
+/home/devs/Desktop/DEVS/0_projects/electrode_devs_project_final/build/main/CMakeFiles/test_background_noise.dir
+/home/devs/Desktop/DEVS/0_projects/electrode_devs_project_final/build/main/CMakeFiles/test_neuron.dir
+/home/devs/Desktop/DEVS/0_projects/electrode_devs_project_final/build/main/CMakeFiles/test_adder.dir
+/home/devs/Desktop/DEVS/0_projects/electrode_devs_project_final/build/main/CMakeFiles/test_electrode.dir
+/home/devs/Desktop/DEVS/0_projects/electrode_devs_project_final/build/main/CMakeFiles/test_top.dir
+/home/devs/Desktop/DEVS/0_projects/electrode_devs_project_final/build/main/CMakeFiles/edit_cache.dir
+/home/devs/Desktop/DEVS/0_projects/electrode_devs_project_final/build/main/CMakeFiles/rebuild_cache.dir
