@@ -4,7 +4,7 @@
 #include <iostream>
 #include <limits>
 #include <cmath>
-#include "cadmium/core/modeling/atomic.hpp"
+#include "cadmium/modeling/devs/atomic.hpp"
 
 using namespace cadmium;
 

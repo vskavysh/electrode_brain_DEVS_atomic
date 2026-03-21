@@ -1,8 +1,8 @@
 #include <iostream>
 #include <memory>
-#include "cadmium/core/modeling/coupled.hpp"
-#include "cadmium/core/simulation/root_coordinator.hpp"
-#include "cadmium/core/logger/csv.hpp"
+#include "cadmium/modeling/devs/coupled.hpp"
+#include "cadmium/simulation/root_coordinator.hpp"
+#include "cadmium/simulation/logger/csv.hpp"
 #include "neuron.hpp"
 
 using namespace cadmium;
@@ -34,7 +34,7 @@ int main() {
             auto model = std::make_shared<NeuronHarness>("neuron_always_harness",
                                                          -70.0, 30.0, 2.0, 1.0);
             RootCoordinator rc(model);
-            rc.setLogger(std::make_shared<cadmium::CSVLogger>("neuron_always_fire_log.csv", ";"));
+	    rc.setLogger<cadmium::CSVLogger>("neuron_always_fire_log.csv", ";");
             rc.start();
             rc.simulate(5.0);
             rc.stop();
@@ -45,8 +45,8 @@ int main() {
             auto model = std::make_shared<NeuronHarness>("neuron_never_harness",
                                                          -70.0, 30.0, 2.0, 0.0);
             RootCoordinator rc(model);
-            rc.setLogger(std::make_shared<cadmium::CSVLogger>("neuron_never_fire_log.csv", ";"));
-            rc.start();
+            rc.setLogger<cadmium::CSVLogger>("neuron_never_fire_log.csv", ";");
+	    rc.start();
             rc.simulate(5.0);
             rc.stop();
             std::cout << "Neuron Ne2 done. See neuron_never_fire_log.csv\n";
@@ -56,7 +56,7 @@ int main() {
             auto model = std::make_shared<NeuronHarness>("neuron_default_harness",
                                                          -70.0, 30.0, 2.0, 0.1);
             RootCoordinator rc(model);
-            rc.setLogger(std::make_shared<cadmium::CSVLogger>("neuron_default_log.csv", ";"));
+	    rc.setLogger<cadmium::CSVLogger>("neuron_default_log.csv", ";");
             rc.start();
             rc.simulate(20.0);
             rc.stop();

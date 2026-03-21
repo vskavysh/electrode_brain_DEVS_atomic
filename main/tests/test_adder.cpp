@@ -1,8 +1,8 @@
 #include <iostream>
 #include <memory>
-#include "cadmium/core/modeling/coupled.hpp"
-#include "cadmium/core/simulation/root_coordinator.hpp"
-#include "cadmium/core/logger/csv.hpp"
+#include "cadmium/modeling/devs/coupled.hpp"
+#include "cadmium/simulation/root_coordinator.hpp"
+#include "cadmium/simulation/logger/csv.hpp"
 #include "background_noise.hpp"
 #include "neuron.hpp"
 #include "adder.hpp"
@@ -32,8 +32,7 @@ int main() {
     try {
         auto model = std::make_shared<AdderHarness>("adder_harness");
         RootCoordinator rc(model);
-        //rc.setLogger<CSVLogger>("adder_simple_log.csv", ";");
-        rc.setLogger(std::make_shared<cadmium::CSVLogger>("adder_simple_log.csv", ";"));
+	rc.setLogger<cadmium::CSVLogger>("adder_simple_log.csv", ";");
         rc.start();
         rc.simulate(5.0);
         rc.stop();

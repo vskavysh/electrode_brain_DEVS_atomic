@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <random>
-#include "cadmium/core/modeling/atomic.hpp"
+#include "cadmium/modeling/devs/atomic.hpp"
 
 using namespace cadmium;
 

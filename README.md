@@ -1,22 +1,18 @@
 # Electrode–Brain DEVS model (Cadmium v2) — project + experiments
 
 ## 1) Prerequisites
-- Cadmium v2 installed locally
-- Environment variable `CADMIUM` set to the Cadmium root directory (the one containing `include/`)
-
-Example:
-```bash
-export CADMIUM=/home/<user>/cadmium_v2
-```
+- Cadmium v2 installed locally (dev-rt branch); see the following for instructions: https://devssim.carleton.ca/manuals/installation/Manual.pdf
+- Environment variable `CADMIUM` set to the Cadmium root directory (.../cadmium_v2/include)
 
 ## 2) Build
 From the project root:
 ```bash
 ./build_sim.sh
 ```
+The executables will be placed in the `/bin/` folder 
 
 ## 3) Run experiments
-From the /build/main/ (after build):
+From the bin/ folder:
 ```bash
 ./test_background_noise
 ./test_neuron
@@ -26,7 +22,7 @@ From the /build/main/ (after build):
 ./electrode_brain_sim
 ```
 
-Each experiment writes CSV logs in the working directory (`/build/main/`):
+Each experiment writes CSV logs (in `/bin/`):
 - `noise_sampling_log.csv`
 - `neuron_always_fire_log.csv`, `neuron_never_fire_log.csv`, `neuron_default_log.csv`
 - `adder_simple_log.csv`
@@ -34,7 +30,7 @@ Each experiment writes CSV logs in the working directory (`/build/main/`):
 - `top_threshold_45_log.csv`, `top_threshold_55_log.csv`
 - `electrode_brain_log.csv`
 
-These log files are analyzed in analyze_logs.ipynb (located in (`/build/main/`), which generates various plots and other data.
+These log files are analyzed in analyze_logs.ipynb (located in (`/analysis/`), which generates various plots and other data.
 
 ## 4) Report
 

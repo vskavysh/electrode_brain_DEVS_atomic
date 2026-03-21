@@ -1,8 +1,8 @@
 #include <iostream>
 #include <memory>
-#include "cadmium/core/modeling/coupled.hpp"
-#include "cadmium/core/simulation/root_coordinator.hpp"
-#include "cadmium/core/logger/csv.hpp"
+#include "cadmium/modeling/devs/coupled.hpp"
+#include "cadmium/simulation/root_coordinator.hpp"
+#include "cadmium/simulation/logger/csv.hpp"
 #include "neuron.hpp"
 #include "electrode.hpp"
 
@@ -27,8 +27,7 @@ int main() {
         {
             auto model = std::make_shared<ElectrodeHarness>("elec_E1", 29.0);
             RootCoordinator rc(model);
-            //rc.setLogger<CSVLogger>("electrode_threshold_crossing_log.csv", ";");
-            rc.setLogger(std::make_shared<cadmium::CSVLogger>("electrode_threshold_crossing_log.csv", ";"));
+	    rc.setLogger<cadmium::CSVLogger>("electrode_threshold_crossing_log.csv", ";");
             rc.start();
             rc.simulate(20.0);
             rc.stop();
@@ -38,8 +37,7 @@ int main() {
         {
             auto model = std::make_shared<ElectrodeHarness>("elec_E2", 31.0);
             RootCoordinator rc(model);
-            //rc.setLogger<CSVLogger>("electrode_high_threshold_log.csv", ";");
-            rc.setLogger(std::make_shared<cadmium::CSVLogger>("electrode_high_threshold_log.csv", ";"));
+	    rc.setLogger<cadmium::CSVLogger>("electrode_high_threshold_log.csv", ";");
             rc.start();
             rc.simulate(20.0);
             rc.stop();

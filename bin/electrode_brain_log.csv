@@ -1,0 +1,1639 @@
+sep=;
+time;model_id;model_name;port_name;data
+0;1;electrode;;{input: -100, threshold: 25, sigma: inf}
+0;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0;5;adder;;{noise: 0, n1: 0, n2: 0, sum: 0, sigma: inf}
+0;6;noise;;{value: 0, sigma: 0.1}
+0.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.1;5;adder;;{noise: 0, n1: 0, n2: 0, sum: 0, sigma: 0}
+0.1;6;noise;noise_out;0
+0.1;6;noise;;{value: -13.0118, sigma: 0.1}
+0.1;1;electrode;;{input: 0, threshold: 25, sigma: inf}
+0.1;5;adder;sum_out;0
+0.1;5;adder;;{noise: 0, n1: 0, n2: 0, sum: 0, sigma: inf}
+0.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.2;5;adder;;{noise: -13.0118, n1: 0, n2: 0, sum: -13.0118, sigma: 0}
+0.2;6;noise;noise_out;-13.0118
+0.2;6;noise;;{value: -0.596605, sigma: 0.1}
+0.2;1;electrode;;{input: -13.0118, threshold: 25, sigma: inf}
+0.2;5;adder;sum_out;-13.0118
+0.2;5;adder;;{noise: -13.0118, n1: 0, n2: 0, sum: -13.0118, sigma: inf}
+0.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.3;5;adder;;{noise: -0.596605, n1: 0, n2: 0, sum: -0.596605, sigma: 0}
+0.3;6;noise;noise_out;-0.596605
+0.3;6;noise;;{value: -2.80165, sigma: 0.1}
+0.3;1;electrode;;{input: -0.596605, threshold: 25, sigma: inf}
+0.3;5;adder;sum_out;-0.596605
+0.3;5;adder;;{noise: -0.596605, n1: 0, n2: 0, sum: -0.596605, sigma: inf}
+0.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.4;5;adder;;{noise: -2.80165, n1: 0, n2: 0, sum: -2.80165, sigma: 0}
+0.4;6;noise;noise_out;-2.80165
+0.4;6;noise;;{value: 10.2341, sigma: 0.1}
+0.4;1;electrode;;{input: -2.80165, threshold: 25, sigma: inf}
+0.4;5;adder;sum_out;-2.80165
+0.4;5;adder;;{noise: -2.80165, n1: 0, n2: 0, sum: -2.80165, sigma: inf}
+0.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.5;5;adder;;{noise: 10.2341, n1: 0, n2: 0, sum: 10.2341, sigma: 0}
+0.5;6;noise;noise_out;10.2341
+0.5;6;noise;;{value: 4.68345, sigma: 0.1}
+0.5;1;electrode;;{input: 10.2341, threshold: 25, sigma: inf}
+0.5;5;adder;sum_out;10.2341
+0.5;5;adder;;{noise: 10.2341, n1: 0, n2: 0, sum: 10.2341, sigma: inf}
+0.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.6;5;adder;;{noise: 4.68345, n1: 0, n2: 0, sum: 4.68345, sigma: 0}
+0.6;6;noise;noise_out;4.68345
+0.6;6;noise;;{value: 14.4043, sigma: 0.1}
+0.6;1;electrode;;{input: 4.68345, threshold: 25, sigma: inf}
+0.6;5;adder;sum_out;4.68345
+0.6;5;adder;;{noise: 4.68345, n1: 0, n2: 0, sum: 4.68345, sigma: inf}
+0.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.7;5;adder;;{noise: 14.4043, n1: 0, n2: 0, sum: 14.4043, sigma: 0}
+0.7;6;noise;noise_out;14.4043
+0.7;6;noise;;{value: 18.3782, sigma: 0.1}
+0.7;1;electrode;;{input: 14.4043, threshold: 25, sigma: inf}
+0.7;5;adder;sum_out;14.4043
+0.7;5;adder;;{noise: 14.4043, n1: 0, n2: 0, sum: 14.4043, sigma: inf}
+0.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.8;5;adder;;{noise: 18.3782, n1: 0, n2: 0, sum: 18.3782, sigma: 0}
+0.8;6;noise;noise_out;18.3782
+0.8;6;noise;;{value: -3.69379, sigma: 0.1}
+0.8;1;electrode;;{input: 18.3782, threshold: 25, sigma: inf}
+0.8;5;adder;sum_out;18.3782
+0.8;5;adder;;{noise: 18.3782, n1: 0, n2: 0, sum: 18.3782, sigma: inf}
+0.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+0.9;5;adder;;{noise: -3.69379, n1: 0, n2: 0, sum: -3.69379, sigma: 0}
+0.9;6;noise;noise_out;-3.69379
+0.9;6;noise;;{value: -9.53212, sigma: 0.1}
+0.9;1;electrode;;{input: -3.69379, threshold: 25, sigma: inf}
+0.9;5;adder;sum_out;-3.69379
+0.9;5;adder;;{noise: -3.69379, n1: 0, n2: 0, sum: -3.69379, sigma: inf}
+1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+1;5;adder;;{noise: -9.53212, n1: 0, n2: 0, sum: -9.53212, sigma: 0}
+1;6;noise;noise_out;-9.53212
+1;6;noise;;{value: -1.31852, sigma: 0.1}
+1;1;electrode;;{input: -9.53212, threshold: 25, sigma: inf}
+1;5;adder;sum_out;-9.53212
+1;5;adder;;{noise: -9.53212, n1: 0, n2: 0, sum: -9.53212, sigma: inf}
+1.1;3;neuron2;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+1.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+1.1;5;adder;;{noise: -1.31852, n1: 0, n2: 0, sum: -1.31852, sigma: 0}
+1.1;6;noise;noise_out;-1.31852
+1.1;6;noise;;{value: 4.73761, sigma: 0.1}
+1.1;1;electrode;;{input: -1.31852, threshold: 25, sigma: inf}
+1.1;5;adder;sum_out;-1.31852
+1.1;5;adder;;{noise: -1.31852, n1: 0, n2: 0, sum: -1.31852, sigma: inf}
+1.2;3;neuron2;potential_out;30
+1.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+1.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+1.2;5;adder;;{noise: 4.73761, n1: 0, n2: 30, sum: 27.2376, sigma: 0}
+1.2;6;noise;noise_out;4.73761
+1.2;6;noise;;{value: 0.68641, sigma: 0.1}
+1.2;1;electrode;;{input: 27.2376, threshold: 25, sigma: 0}
+1.2;5;adder;sum_out;27.2376
+1.2;5;adder;;{noise: 4.73761, n1: 0, n2: 30, sum: 27.2376, sigma: inf}
+1.2;1;electrode;spike_out;1
+1.2;1;electrode;;{input: 27.2376, threshold: 25, sigma: inf}
+1.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+1.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+1.3;5;adder;;{noise: 0.68641, n1: 0, n2: 0, sum: 0.68641, sigma: 0}
+1.3;6;noise;noise_out;0.68641
+1.3;6;noise;;{value: 14.3203, sigma: 0.1}
+1.3;1;electrode;;{input: 0.68641, threshold: 25, sigma: inf}
+1.3;5;adder;sum_out;0.68641
+1.3;5;adder;;{noise: 0.68641, n1: 0, n2: 0, sum: 0.68641, sigma: inf}
+1.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+1.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+1.4;5;adder;;{noise: 14.3203, n1: 0, n2: 0, sum: 14.3203, sigma: 0}
+1.4;6;noise;noise_out;14.3203
+1.4;6;noise;;{value: 8.56034, sigma: 0.1}
+1.4;1;electrode;;{input: 14.3203, threshold: 25, sigma: inf}
+1.4;5;adder;sum_out;14.3203
+1.4;5;adder;;{noise: 14.3203, n1: 0, n2: 0, sum: 14.3203, sigma: inf}
+1.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+1.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+1.5;5;adder;;{noise: 8.56034, n1: 0, n2: 0, sum: 8.56034, sigma: 0}
+1.5;6;noise;noise_out;8.56034
+1.5;6;noise;;{value: -11.3306, sigma: 0.1}
+1.5;1;electrode;;{input: 8.56034, threshold: 25, sigma: inf}
+1.5;5;adder;sum_out;8.56034
+1.5;5;adder;;{noise: 8.56034, n1: 0, n2: 0, sum: 8.56034, sigma: inf}
+1.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+1.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+1.6;5;adder;;{noise: -11.3306, n1: 0, n2: 0, sum: -11.3306, sigma: 0}
+1.6;6;noise;noise_out;-11.3306
+1.6;6;noise;;{value: -1.30368, sigma: 0.1}
+1.6;1;electrode;;{input: -11.3306, threshold: 25, sigma: inf}
+1.6;5;adder;sum_out;-11.3306
+1.6;5;adder;;{noise: -11.3306, n1: 0, n2: 0, sum: -11.3306, sigma: inf}
+1.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+1.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+1.7;5;adder;;{noise: -1.30368, n1: 0, n2: 0, sum: -1.30368, sigma: 0}
+1.7;6;noise;noise_out;-1.30368
+1.7;6;noise;;{value: -13.5189, sigma: 0.1}
+1.7;1;electrode;;{input: -1.30368, threshold: 25, sigma: inf}
+1.7;5;adder;sum_out;-1.30368
+1.7;5;adder;;{noise: -1.30368, n1: 0, n2: 0, sum: -1.30368, sigma: inf}
+1.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+1.8;4;neuron1;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+1.8;5;adder;;{noise: -13.5189, n1: 0, n2: 0, sum: -13.5189, sigma: 0}
+1.8;6;noise;noise_out;-13.5189
+1.8;6;noise;;{value: 15.676, sigma: 0.1}
+1.8;1;electrode;;{input: -13.5189, threshold: 25, sigma: inf}
+1.8;5;adder;sum_out;-13.5189
+1.8;5;adder;;{noise: -13.5189, n1: 0, n2: 0, sum: -13.5189, sigma: inf}
+1.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+1.9;4;neuron1;potential_out;30
+1.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+1.9;5;adder;;{noise: 15.676, n1: 30, n2: 0, sum: 42.676, sigma: 0}
+1.9;6;noise;noise_out;15.676
+1.9;6;noise;;{value: -6.14387, sigma: 0.1}
+1.9;1;electrode;;{input: 42.676, threshold: 25, sigma: 0}
+1.9;5;adder;sum_out;42.676
+1.9;5;adder;;{noise: 15.676, n1: 30, n2: 0, sum: 42.676, sigma: inf}
+1.9;1;electrode;spike_out;1
+1.9;1;electrode;;{input: 42.676, threshold: 25, sigma: inf}
+2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+2;5;adder;;{noise: -6.14387, n1: 0, n2: 0, sum: -6.14387, sigma: 0}
+2;6;noise;noise_out;-6.14387
+2;6;noise;;{value: -3.07637, sigma: 0.1}
+2;1;electrode;;{input: -6.14387, threshold: 25, sigma: inf}
+2;5;adder;sum_out;-6.14387
+2;5;adder;;{noise: -6.14387, n1: 0, n2: 0, sum: -6.14387, sigma: inf}
+2.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+2.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+2.1;5;adder;;{noise: -3.07637, n1: 0, n2: 0, sum: -3.07637, sigma: 0}
+2.1;6;noise;noise_out;-3.07637
+2.1;6;noise;;{value: -5.76381, sigma: 0.1}
+2.1;1;electrode;;{input: -3.07637, threshold: 25, sigma: inf}
+2.1;5;adder;sum_out;-3.07637
+2.1;5;adder;;{noise: -3.07637, n1: 0, n2: 0, sum: -3.07637, sigma: inf}
+2.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+2.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+2.2;5;adder;;{noise: -5.76381, n1: 0, n2: 0, sum: -5.76381, sigma: 0}
+2.2;6;noise;noise_out;-5.76381
+2.2;6;noise;;{value: 1.37554, sigma: 0.1}
+2.2;1;electrode;;{input: -5.76381, threshold: 25, sigma: inf}
+2.2;5;adder;sum_out;-5.76381
+2.2;5;adder;;{noise: -5.76381, n1: 0, n2: 0, sum: -5.76381, sigma: inf}
+2.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+2.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+2.3;5;adder;;{noise: 1.37554, n1: 0, n2: 0, sum: 1.37554, sigma: 0}
+2.3;6;noise;noise_out;1.37554
+2.3;6;noise;;{value: 12.5022, sigma: 0.1}
+2.3;1;electrode;;{input: 1.37554, threshold: 25, sigma: inf}
+2.3;5;adder;sum_out;1.37554
+2.3;5;adder;;{noise: 1.37554, n1: 0, n2: 0, sum: 1.37554, sigma: inf}
+2.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+2.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+2.4;5;adder;;{noise: 12.5022, n1: 0, n2: 0, sum: 12.5022, sigma: 0}
+2.4;6;noise;noise_out;12.5022
+2.4;6;noise;;{value: -9.61786, sigma: 0.1}
+2.4;1;electrode;;{input: 12.5022, threshold: 25, sigma: inf}
+2.4;5;adder;sum_out;12.5022
+2.4;5;adder;;{noise: 12.5022, n1: 0, n2: 0, sum: 12.5022, sigma: inf}
+2.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+2.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+2.5;5;adder;;{noise: -9.61786, n1: 0, n2: 0, sum: -9.61786, sigma: 0}
+2.5;6;noise;noise_out;-9.61786
+2.5;6;noise;;{value: -14.1354, sigma: 0.1}
+2.5;1;electrode;;{input: -9.61786, threshold: 25, sigma: inf}
+2.5;5;adder;sum_out;-9.61786
+2.5;5;adder;;{noise: -9.61786, n1: 0, n2: 0, sum: -9.61786, sigma: inf}
+2.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+2.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+2.6;5;adder;;{noise: -14.1354, n1: 0, n2: 0, sum: -14.1354, sigma: 0}
+2.6;6;noise;noise_out;-14.1354
+2.6;6;noise;;{value: 25.364, sigma: 0.1}
+2.6;1;electrode;;{input: -14.1354, threshold: 25, sigma: inf}
+2.6;5;adder;sum_out;-14.1354
+2.6;5;adder;;{noise: -14.1354, n1: 0, n2: 0, sum: -14.1354, sigma: inf}
+2.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+2.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+2.7;5;adder;;{noise: 25.364, n1: 0, n2: 0, sum: 25.364, sigma: 0}
+2.7;6;noise;noise_out;25.364
+2.7;6;noise;;{value: 0.985552, sigma: 0.1}
+2.7;1;electrode;;{input: 25.364, threshold: 25, sigma: 0}
+2.7;5;adder;sum_out;25.364
+2.7;5;adder;;{noise: 25.364, n1: 0, n2: 0, sum: 25.364, sigma: inf}
+2.7;1;electrode;spike_out;1
+2.7;1;electrode;;{input: 25.364, threshold: 25, sigma: inf}
+2.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+2.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+2.8;5;adder;;{noise: 0.985552, n1: 0, n2: 0, sum: 0.985552, sigma: 0}
+2.8;6;noise;noise_out;0.985552
+2.8;6;noise;;{value: -2.58933, sigma: 0.1}
+2.8;1;electrode;;{input: 0.985552, threshold: 25, sigma: inf}
+2.8;5;adder;sum_out;0.985552
+2.8;5;adder;;{noise: 0.985552, n1: 0, n2: 0, sum: 0.985552, sigma: inf}
+2.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+2.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+2.9;5;adder;;{noise: -2.58933, n1: 0, n2: 0, sum: -2.58933, sigma: 0}
+2.9;6;noise;noise_out;-2.58933
+2.9;6;noise;;{value: -6.29303, sigma: 0.1}
+2.9;1;electrode;;{input: -2.58933, threshold: 25, sigma: inf}
+2.9;5;adder;sum_out;-2.58933
+2.9;5;adder;;{noise: -2.58933, n1: 0, n2: 0, sum: -2.58933, sigma: inf}
+3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+3;5;adder;;{noise: -6.29303, n1: 0, n2: 0, sum: -6.29303, sigma: 0}
+3;6;noise;noise_out;-6.29303
+3;6;noise;;{value: -12.9747, sigma: 0.1}
+3;1;electrode;;{input: -6.29303, threshold: 25, sigma: inf}
+3;5;adder;sum_out;-6.29303
+3;5;adder;;{noise: -6.29303, n1: 0, n2: 0, sum: -6.29303, sigma: inf}
+3.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+3.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+3.1;5;adder;;{noise: -12.9747, n1: 0, n2: 0, sum: -12.9747, sigma: 0}
+3.1;6;noise;noise_out;-12.9747
+3.1;6;noise;;{value: 13.0416, sigma: 0.1}
+3.1;1;electrode;;{input: -12.9747, threshold: 25, sigma: inf}
+3.1;5;adder;sum_out;-12.9747
+3.1;5;adder;;{noise: -12.9747, n1: 0, n2: 0, sum: -12.9747, sigma: inf}
+3.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+3.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+3.2;5;adder;;{noise: 13.0416, n1: 0, n2: 0, sum: 13.0416, sigma: 0}
+3.2;6;noise;noise_out;13.0416
+3.2;6;noise;;{value: 0.222038, sigma: 0.1}
+3.2;1;electrode;;{input: 13.0416, threshold: 25, sigma: inf}
+3.2;5;adder;sum_out;13.0416
+3.2;5;adder;;{noise: 13.0416, n1: 0, n2: 0, sum: 13.0416, sigma: inf}
+3.3;3;neuron2;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+3.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+3.3;5;adder;;{noise: 0.222038, n1: 0, n2: 0, sum: 0.222038, sigma: 0}
+3.3;6;noise;noise_out;0.222038
+3.3;6;noise;;{value: -6.75301, sigma: 0.1}
+3.3;1;electrode;;{input: 0.222038, threshold: 25, sigma: inf}
+3.3;5;adder;sum_out;0.222038
+3.3;5;adder;;{noise: 0.222038, n1: 0, n2: 0, sum: 0.222038, sigma: inf}
+3.4;3;neuron2;potential_out;30
+3.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+3.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+3.4;5;adder;;{noise: -6.75301, n1: 0, n2: 30, sum: 15.747, sigma: 0}
+3.4;6;noise;noise_out;-6.75301
+3.4;6;noise;;{value: 19.2638, sigma: 0.1}
+3.4;1;electrode;;{input: 15.747, threshold: 25, sigma: inf}
+3.4;5;adder;sum_out;15.747
+3.4;5;adder;;{noise: -6.75301, n1: 0, n2: 30, sum: 15.747, sigma: inf}
+3.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+3.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+3.5;5;adder;;{noise: 19.2638, n1: 0, n2: 0, sum: 19.2638, sigma: 0}
+3.5;6;noise;noise_out;19.2638
+3.5;6;noise;;{value: 17.7445, sigma: 0.1}
+3.5;1;electrode;;{input: 19.2638, threshold: 25, sigma: inf}
+3.5;5;adder;sum_out;19.2638
+3.5;5;adder;;{noise: 19.2638, n1: 0, n2: 0, sum: 19.2638, sigma: inf}
+3.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+3.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+3.6;5;adder;;{noise: 17.7445, n1: 0, n2: 0, sum: 17.7445, sigma: 0}
+3.6;6;noise;noise_out;17.7445
+3.6;6;noise;;{value: -0.41263, sigma: 0.1}
+3.6;1;electrode;;{input: 17.7445, threshold: 25, sigma: inf}
+3.6;5;adder;sum_out;17.7445
+3.6;5;adder;;{noise: 17.7445, n1: 0, n2: 0, sum: 17.7445, sigma: inf}
+3.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+3.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+3.7;5;adder;;{noise: -0.41263, n1: 0, n2: 0, sum: -0.41263, sigma: 0}
+3.7;6;noise;noise_out;-0.41263
+3.7;6;noise;;{value: -8.26144, sigma: 0.1}
+3.7;1;electrode;;{input: -0.41263, threshold: 25, sigma: inf}
+3.7;5;adder;sum_out;-0.41263
+3.7;5;adder;;{noise: -0.41263, n1: 0, n2: 0, sum: -0.41263, sigma: inf}
+3.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+3.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+3.8;5;adder;;{noise: -8.26144, n1: 0, n2: 0, sum: -8.26144, sigma: 0}
+3.8;6;noise;noise_out;-8.26144
+3.8;6;noise;;{value: 2.42203, sigma: 0.1}
+3.8;1;electrode;;{input: -8.26144, threshold: 25, sigma: inf}
+3.8;5;adder;sum_out;-8.26144
+3.8;5;adder;;{noise: -8.26144, n1: 0, n2: 0, sum: -8.26144, sigma: inf}
+3.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+3.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+3.9;5;adder;;{noise: 2.42203, n1: 0, n2: 0, sum: 2.42203, sigma: 0}
+3.9;6;noise;noise_out;2.42203
+3.9;6;noise;;{value: 1.66116, sigma: 0.1}
+3.9;1;electrode;;{input: 2.42203, threshold: 25, sigma: inf}
+3.9;5;adder;sum_out;2.42203
+3.9;5;adder;;{noise: 2.42203, n1: 0, n2: 0, sum: 2.42203, sigma: inf}
+4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+4;5;adder;;{noise: 1.66116, n1: 0, n2: 0, sum: 1.66116, sigma: 0}
+4;6;noise;noise_out;1.66116
+4;6;noise;;{value: -3.81084, sigma: 0.1}
+4;1;electrode;;{input: 1.66116, threshold: 25, sigma: inf}
+4;5;adder;sum_out;1.66116
+4;5;adder;;{noise: 1.66116, n1: 0, n2: 0, sum: 1.66116, sigma: inf}
+4.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+4.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+4.1;5;adder;;{noise: -3.81084, n1: 0, n2: 0, sum: -3.81084, sigma: 0}
+4.1;6;noise;noise_out;-3.81084
+4.1;6;noise;;{value: 2.48605, sigma: 0.1}
+4.1;1;electrode;;{input: -3.81084, threshold: 25, sigma: inf}
+4.1;5;adder;sum_out;-3.81084
+4.1;5;adder;;{noise: -3.81084, n1: 0, n2: 0, sum: -3.81084, sigma: inf}
+4.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+4.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+4.2;5;adder;;{noise: 2.48605, n1: 0, n2: 0, sum: 2.48605, sigma: 0}
+4.2;6;noise;noise_out;2.48605
+4.2;6;noise;;{value: 7.57741, sigma: 0.1}
+4.2;1;electrode;;{input: 2.48605, threshold: 25, sigma: inf}
+4.2;5;adder;sum_out;2.48605
+4.2;5;adder;;{noise: 2.48605, n1: 0, n2: 0, sum: 2.48605, sigma: inf}
+4.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+4.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+4.3;5;adder;;{noise: 7.57741, n1: 0, n2: 0, sum: 7.57741, sigma: 0}
+4.3;6;noise;noise_out;7.57741
+4.3;6;noise;;{value: 10.1266, sigma: 0.1}
+4.3;1;electrode;;{input: 7.57741, threshold: 25, sigma: inf}
+4.3;5;adder;sum_out;7.57741
+4.3;5;adder;;{noise: 7.57741, n1: 0, n2: 0, sum: 7.57741, sigma: inf}
+4.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+4.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+4.4;5;adder;;{noise: 10.1266, n1: 0, n2: 0, sum: 10.1266, sigma: 0}
+4.4;6;noise;noise_out;10.1266
+4.4;6;noise;;{value: -3.33, sigma: 0.1}
+4.4;1;electrode;;{input: 10.1266, threshold: 25, sigma: inf}
+4.4;5;adder;sum_out;10.1266
+4.4;5;adder;;{noise: 10.1266, n1: 0, n2: 0, sum: 10.1266, sigma: inf}
+4.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+4.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+4.5;5;adder;;{noise: -3.33, n1: 0, n2: 0, sum: -3.33, sigma: 0}
+4.5;6;noise;noise_out;-3.33
+4.5;6;noise;;{value: 11.4076, sigma: 0.1}
+4.5;1;electrode;;{input: -3.33, threshold: 25, sigma: inf}
+4.5;5;adder;sum_out;-3.33
+4.5;5;adder;;{noise: -3.33, n1: 0, n2: 0, sum: -3.33, sigma: inf}
+4.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+4.6;4;neuron1;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+4.6;5;adder;;{noise: 11.4076, n1: 0, n2: 0, sum: 11.4076, sigma: 0}
+4.6;6;noise;noise_out;11.4076
+4.6;6;noise;;{value: -4.14887, sigma: 0.1}
+4.6;1;electrode;;{input: 11.4076, threshold: 25, sigma: inf}
+4.6;5;adder;sum_out;11.4076
+4.6;5;adder;;{noise: 11.4076, n1: 0, n2: 0, sum: 11.4076, sigma: inf}
+4.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+4.7;4;neuron1;potential_out;30
+4.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+4.7;5;adder;;{noise: -4.14887, n1: 30, n2: 0, sum: 22.8511, sigma: 0}
+4.7;6;noise;noise_out;-4.14887
+4.7;6;noise;;{value: -14.1668, sigma: 0.1}
+4.7;1;electrode;;{input: 22.8511, threshold: 25, sigma: inf}
+4.7;5;adder;sum_out;22.8511
+4.7;5;adder;;{noise: -4.14887, n1: 30, n2: 0, sum: 22.8511, sigma: inf}
+4.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+4.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+4.8;5;adder;;{noise: -14.1668, n1: 0, n2: 0, sum: -14.1668, sigma: 0}
+4.8;6;noise;noise_out;-14.1668
+4.8;6;noise;;{value: 6.55181, sigma: 0.1}
+4.8;1;electrode;;{input: -14.1668, threshold: 25, sigma: inf}
+4.8;5;adder;sum_out;-14.1668
+4.8;5;adder;;{noise: -14.1668, n1: 0, n2: 0, sum: -14.1668, sigma: inf}
+4.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+4.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+4.9;5;adder;;{noise: 6.55181, n1: 0, n2: 0, sum: 6.55181, sigma: 0}
+4.9;6;noise;noise_out;6.55181
+4.9;6;noise;;{value: 0.985324, sigma: 0.1}
+4.9;1;electrode;;{input: 6.55181, threshold: 25, sigma: inf}
+4.9;5;adder;sum_out;6.55181
+4.9;5;adder;;{noise: 6.55181, n1: 0, n2: 0, sum: 6.55181, sigma: inf}
+5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+5;5;adder;;{noise: 0.985324, n1: 0, n2: 0, sum: 0.985324, sigma: 0}
+5;6;noise;noise_out;0.985324
+5;6;noise;;{value: 8.17808, sigma: 0.1}
+5;1;electrode;;{input: 0.985324, threshold: 25, sigma: inf}
+5;5;adder;sum_out;0.985324
+5;5;adder;;{noise: 0.985324, n1: 0, n2: 0, sum: 0.985324, sigma: inf}
+5.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+5.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+5.1;5;adder;;{noise: 8.17808, n1: 0, n2: 0, sum: 8.17808, sigma: 0}
+5.1;6;noise;noise_out;8.17808
+5.1;6;noise;;{value: -4.69481, sigma: 0.1}
+5.1;1;electrode;;{input: 8.17808, threshold: 25, sigma: inf}
+5.1;5;adder;sum_out;8.17808
+5.1;5;adder;;{noise: 8.17808, n1: 0, n2: 0, sum: 8.17808, sigma: inf}
+5.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+5.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+5.2;5;adder;;{noise: -4.69481, n1: 0, n2: 0, sum: -4.69481, sigma: 0}
+5.2;6;noise;noise_out;-4.69481
+5.2;6;noise;;{value: 4.22821, sigma: 0.1}
+5.2;1;electrode;;{input: -4.69481, threshold: 25, sigma: inf}
+5.2;5;adder;sum_out;-4.69481
+5.2;5;adder;;{noise: -4.69481, n1: 0, n2: 0, sum: -4.69481, sigma: inf}
+5.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+5.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+5.3;5;adder;;{noise: 4.22821, n1: 0, n2: 0, sum: 4.22821, sigma: 0}
+5.3;6;noise;noise_out;4.22821
+5.3;6;noise;;{value: -5.16404, sigma: 0.1}
+5.3;1;electrode;;{input: 4.22821, threshold: 25, sigma: inf}
+5.3;5;adder;sum_out;4.22821
+5.3;5;adder;;{noise: 4.22821, n1: 0, n2: 0, sum: 4.22821, sigma: inf}
+5.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+5.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+5.4;5;adder;;{noise: -5.16404, n1: 0, n2: 0, sum: -5.16404, sigma: 0}
+5.4;6;noise;noise_out;-5.16404
+5.4;6;noise;;{value: -0.6395, sigma: 0.1}
+5.4;1;electrode;;{input: -5.16404, threshold: 25, sigma: inf}
+5.4;5;adder;sum_out;-5.16404
+5.4;5;adder;;{noise: -5.16404, n1: 0, n2: 0, sum: -5.16404, sigma: inf}
+5.5;3;neuron2;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+5.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+5.5;5;adder;;{noise: -0.6395, n1: 0, n2: 0, sum: -0.6395, sigma: 0}
+5.5;6;noise;noise_out;-0.6395
+5.5;6;noise;;{value: 2.57289, sigma: 0.1}
+5.5;1;electrode;;{input: -0.6395, threshold: 25, sigma: inf}
+5.5;5;adder;sum_out;-0.6395
+5.5;5;adder;;{noise: -0.6395, n1: 0, n2: 0, sum: -0.6395, sigma: inf}
+5.6;3;neuron2;potential_out;30
+5.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+5.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+5.6;5;adder;;{noise: 2.57289, n1: 0, n2: 30, sum: 25.0729, sigma: 0}
+5.6;6;noise;noise_out;2.57289
+5.6;6;noise;;{value: 10.3698, sigma: 0.1}
+5.6;1;electrode;;{input: 25.0729, threshold: 25, sigma: 0}
+5.6;5;adder;sum_out;25.0729
+5.6;5;adder;;{noise: 2.57289, n1: 0, n2: 30, sum: 25.0729, sigma: inf}
+5.6;1;electrode;spike_out;1
+5.6;1;electrode;;{input: 25.0729, threshold: 25, sigma: inf}
+5.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+5.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+5.7;5;adder;;{noise: 10.3698, n1: 0, n2: 0, sum: 10.3698, sigma: 0}
+5.7;6;noise;noise_out;10.3698
+5.7;6;noise;;{value: -4.29209, sigma: 0.1}
+5.7;1;electrode;;{input: 10.3698, threshold: 25, sigma: inf}
+5.7;5;adder;sum_out;10.3698
+5.7;5;adder;;{noise: 10.3698, n1: 0, n2: 0, sum: 10.3698, sigma: inf}
+5.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+5.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+5.8;5;adder;;{noise: -4.29209, n1: 0, n2: 0, sum: -4.29209, sigma: 0}
+5.8;6;noise;noise_out;-4.29209
+5.8;6;noise;;{value: 5.59485, sigma: 0.1}
+5.8;1;electrode;;{input: -4.29209, threshold: 25, sigma: inf}
+5.8;5;adder;sum_out;-4.29209
+5.8;5;adder;;{noise: -4.29209, n1: 0, n2: 0, sum: -4.29209, sigma: inf}
+5.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+5.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+5.9;5;adder;;{noise: 5.59485, n1: 0, n2: 0, sum: 5.59485, sigma: 0}
+5.9;6;noise;noise_out;5.59485
+5.9;6;noise;;{value: -5.589, sigma: 0.1}
+5.9;1;electrode;;{input: 5.59485, threshold: 25, sigma: inf}
+5.9;5;adder;sum_out;5.59485
+5.9;5;adder;;{noise: 5.59485, n1: 0, n2: 0, sum: 5.59485, sigma: inf}
+6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+6;5;adder;;{noise: -5.589, n1: 0, n2: 0, sum: -5.589, sigma: 0}
+6;6;noise;noise_out;-5.589
+6;6;noise;;{value: 0.304932, sigma: 0.1}
+6;1;electrode;;{input: -5.589, threshold: 25, sigma: inf}
+6;5;adder;sum_out;-5.589
+6;5;adder;;{noise: -5.589, n1: 0, n2: 0, sum: -5.589, sigma: inf}
+6.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+6.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+6.1;5;adder;;{noise: 0.304932, n1: 0, n2: 0, sum: 0.304932, sigma: 0}
+6.1;6;noise;noise_out;0.304932
+6.1;6;noise;;{value: 1.78128, sigma: 0.1}
+6.1;1;electrode;;{input: 0.304932, threshold: 25, sigma: inf}
+6.1;5;adder;sum_out;0.304932
+6.1;5;adder;;{noise: 0.304932, n1: 0, n2: 0, sum: 0.304932, sigma: inf}
+6.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+6.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+6.2;5;adder;;{noise: 1.78128, n1: 0, n2: 0, sum: 1.78128, sigma: 0}
+6.2;6;noise;noise_out;1.78128
+6.2;6;noise;;{value: -5.40794, sigma: 0.1}
+6.2;1;electrode;;{input: 1.78128, threshold: 25, sigma: inf}
+6.2;5;adder;sum_out;1.78128
+6.2;5;adder;;{noise: 1.78128, n1: 0, n2: 0, sum: 1.78128, sigma: inf}
+6.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+6.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+6.3;5;adder;;{noise: -5.40794, n1: 0, n2: 0, sum: -5.40794, sigma: 0}
+6.3;6;noise;noise_out;-5.40794
+6.3;6;noise;;{value: -1.28912, sigma: 0.1}
+6.3;1;electrode;;{input: -5.40794, threshold: 25, sigma: inf}
+6.3;5;adder;sum_out;-5.40794
+6.3;5;adder;;{noise: -5.40794, n1: 0, n2: 0, sum: -5.40794, sigma: inf}
+6.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+6.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+6.4;5;adder;;{noise: -1.28912, n1: 0, n2: 0, sum: -1.28912, sigma: 0}
+6.4;6;noise;noise_out;-1.28912
+6.4;6;noise;;{value: 7.03965, sigma: 0.1}
+6.4;1;electrode;;{input: -1.28912, threshold: 25, sigma: inf}
+6.4;5;adder;sum_out;-1.28912
+6.4;5;adder;;{noise: -1.28912, n1: 0, n2: 0, sum: -1.28912, sigma: inf}
+6.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+6.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+6.5;5;adder;;{noise: 7.03965, n1: 0, n2: 0, sum: 7.03965, sigma: 0}
+6.5;6;noise;noise_out;7.03965
+6.5;6;noise;;{value: 3.9427, sigma: 0.1}
+6.5;1;electrode;;{input: 7.03965, threshold: 25, sigma: inf}
+6.5;5;adder;sum_out;7.03965
+6.5;5;adder;;{noise: 7.03965, n1: 0, n2: 0, sum: 7.03965, sigma: inf}
+6.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+6.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+6.6;5;adder;;{noise: 3.9427, n1: 0, n2: 0, sum: 3.9427, sigma: 0}
+6.6;6;noise;noise_out;3.9427
+6.6;6;noise;;{value: -6.84128, sigma: 0.1}
+6.6;1;electrode;;{input: 3.9427, threshold: 25, sigma: inf}
+6.6;5;adder;sum_out;3.9427
+6.6;5;adder;;{noise: 3.9427, n1: 0, n2: 0, sum: 3.9427, sigma: inf}
+6.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+6.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+6.7;5;adder;;{noise: -6.84128, n1: 0, n2: 0, sum: -6.84128, sigma: 0}
+6.7;6;noise;noise_out;-6.84128
+6.7;6;noise;;{value: 12.4686, sigma: 0.1}
+6.7;1;electrode;;{input: -6.84128, threshold: 25, sigma: inf}
+6.7;5;adder;sum_out;-6.84128
+6.7;5;adder;;{noise: -6.84128, n1: 0, n2: 0, sum: -6.84128, sigma: inf}
+6.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+6.8;4;neuron1;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+6.8;5;adder;;{noise: 12.4686, n1: 0, n2: 0, sum: 12.4686, sigma: 0}
+6.8;6;noise;noise_out;12.4686
+6.8;6;noise;;{value: 13.2982, sigma: 0.1}
+6.8;1;electrode;;{input: 12.4686, threshold: 25, sigma: inf}
+6.8;5;adder;sum_out;12.4686
+6.8;5;adder;;{noise: 12.4686, n1: 0, n2: 0, sum: 12.4686, sigma: inf}
+6.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+6.9;4;neuron1;potential_out;30
+6.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+6.9;5;adder;;{noise: 13.2982, n1: 30, n2: 0, sum: 40.2982, sigma: 0}
+6.9;6;noise;noise_out;13.2982
+6.9;6;noise;;{value: -7.23359, sigma: 0.1}
+6.9;1;electrode;;{input: 40.2982, threshold: 25, sigma: 0}
+6.9;5;adder;sum_out;40.2982
+6.9;5;adder;;{noise: 13.2982, n1: 30, n2: 0, sum: 40.2982, sigma: inf}
+6.9;1;electrode;spike_out;1
+6.9;1;electrode;;{input: 40.2982, threshold: 25, sigma: inf}
+7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+7;5;adder;;{noise: -7.23359, n1: 0, n2: 0, sum: -7.23359, sigma: 0}
+7;6;noise;noise_out;-7.23359
+7;6;noise;;{value: -2.45295, sigma: 0.1}
+7;1;electrode;;{input: -7.23359, threshold: 25, sigma: inf}
+7;5;adder;sum_out;-7.23359
+7;5;adder;;{noise: -7.23359, n1: 0, n2: 0, sum: -7.23359, sigma: inf}
+7.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+7.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+7.1;5;adder;;{noise: -2.45295, n1: 0, n2: 0, sum: -2.45295, sigma: 0}
+7.1;6;noise;noise_out;-2.45295
+7.1;6;noise;;{value: -10.5172, sigma: 0.1}
+7.1;1;electrode;;{input: -2.45295, threshold: 25, sigma: inf}
+7.1;5;adder;sum_out;-2.45295
+7.1;5;adder;;{noise: -2.45295, n1: 0, n2: 0, sum: -2.45295, sigma: inf}
+7.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+7.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+7.2;5;adder;;{noise: -10.5172, n1: 0, n2: 0, sum: -10.5172, sigma: 0}
+7.2;6;noise;noise_out;-10.5172
+7.2;6;noise;;{value: -10.1452, sigma: 0.1}
+7.2;1;electrode;;{input: -10.5172, threshold: 25, sigma: inf}
+7.2;5;adder;sum_out;-10.5172
+7.2;5;adder;;{noise: -10.5172, n1: 0, n2: 0, sum: -10.5172, sigma: inf}
+7.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+7.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+7.3;5;adder;;{noise: -10.1452, n1: 0, n2: 0, sum: -10.1452, sigma: 0}
+7.3;6;noise;noise_out;-10.1452
+7.3;6;noise;;{value: -4.42987, sigma: 0.1}
+7.3;1;electrode;;{input: -10.1452, threshold: 25, sigma: inf}
+7.3;5;adder;sum_out;-10.1452
+7.3;5;adder;;{noise: -10.1452, n1: 0, n2: 0, sum: -10.1452, sigma: inf}
+7.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+7.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+7.4;5;adder;;{noise: -4.42987, n1: 0, n2: 0, sum: -4.42987, sigma: 0}
+7.4;6;noise;noise_out;-4.42987
+7.4;6;noise;;{value: 15.8371, sigma: 0.1}
+7.4;1;electrode;;{input: -4.42987, threshold: 25, sigma: inf}
+7.4;5;adder;sum_out;-4.42987
+7.4;5;adder;;{noise: -4.42987, n1: 0, n2: 0, sum: -4.42987, sigma: inf}
+7.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+7.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+7.5;5;adder;;{noise: 15.8371, n1: 0, n2: 0, sum: 15.8371, sigma: 0}
+7.5;6;noise;noise_out;15.8371
+7.5;6;noise;;{value: 3.9524, sigma: 0.1}
+7.5;1;electrode;;{input: 15.8371, threshold: 25, sigma: inf}
+7.5;5;adder;sum_out;15.8371
+7.5;5;adder;;{noise: 15.8371, n1: 0, n2: 0, sum: 15.8371, sigma: inf}
+7.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+7.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+7.6;5;adder;;{noise: 3.9524, n1: 0, n2: 0, sum: 3.9524, sigma: 0}
+7.6;6;noise;noise_out;3.9524
+7.6;6;noise;;{value: 8.4766, sigma: 0.1}
+7.6;1;electrode;;{input: 3.9524, threshold: 25, sigma: inf}
+7.6;5;adder;sum_out;3.9524
+7.6;5;adder;;{noise: 3.9524, n1: 0, n2: 0, sum: 3.9524, sigma: inf}
+7.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+7.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+7.7;5;adder;;{noise: 8.4766, n1: 0, n2: 0, sum: 8.4766, sigma: 0}
+7.7;6;noise;noise_out;8.4766
+7.7;6;noise;;{value: 5.70241, sigma: 0.1}
+7.7;1;electrode;;{input: 8.4766, threshold: 25, sigma: inf}
+7.7;5;adder;sum_out;8.4766
+7.7;5;adder;;{noise: 8.4766, n1: 0, n2: 0, sum: 8.4766, sigma: inf}
+7.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+7.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+7.8;5;adder;;{noise: 5.70241, n1: 0, n2: 0, sum: 5.70241, sigma: 0}
+7.8;6;noise;noise_out;5.70241
+7.8;6;noise;;{value: 5.03663, sigma: 0.1}
+7.8;1;electrode;;{input: 5.70241, threshold: 25, sigma: inf}
+7.8;5;adder;sum_out;5.70241
+7.8;5;adder;;{noise: 5.70241, n1: 0, n2: 0, sum: 5.70241, sigma: inf}
+7.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+7.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+7.9;5;adder;;{noise: 5.03663, n1: 0, n2: 0, sum: 5.03663, sigma: 0}
+7.9;6;noise;noise_out;5.03663
+7.9;6;noise;;{value: 13.1761, sigma: 0.1}
+7.9;1;electrode;;{input: 5.03663, threshold: 25, sigma: inf}
+7.9;5;adder;sum_out;5.03663
+7.9;5;adder;;{noise: 5.03663, n1: 0, n2: 0, sum: 5.03663, sigma: inf}
+8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+8;5;adder;;{noise: 13.1761, n1: 0, n2: 0, sum: 13.1761, sigma: 0}
+8;6;noise;noise_out;13.1761
+8;6;noise;;{value: -7.26896, sigma: 0.1}
+8;1;electrode;;{input: 13.1761, threshold: 25, sigma: inf}
+8;5;adder;sum_out;13.1761
+8;5;adder;;{noise: 13.1761, n1: 0, n2: 0, sum: 13.1761, sigma: inf}
+8.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+8.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+8.1;5;adder;;{noise: -7.26896, n1: 0, n2: 0, sum: -7.26896, sigma: 0}
+8.1;6;noise;noise_out;-7.26896
+8.1;6;noise;;{value: -6.34111, sigma: 0.1}
+8.1;1;electrode;;{input: -7.26896, threshold: 25, sigma: inf}
+8.1;5;adder;sum_out;-7.26896
+8.1;5;adder;;{noise: -7.26896, n1: 0, n2: 0, sum: -7.26896, sigma: inf}
+8.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+8.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+8.2;5;adder;;{noise: -6.34111, n1: 0, n2: 0, sum: -6.34111, sigma: 0}
+8.2;6;noise;noise_out;-6.34111
+8.2;6;noise;;{value: -12.3002, sigma: 0.1}
+8.2;1;electrode;;{input: -6.34111, threshold: 25, sigma: inf}
+8.2;5;adder;sum_out;-6.34111
+8.2;5;adder;;{noise: -6.34111, n1: 0, n2: 0, sum: -6.34111, sigma: inf}
+8.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+8.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+8.3;5;adder;;{noise: -12.3002, n1: 0, n2: 0, sum: -12.3002, sigma: 0}
+8.3;6;noise;noise_out;-12.3002
+8.3;6;noise;;{value: 9.85017, sigma: 0.1}
+8.3;1;electrode;;{input: -12.3002, threshold: 25, sigma: inf}
+8.3;5;adder;sum_out;-12.3002
+8.3;5;adder;;{noise: -12.3002, n1: 0, n2: 0, sum: -12.3002, sigma: inf}
+8.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+8.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+8.4;5;adder;;{noise: 9.85017, n1: 0, n2: 0, sum: 9.85017, sigma: 0}
+8.4;6;noise;noise_out;9.85017
+8.4;6;noise;;{value: -2.38435, sigma: 0.1}
+8.4;1;electrode;;{input: 9.85017, threshold: 25, sigma: inf}
+8.4;5;adder;sum_out;9.85017
+8.4;5;adder;;{noise: 9.85017, n1: 0, n2: 0, sum: 9.85017, sigma: inf}
+8.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+8.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+8.5;5;adder;;{noise: -2.38435, n1: 0, n2: 0, sum: -2.38435, sigma: 0}
+8.5;6;noise;noise_out;-2.38435
+8.5;6;noise;;{value: 3.91054, sigma: 0.1}
+8.5;1;electrode;;{input: -2.38435, threshold: 25, sigma: inf}
+8.5;5;adder;sum_out;-2.38435
+8.5;5;adder;;{noise: -2.38435, n1: 0, n2: 0, sum: -2.38435, sigma: inf}
+8.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+8.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+8.6;5;adder;;{noise: 3.91054, n1: 0, n2: 0, sum: 3.91054, sigma: 0}
+8.6;6;noise;noise_out;3.91054
+8.6;6;noise;;{value: -5.55835, sigma: 0.1}
+8.6;1;electrode;;{input: 3.91054, threshold: 25, sigma: inf}
+8.6;5;adder;sum_out;3.91054
+8.6;5;adder;;{noise: 3.91054, n1: 0, n2: 0, sum: 3.91054, sigma: inf}
+8.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+8.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+8.7;5;adder;;{noise: -5.55835, n1: 0, n2: 0, sum: -5.55835, sigma: 0}
+8.7;6;noise;noise_out;-5.55835
+8.7;6;noise;;{value: -2.33776, sigma: 0.1}
+8.7;1;electrode;;{input: -5.55835, threshold: 25, sigma: inf}
+8.7;5;adder;sum_out;-5.55835
+8.7;5;adder;;{noise: -5.55835, n1: 0, n2: 0, sum: -5.55835, sigma: inf}
+8.8;3;neuron2;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+8.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+8.8;5;adder;;{noise: -2.33776, n1: 0, n2: 0, sum: -2.33776, sigma: 0}
+8.8;6;noise;noise_out;-2.33776
+8.8;6;noise;;{value: 3.21268, sigma: 0.1}
+8.8;1;electrode;;{input: -2.33776, threshold: 25, sigma: inf}
+8.8;5;adder;sum_out;-2.33776
+8.8;5;adder;;{noise: -2.33776, n1: 0, n2: 0, sum: -2.33776, sigma: inf}
+8.9;3;neuron2;potential_out;30
+8.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+8.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+8.9;5;adder;;{noise: 3.21268, n1: 0, n2: 30, sum: 25.7127, sigma: 0}
+8.9;6;noise;noise_out;3.21268
+8.9;6;noise;;{value: -0.00196992, sigma: 0.1}
+8.9;1;electrode;;{input: 25.7127, threshold: 25, sigma: 0}
+8.9;5;adder;sum_out;25.7127
+8.9;5;adder;;{noise: 3.21268, n1: 0, n2: 30, sum: 25.7127, sigma: inf}
+8.9;1;electrode;spike_out;1
+8.9;1;electrode;;{input: 25.7127, threshold: 25, sigma: inf}
+9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+9;5;adder;;{noise: -0.00196992, n1: 0, n2: 0, sum: -0.00196992, sigma: 0}
+9;6;noise;noise_out;-0.00196992
+9;6;noise;;{value: 5.19892, sigma: 0.1}
+9;1;electrode;;{input: -0.00196992, threshold: 25, sigma: inf}
+9;5;adder;sum_out;-0.00196992
+9;5;adder;;{noise: -0.00196992, n1: 0, n2: 0, sum: -0.00196992, sigma: inf}
+9.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+9.1;4;neuron1;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+9.1;5;adder;;{noise: 5.19892, n1: 0, n2: 0, sum: 5.19892, sigma: 0}
+9.1;6;noise;noise_out;5.19892
+9.1;6;noise;;{value: -1.29872, sigma: 0.1}
+9.1;1;electrode;;{input: 5.19892, threshold: 25, sigma: inf}
+9.1;5;adder;sum_out;5.19892
+9.1;5;adder;;{noise: 5.19892, n1: 0, n2: 0, sum: 5.19892, sigma: inf}
+9.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+9.2;4;neuron1;potential_out;30
+9.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+9.2;5;adder;;{noise: -1.29872, n1: 30, n2: 0, sum: 25.7013, sigma: 0}
+9.2;6;noise;noise_out;-1.29872
+9.2;6;noise;;{value: -11.402, sigma: 0.1}
+9.2;1;electrode;;{input: 25.7013, threshold: 25, sigma: 0}
+9.2;5;adder;sum_out;25.7013
+9.2;5;adder;;{noise: -1.29872, n1: 30, n2: 0, sum: 25.7013, sigma: inf}
+9.2;1;electrode;spike_out;1
+9.2;1;electrode;;{input: 25.7013, threshold: 25, sigma: inf}
+9.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+9.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+9.3;5;adder;;{noise: -11.402, n1: 0, n2: 0, sum: -11.402, sigma: 0}
+9.3;6;noise;noise_out;-11.402
+9.3;6;noise;;{value: 18.4877, sigma: 0.1}
+9.3;1;electrode;;{input: -11.402, threshold: 25, sigma: inf}
+9.3;5;adder;sum_out;-11.402
+9.3;5;adder;;{noise: -11.402, n1: 0, n2: 0, sum: -11.402, sigma: inf}
+9.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+9.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+9.4;5;adder;;{noise: 18.4877, n1: 0, n2: 0, sum: 18.4877, sigma: 0}
+9.4;6;noise;noise_out;18.4877
+9.4;6;noise;;{value: 9.88628, sigma: 0.1}
+9.4;1;electrode;;{input: 18.4877, threshold: 25, sigma: inf}
+9.4;5;adder;sum_out;18.4877
+9.4;5;adder;;{noise: 18.4877, n1: 0, n2: 0, sum: 18.4877, sigma: inf}
+9.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+9.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+9.5;5;adder;;{noise: 9.88628, n1: 0, n2: 0, sum: 9.88628, sigma: 0}
+9.5;6;noise;noise_out;9.88628
+9.5;6;noise;;{value: -36.1236, sigma: 0.1}
+9.5;1;electrode;;{input: 9.88628, threshold: 25, sigma: inf}
+9.5;5;adder;sum_out;9.88628
+9.5;5;adder;;{noise: 9.88628, n1: 0, n2: 0, sum: 9.88628, sigma: inf}
+9.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+9.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+9.6;5;adder;;{noise: -36.1236, n1: 0, n2: 0, sum: -36.1236, sigma: 0}
+9.6;6;noise;noise_out;-36.1236
+9.6;6;noise;;{value: 13.4665, sigma: 0.1}
+9.6;1;electrode;;{input: -36.1236, threshold: 25, sigma: inf}
+9.6;5;adder;sum_out;-36.1236
+9.6;5;adder;;{noise: -36.1236, n1: 0, n2: 0, sum: -36.1236, sigma: inf}
+9.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+9.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+9.7;5;adder;;{noise: 13.4665, n1: 0, n2: 0, sum: 13.4665, sigma: 0}
+9.7;6;noise;noise_out;13.4665
+9.7;6;noise;;{value: 4.91775, sigma: 0.1}
+9.7;1;electrode;;{input: 13.4665, threshold: 25, sigma: inf}
+9.7;5;adder;sum_out;13.4665
+9.7;5;adder;;{noise: 13.4665, n1: 0, n2: 0, sum: 13.4665, sigma: inf}
+9.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+9.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+9.8;5;adder;;{noise: 4.91775, n1: 0, n2: 0, sum: 4.91775, sigma: 0}
+9.8;6;noise;noise_out;4.91775
+9.8;6;noise;;{value: -8.60811, sigma: 0.1}
+9.8;1;electrode;;{input: 4.91775, threshold: 25, sigma: inf}
+9.8;5;adder;sum_out;4.91775
+9.8;5;adder;;{noise: 4.91775, n1: 0, n2: 0, sum: 4.91775, sigma: inf}
+9.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+9.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+9.9;5;adder;;{noise: -8.60811, n1: 0, n2: 0, sum: -8.60811, sigma: 0}
+9.9;6;noise;noise_out;-8.60811
+9.9;6;noise;;{value: -3.1383, sigma: 0.1}
+9.9;1;electrode;;{input: -8.60811, threshold: 25, sigma: inf}
+9.9;5;adder;sum_out;-8.60811
+9.9;5;adder;;{noise: -8.60811, n1: 0, n2: 0, sum: -8.60811, sigma: inf}
+10;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+10;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+10;5;adder;;{noise: -3.1383, n1: 0, n2: 0, sum: -3.1383, sigma: 0}
+10;6;noise;noise_out;-3.1383
+10;6;noise;;{value: -10.1838, sigma: 0.1}
+10;1;electrode;;{input: -3.1383, threshold: 25, sigma: inf}
+10;5;adder;sum_out;-3.1383
+10;5;adder;;{noise: -3.1383, n1: 0, n2: 0, sum: -3.1383, sigma: inf}
+10.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+10.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+10.1;5;adder;;{noise: -10.1838, n1: 0, n2: 0, sum: -10.1838, sigma: 0}
+10.1;6;noise;noise_out;-10.1838
+10.1;6;noise;;{value: 15.9427, sigma: 0.1}
+10.1;1;electrode;;{input: -10.1838, threshold: 25, sigma: inf}
+10.1;5;adder;sum_out;-10.1838
+10.1;5;adder;;{noise: -10.1838, n1: 0, n2: 0, sum: -10.1838, sigma: inf}
+10.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+10.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+10.2;5;adder;;{noise: 15.9427, n1: 0, n2: 0, sum: 15.9427, sigma: 0}
+10.2;6;noise;noise_out;15.9427
+10.2;6;noise;;{value: 6.02313, sigma: 0.1}
+10.2;1;electrode;;{input: 15.9427, threshold: 25, sigma: inf}
+10.2;5;adder;sum_out;15.9427
+10.2;5;adder;;{noise: 15.9427, n1: 0, n2: 0, sum: 15.9427, sigma: inf}
+10.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+10.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+10.3;5;adder;;{noise: 6.02313, n1: 0, n2: 0, sum: 6.02313, sigma: 0}
+10.3;6;noise;noise_out;6.02313
+10.3;6;noise;;{value: -5.46641, sigma: 0.1}
+10.3;1;electrode;;{input: 6.02313, threshold: 25, sigma: inf}
+10.3;5;adder;sum_out;6.02313
+10.3;5;adder;;{noise: 6.02313, n1: 0, n2: 0, sum: 6.02313, sigma: inf}
+10.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+10.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+10.4;5;adder;;{noise: -5.46641, n1: 0, n2: 0, sum: -5.46641, sigma: 0}
+10.4;6;noise;noise_out;-5.46641
+10.4;6;noise;;{value: 1.08594, sigma: 0.1}
+10.4;1;electrode;;{input: -5.46641, threshold: 25, sigma: inf}
+10.4;5;adder;sum_out;-5.46641
+10.4;5;adder;;{noise: -5.46641, n1: 0, n2: 0, sum: -5.46641, sigma: inf}
+10.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+10.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+10.5;5;adder;;{noise: 1.08594, n1: 0, n2: 0, sum: 1.08594, sigma: 0}
+10.5;6;noise;noise_out;1.08594
+10.5;6;noise;;{value: -5.19758, sigma: 0.1}
+10.5;1;electrode;;{input: 1.08594, threshold: 25, sigma: inf}
+10.5;5;adder;sum_out;1.08594
+10.5;5;adder;;{noise: 1.08594, n1: 0, n2: 0, sum: 1.08594, sigma: inf}
+10.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+10.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+10.6;5;adder;;{noise: -5.19758, n1: 0, n2: 0, sum: -5.19758, sigma: 0}
+10.6;6;noise;noise_out;-5.19758
+10.6;6;noise;;{value: 17.6832, sigma: 0.1}
+10.6;1;electrode;;{input: -5.19758, threshold: 25, sigma: inf}
+10.6;5;adder;sum_out;-5.19758
+10.6;5;adder;;{noise: -5.19758, n1: 0, n2: 0, sum: -5.19758, sigma: inf}
+10.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+10.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+10.7;5;adder;;{noise: 17.6832, n1: 0, n2: 0, sum: 17.6832, sigma: 0}
+10.7;6;noise;noise_out;17.6832
+10.7;6;noise;;{value: 2.93164, sigma: 0.1}
+10.7;1;electrode;;{input: 17.6832, threshold: 25, sigma: inf}
+10.7;5;adder;sum_out;17.6832
+10.7;5;adder;;{noise: 17.6832, n1: 0, n2: 0, sum: 17.6832, sigma: inf}
+10.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+10.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+10.8;5;adder;;{noise: 2.93164, n1: 0, n2: 0, sum: 2.93164, sigma: 0}
+10.8;6;noise;noise_out;2.93164
+10.8;6;noise;;{value: -4.29632, sigma: 0.1}
+10.8;1;electrode;;{input: 2.93164, threshold: 25, sigma: inf}
+10.8;5;adder;sum_out;2.93164
+10.8;5;adder;;{noise: 2.93164, n1: 0, n2: 0, sum: 2.93164, sigma: inf}
+10.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+10.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+10.9;5;adder;;{noise: -4.29632, n1: 0, n2: 0, sum: -4.29632, sigma: 0}
+10.9;6;noise;noise_out;-4.29632
+10.9;6;noise;;{value: 2.48753, sigma: 0.1}
+10.9;1;electrode;;{input: -4.29632, threshold: 25, sigma: inf}
+10.9;5;adder;sum_out;-4.29632
+10.9;5;adder;;{noise: -4.29632, n1: 0, n2: 0, sum: -4.29632, sigma: inf}
+11;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+11;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+11;5;adder;;{noise: 2.48753, n1: 0, n2: 0, sum: 2.48753, sigma: 0}
+11;6;noise;noise_out;2.48753
+11;6;noise;;{value: -12.4664, sigma: 0.1}
+11;1;electrode;;{input: 2.48753, threshold: 25, sigma: inf}
+11;5;adder;sum_out;2.48753
+11;5;adder;;{noise: 2.48753, n1: 0, n2: 0, sum: 2.48753, sigma: inf}
+11.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+11.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+11.1;5;adder;;{noise: -12.4664, n1: 0, n2: 0, sum: -12.4664, sigma: 0}
+11.1;6;noise;noise_out;-12.4664
+11.1;6;noise;;{value: -3.26306, sigma: 0.1}
+11.1;1;electrode;;{input: -12.4664, threshold: 25, sigma: inf}
+11.1;5;adder;sum_out;-12.4664
+11.1;5;adder;;{noise: -12.4664, n1: 0, n2: 0, sum: -12.4664, sigma: inf}
+11.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+11.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+11.2;5;adder;;{noise: -3.26306, n1: 0, n2: 0, sum: -3.26306, sigma: 0}
+11.2;6;noise;noise_out;-3.26306
+11.2;6;noise;;{value: -12.492, sigma: 0.1}
+11.2;1;electrode;;{input: -3.26306, threshold: 25, sigma: inf}
+11.2;5;adder;sum_out;-3.26306
+11.2;5;adder;;{noise: -3.26306, n1: 0, n2: 0, sum: -3.26306, sigma: inf}
+11.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+11.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+11.3;5;adder;;{noise: -12.492, n1: 0, n2: 0, sum: -12.492, sigma: 0}
+11.3;6;noise;noise_out;-12.492
+11.3;6;noise;;{value: -17.4584, sigma: 0.1}
+11.3;1;electrode;;{input: -12.492, threshold: 25, sigma: inf}
+11.3;5;adder;sum_out;-12.492
+11.3;5;adder;;{noise: -12.492, n1: 0, n2: 0, sum: -12.492, sigma: inf}
+11.4;3;neuron2;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+11.4;4;neuron1;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+11.4;5;adder;;{noise: -17.4584, n1: 0, n2: 0, sum: -17.4584, sigma: 0}
+11.4;6;noise;noise_out;-17.4584
+11.4;6;noise;;{value: 3.7145, sigma: 0.1}
+11.4;1;electrode;;{input: -17.4584, threshold: 25, sigma: inf}
+11.4;5;adder;sum_out;-17.4584
+11.4;5;adder;;{noise: -17.4584, n1: 0, n2: 0, sum: -17.4584, sigma: inf}
+11.5;3;neuron2;potential_out;30
+11.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+11.5;4;neuron1;potential_out;30
+11.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+11.5;5;adder;;{noise: 3.7145, n1: 30, n2: 30, sum: 53.2145, sigma: 0}
+11.5;6;noise;noise_out;3.7145
+11.5;6;noise;;{value: -9.2826, sigma: 0.1}
+11.5;1;electrode;;{input: 53.2145, threshold: 25, sigma: 0}
+11.5;5;adder;sum_out;53.2145
+11.5;5;adder;;{noise: 3.7145, n1: 30, n2: 30, sum: 53.2145, sigma: inf}
+11.5;1;electrode;spike_out;1
+11.5;1;electrode;;{input: 53.2145, threshold: 25, sigma: inf}
+11.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+11.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+11.6;5;adder;;{noise: -9.2826, n1: 0, n2: 0, sum: -9.2826, sigma: 0}
+11.6;6;noise;noise_out;-9.2826
+11.6;6;noise;;{value: -11.9628, sigma: 0.1}
+11.6;1;electrode;;{input: -9.2826, threshold: 25, sigma: inf}
+11.6;5;adder;sum_out;-9.2826
+11.6;5;adder;;{noise: -9.2826, n1: 0, n2: 0, sum: -9.2826, sigma: inf}
+11.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+11.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+11.7;5;adder;;{noise: -11.9628, n1: 0, n2: 0, sum: -11.9628, sigma: 0}
+11.7;6;noise;noise_out;-11.9628
+11.7;6;noise;;{value: 8.081, sigma: 0.1}
+11.7;1;electrode;;{input: -11.9628, threshold: 25, sigma: inf}
+11.7;5;adder;sum_out;-11.9628
+11.7;5;adder;;{noise: -11.9628, n1: 0, n2: 0, sum: -11.9628, sigma: inf}
+11.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+11.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+11.8;5;adder;;{noise: 8.081, n1: 0, n2: 0, sum: 8.081, sigma: 0}
+11.8;6;noise;noise_out;8.081
+11.8;6;noise;;{value: -16.0522, sigma: 0.1}
+11.8;1;electrode;;{input: 8.081, threshold: 25, sigma: inf}
+11.8;5;adder;sum_out;8.081
+11.8;5;adder;;{noise: 8.081, n1: 0, n2: 0, sum: 8.081, sigma: inf}
+11.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+11.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+11.9;5;adder;;{noise: -16.0522, n1: 0, n2: 0, sum: -16.0522, sigma: 0}
+11.9;6;noise;noise_out;-16.0522
+11.9;6;noise;;{value: -2.12782, sigma: 0.1}
+11.9;1;electrode;;{input: -16.0522, threshold: 25, sigma: inf}
+11.9;5;adder;sum_out;-16.0522
+11.9;5;adder;;{noise: -16.0522, n1: 0, n2: 0, sum: -16.0522, sigma: inf}
+12;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+12;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+12;5;adder;;{noise: -2.12782, n1: 0, n2: 0, sum: -2.12782, sigma: 0}
+12;6;noise;noise_out;-2.12782
+12;6;noise;;{value: 7.45763, sigma: 0.1}
+12;1;electrode;;{input: -2.12782, threshold: 25, sigma: inf}
+12;5;adder;sum_out;-2.12782
+12;5;adder;;{noise: -2.12782, n1: 0, n2: 0, sum: -2.12782, sigma: inf}
+12.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+12.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+12.1;5;adder;;{noise: 7.45763, n1: 0, n2: 0, sum: 7.45763, sigma: 0}
+12.1;6;noise;noise_out;7.45763
+12.1;6;noise;;{value: -7.8999, sigma: 0.1}
+12.1;1;electrode;;{input: 7.45763, threshold: 25, sigma: inf}
+12.1;5;adder;sum_out;7.45763
+12.1;5;adder;;{noise: 7.45763, n1: 0, n2: 0, sum: 7.45763, sigma: inf}
+12.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+12.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+12.2;5;adder;;{noise: -7.8999, n1: 0, n2: 0, sum: -7.8999, sigma: 0}
+12.2;6;noise;noise_out;-7.8999
+12.2;6;noise;;{value: -10.872, sigma: 0.1}
+12.2;1;electrode;;{input: -7.8999, threshold: 25, sigma: inf}
+12.2;5;adder;sum_out;-7.8999
+12.2;5;adder;;{noise: -7.8999, n1: 0, n2: 0, sum: -7.8999, sigma: inf}
+12.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+12.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+12.3;5;adder;;{noise: -10.872, n1: 0, n2: 0, sum: -10.872, sigma: 0}
+12.3;6;noise;noise_out;-10.872
+12.3;6;noise;;{value: 17.1176, sigma: 0.1}
+12.3;1;electrode;;{input: -10.872, threshold: 25, sigma: inf}
+12.3;5;adder;sum_out;-10.872
+12.3;5;adder;;{noise: -10.872, n1: 0, n2: 0, sum: -10.872, sigma: inf}
+12.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+12.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+12.4;5;adder;;{noise: 17.1176, n1: 0, n2: 0, sum: 17.1176, sigma: 0}
+12.4;6;noise;noise_out;17.1176
+12.4;6;noise;;{value: 8.88555, sigma: 0.1}
+12.4;1;electrode;;{input: 17.1176, threshold: 25, sigma: inf}
+12.4;5;adder;sum_out;17.1176
+12.4;5;adder;;{noise: 17.1176, n1: 0, n2: 0, sum: 17.1176, sigma: inf}
+12.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+12.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+12.5;5;adder;;{noise: 8.88555, n1: 0, n2: 0, sum: 8.88555, sigma: 0}
+12.5;6;noise;noise_out;8.88555
+12.5;6;noise;;{value: -4.748, sigma: 0.1}
+12.5;1;electrode;;{input: 8.88555, threshold: 25, sigma: inf}
+12.5;5;adder;sum_out;8.88555
+12.5;5;adder;;{noise: 8.88555, n1: 0, n2: 0, sum: 8.88555, sigma: inf}
+12.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+12.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+12.6;5;adder;;{noise: -4.748, n1: 0, n2: 0, sum: -4.748, sigma: 0}
+12.6;6;noise;noise_out;-4.748
+12.6;6;noise;;{value: -1.44193, sigma: 0.1}
+12.6;1;electrode;;{input: -4.748, threshold: 25, sigma: inf}
+12.6;5;adder;sum_out;-4.748
+12.6;5;adder;;{noise: -4.748, n1: 0, n2: 0, sum: -4.748, sigma: inf}
+12.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+12.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+12.7;5;adder;;{noise: -1.44193, n1: 0, n2: 0, sum: -1.44193, sigma: 0}
+12.7;6;noise;noise_out;-1.44193
+12.7;6;noise;;{value: -12.574, sigma: 0.1}
+12.7;1;electrode;;{input: -1.44193, threshold: 25, sigma: inf}
+12.7;5;adder;sum_out;-1.44193
+12.7;5;adder;;{noise: -1.44193, n1: 0, n2: 0, sum: -1.44193, sigma: inf}
+12.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+12.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+12.8;5;adder;;{noise: -12.574, n1: 0, n2: 0, sum: -12.574, sigma: 0}
+12.8;6;noise;noise_out;-12.574
+12.8;6;noise;;{value: 4.56875, sigma: 0.1}
+12.8;1;electrode;;{input: -12.574, threshold: 25, sigma: inf}
+12.8;5;adder;sum_out;-12.574
+12.8;5;adder;;{noise: -12.574, n1: 0, n2: 0, sum: -12.574, sigma: inf}
+12.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+12.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+12.9;5;adder;;{noise: 4.56875, n1: 0, n2: 0, sum: 4.56875, sigma: 0}
+12.9;6;noise;noise_out;4.56875
+12.9;6;noise;;{value: 13.7941, sigma: 0.1}
+12.9;1;electrode;;{input: 4.56875, threshold: 25, sigma: inf}
+12.9;5;adder;sum_out;4.56875
+12.9;5;adder;;{noise: 4.56875, n1: 0, n2: 0, sum: 4.56875, sigma: inf}
+13;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+13;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+13;5;adder;;{noise: 13.7941, n1: 0, n2: 0, sum: 13.7941, sigma: 0}
+13;6;noise;noise_out;13.7941
+13;6;noise;;{value: -6.49329, sigma: 0.1}
+13;1;electrode;;{input: 13.7941, threshold: 25, sigma: inf}
+13;5;adder;sum_out;13.7941
+13;5;adder;;{noise: 13.7941, n1: 0, n2: 0, sum: 13.7941, sigma: inf}
+13.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+13.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+13.1;5;adder;;{noise: -6.49329, n1: 0, n2: 0, sum: -6.49329, sigma: 0}
+13.1;6;noise;noise_out;-6.49329
+13.1;6;noise;;{value: 1.97525, sigma: 0.1}
+13.1;1;electrode;;{input: -6.49329, threshold: 25, sigma: inf}
+13.1;5;adder;sum_out;-6.49329
+13.1;5;adder;;{noise: -6.49329, n1: 0, n2: 0, sum: -6.49329, sigma: inf}
+13.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+13.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+13.2;5;adder;;{noise: 1.97525, n1: 0, n2: 0, sum: 1.97525, sigma: 0}
+13.2;6;noise;noise_out;1.97525
+13.2;6;noise;;{value: -17.122, sigma: 0.1}
+13.2;1;electrode;;{input: 1.97525, threshold: 25, sigma: inf}
+13.2;5;adder;sum_out;1.97525
+13.2;5;adder;;{noise: 1.97525, n1: 0, n2: 0, sum: 1.97525, sigma: inf}
+13.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+13.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+13.3;5;adder;;{noise: -17.122, n1: 0, n2: 0, sum: -17.122, sigma: 0}
+13.3;6;noise;noise_out;-17.122
+13.3;6;noise;;{value: -3.95136, sigma: 0.1}
+13.3;1;electrode;;{input: -17.122, threshold: 25, sigma: inf}
+13.3;5;adder;sum_out;-17.122
+13.3;5;adder;;{noise: -17.122, n1: 0, n2: 0, sum: -17.122, sigma: inf}
+13.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+13.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+13.4;5;adder;;{noise: -3.95136, n1: 0, n2: 0, sum: -3.95136, sigma: 0}
+13.4;6;noise;noise_out;-3.95136
+13.4;6;noise;;{value: -6.85957, sigma: 0.1}
+13.4;1;electrode;;{input: -3.95136, threshold: 25, sigma: inf}
+13.4;5;adder;sum_out;-3.95136
+13.4;5;adder;;{noise: -3.95136, n1: 0, n2: 0, sum: -3.95136, sigma: inf}
+13.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+13.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+13.5;5;adder;;{noise: -6.85957, n1: 0, n2: 0, sum: -6.85957, sigma: 0}
+13.5;6;noise;noise_out;-6.85957
+13.5;6;noise;;{value: -7.54955, sigma: 0.1}
+13.5;1;electrode;;{input: -6.85957, threshold: 25, sigma: inf}
+13.5;5;adder;sum_out;-6.85957
+13.5;5;adder;;{noise: -6.85957, n1: 0, n2: 0, sum: -6.85957, sigma: inf}
+13.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+13.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+13.6;5;adder;;{noise: -7.54955, n1: 0, n2: 0, sum: -7.54955, sigma: 0}
+13.6;6;noise;noise_out;-7.54955
+13.6;6;noise;;{value: -3.30648, sigma: 0.1}
+13.6;1;electrode;;{input: -7.54955, threshold: 25, sigma: inf}
+13.6;5;adder;sum_out;-7.54955
+13.6;5;adder;;{noise: -7.54955, n1: 0, n2: 0, sum: -7.54955, sigma: inf}
+13.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+13.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+13.7;5;adder;;{noise: -3.30648, n1: 0, n2: 0, sum: -3.30648, sigma: 0}
+13.7;6;noise;noise_out;-3.30648
+13.7;6;noise;;{value: 4.51227, sigma: 0.1}
+13.7;1;electrode;;{input: -3.30648, threshold: 25, sigma: inf}
+13.7;5;adder;sum_out;-3.30648
+13.7;5;adder;;{noise: -3.30648, n1: 0, n2: 0, sum: -3.30648, sigma: inf}
+13.8;3;neuron2;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+13.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+13.8;5;adder;;{noise: 4.51227, n1: 0, n2: 0, sum: 4.51227, sigma: 0}
+13.8;6;noise;noise_out;4.51227
+13.8;6;noise;;{value: 19.0638, sigma: 0.1}
+13.8;1;electrode;;{input: 4.51227, threshold: 25, sigma: inf}
+13.8;5;adder;sum_out;4.51227
+13.8;5;adder;;{noise: 4.51227, n1: 0, n2: 0, sum: 4.51227, sigma: inf}
+13.9;3;neuron2;potential_out;30
+13.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+13.9;4;neuron1;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+13.9;5;adder;;{noise: 19.0638, n1: 0, n2: 30, sum: 41.5638, sigma: 0}
+13.9;6;noise;noise_out;19.0638
+13.9;6;noise;;{value: 8.67761, sigma: 0.1}
+13.9;1;electrode;;{input: 41.5638, threshold: 25, sigma: 0}
+13.9;5;adder;sum_out;41.5638
+13.9;5;adder;;{noise: 19.0638, n1: 0, n2: 30, sum: 41.5638, sigma: inf}
+13.9;1;electrode;spike_out;1
+13.9;1;electrode;;{input: 41.5638, threshold: 25, sigma: inf}
+14;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+14;4;neuron1;potential_out;30
+14;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+14;5;adder;;{noise: 8.67761, n1: 30, n2: 0, sum: 35.6776, sigma: 0}
+14;6;noise;noise_out;8.67761
+14;6;noise;;{value: 2.4294, sigma: 0.1}
+14;1;electrode;;{input: 35.6776, threshold: 25, sigma: 0}
+14;5;adder;sum_out;35.6776
+14;5;adder;;{noise: 8.67761, n1: 30, n2: 0, sum: 35.6776, sigma: inf}
+14;1;electrode;spike_out;1
+14;1;electrode;;{input: 35.6776, threshold: 25, sigma: inf}
+14.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+14.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+14.1;5;adder;;{noise: 2.4294, n1: 0, n2: 0, sum: 2.4294, sigma: 0}
+14.1;6;noise;noise_out;2.4294
+14.1;6;noise;;{value: 15.5356, sigma: 0.1}
+14.1;1;electrode;;{input: 2.4294, threshold: 25, sigma: inf}
+14.1;5;adder;sum_out;2.4294
+14.1;5;adder;;{noise: 2.4294, n1: 0, n2: 0, sum: 2.4294, sigma: inf}
+14.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+14.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+14.2;5;adder;;{noise: 15.5356, n1: 0, n2: 0, sum: 15.5356, sigma: 0}
+14.2;6;noise;noise_out;15.5356
+14.2;6;noise;;{value: 18.8057, sigma: 0.1}
+14.2;1;electrode;;{input: 15.5356, threshold: 25, sigma: inf}
+14.2;5;adder;sum_out;15.5356
+14.2;5;adder;;{noise: 15.5356, n1: 0, n2: 0, sum: 15.5356, sigma: inf}
+14.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+14.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+14.3;5;adder;;{noise: 18.8057, n1: 0, n2: 0, sum: 18.8057, sigma: 0}
+14.3;6;noise;noise_out;18.8057
+14.3;6;noise;;{value: 12.6156, sigma: 0.1}
+14.3;1;electrode;;{input: 18.8057, threshold: 25, sigma: inf}
+14.3;5;adder;sum_out;18.8057
+14.3;5;adder;;{noise: 18.8057, n1: 0, n2: 0, sum: 18.8057, sigma: inf}
+14.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+14.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+14.4;5;adder;;{noise: 12.6156, n1: 0, n2: 0, sum: 12.6156, sigma: 0}
+14.4;6;noise;noise_out;12.6156
+14.4;6;noise;;{value: 3.39853, sigma: 0.1}
+14.4;1;electrode;;{input: 12.6156, threshold: 25, sigma: inf}
+14.4;5;adder;sum_out;12.6156
+14.4;5;adder;;{noise: 12.6156, n1: 0, n2: 0, sum: 12.6156, sigma: inf}
+14.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+14.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+14.5;5;adder;;{noise: 3.39853, n1: 0, n2: 0, sum: 3.39853, sigma: 0}
+14.5;6;noise;noise_out;3.39853
+14.5;6;noise;;{value: 6.06456, sigma: 0.1}
+14.5;1;electrode;;{input: 3.39853, threshold: 25, sigma: inf}
+14.5;5;adder;sum_out;3.39853
+14.5;5;adder;;{noise: 3.39853, n1: 0, n2: 0, sum: 3.39853, sigma: inf}
+14.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+14.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+14.6;5;adder;;{noise: 6.06456, n1: 0, n2: 0, sum: 6.06456, sigma: 0}
+14.6;6;noise;noise_out;6.06456
+14.6;6;noise;;{value: -12.766, sigma: 0.1}
+14.6;1;electrode;;{input: 6.06456, threshold: 25, sigma: inf}
+14.6;5;adder;sum_out;6.06456
+14.6;5;adder;;{noise: 6.06456, n1: 0, n2: 0, sum: 6.06456, sigma: inf}
+14.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+14.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+14.7;5;adder;;{noise: -12.766, n1: 0, n2: 0, sum: -12.766, sigma: 0}
+14.7;6;noise;noise_out;-12.766
+14.7;6;noise;;{value: 9.00425, sigma: 0.1}
+14.7;1;electrode;;{input: -12.766, threshold: 25, sigma: inf}
+14.7;5;adder;sum_out;-12.766
+14.7;5;adder;;{noise: -12.766, n1: 0, n2: 0, sum: -12.766, sigma: inf}
+14.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+14.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+14.8;5;adder;;{noise: 9.00425, n1: 0, n2: 0, sum: 9.00425, sigma: 0}
+14.8;6;noise;noise_out;9.00425
+14.8;6;noise;;{value: -6.71045, sigma: 0.1}
+14.8;1;electrode;;{input: 9.00425, threshold: 25, sigma: inf}
+14.8;5;adder;sum_out;9.00425
+14.8;5;adder;;{noise: 9.00425, n1: 0, n2: 0, sum: 9.00425, sigma: inf}
+14.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+14.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+14.9;5;adder;;{noise: -6.71045, n1: 0, n2: 0, sum: -6.71045, sigma: 0}
+14.9;6;noise;noise_out;-6.71045
+14.9;6;noise;;{value: 20.7415, sigma: 0.1}
+14.9;1;electrode;;{input: -6.71045, threshold: 25, sigma: inf}
+14.9;5;adder;sum_out;-6.71045
+14.9;5;adder;;{noise: -6.71045, n1: 0, n2: 0, sum: -6.71045, sigma: inf}
+15;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+15;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+15;5;adder;;{noise: 20.7415, n1: 0, n2: 0, sum: 20.7415, sigma: 0}
+15;6;noise;noise_out;20.7415
+15;6;noise;;{value: -6.65954, sigma: 0.1}
+15;1;electrode;;{input: 20.7415, threshold: 25, sigma: inf}
+15;5;adder;sum_out;20.7415
+15;5;adder;;{noise: 20.7415, n1: 0, n2: 0, sum: 20.7415, sigma: inf}
+15.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+15.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+15.1;5;adder;;{noise: -6.65954, n1: 0, n2: 0, sum: -6.65954, sigma: 0}
+15.1;6;noise;noise_out;-6.65954
+15.1;6;noise;;{value: 6.29565, sigma: 0.1}
+15.1;1;electrode;;{input: -6.65954, threshold: 25, sigma: inf}
+15.1;5;adder;sum_out;-6.65954
+15.1;5;adder;;{noise: -6.65954, n1: 0, n2: 0, sum: -6.65954, sigma: inf}
+15.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+15.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+15.2;5;adder;;{noise: 6.29565, n1: 0, n2: 0, sum: 6.29565, sigma: 0}
+15.2;6;noise;noise_out;6.29565
+15.2;6;noise;;{value: -5.75968, sigma: 0.1}
+15.2;1;electrode;;{input: 6.29565, threshold: 25, sigma: inf}
+15.2;5;adder;sum_out;6.29565
+15.2;5;adder;;{noise: 6.29565, n1: 0, n2: 0, sum: 6.29565, sigma: inf}
+15.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+15.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+15.3;5;adder;;{noise: -5.75968, n1: 0, n2: 0, sum: -5.75968, sigma: 0}
+15.3;6;noise;noise_out;-5.75968
+15.3;6;noise;;{value: -1.40554, sigma: 0.1}
+15.3;1;electrode;;{input: -5.75968, threshold: 25, sigma: inf}
+15.3;5;adder;sum_out;-5.75968
+15.3;5;adder;;{noise: -5.75968, n1: 0, n2: 0, sum: -5.75968, sigma: inf}
+15.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+15.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+15.4;5;adder;;{noise: -1.40554, n1: 0, n2: 0, sum: -1.40554, sigma: 0}
+15.4;6;noise;noise_out;-1.40554
+15.4;6;noise;;{value: -0.754927, sigma: 0.1}
+15.4;1;electrode;;{input: -1.40554, threshold: 25, sigma: inf}
+15.4;5;adder;sum_out;-1.40554
+15.4;5;adder;;{noise: -1.40554, n1: 0, n2: 0, sum: -1.40554, sigma: inf}
+15.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+15.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+15.5;5;adder;;{noise: -0.754927, n1: 0, n2: 0, sum: -0.754927, sigma: 0}
+15.5;6;noise;noise_out;-0.754927
+15.5;6;noise;;{value: -0.797739, sigma: 0.1}
+15.5;1;electrode;;{input: -0.754927, threshold: 25, sigma: inf}
+15.5;5;adder;sum_out;-0.754927
+15.5;5;adder;;{noise: -0.754927, n1: 0, n2: 0, sum: -0.754927, sigma: inf}
+15.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+15.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+15.6;5;adder;;{noise: -0.797739, n1: 0, n2: 0, sum: -0.797739, sigma: 0}
+15.6;6;noise;noise_out;-0.797739
+15.6;6;noise;;{value: 6.57409, sigma: 0.1}
+15.6;1;electrode;;{input: -0.797739, threshold: 25, sigma: inf}
+15.6;5;adder;sum_out;-0.797739
+15.6;5;adder;;{noise: -0.797739, n1: 0, n2: 0, sum: -0.797739, sigma: inf}
+15.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+15.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+15.7;5;adder;;{noise: 6.57409, n1: 0, n2: 0, sum: 6.57409, sigma: 0}
+15.7;6;noise;noise_out;6.57409
+15.7;6;noise;;{value: 6.85235, sigma: 0.1}
+15.7;1;electrode;;{input: 6.57409, threshold: 25, sigma: inf}
+15.7;5;adder;sum_out;6.57409
+15.7;5;adder;;{noise: 6.57409, n1: 0, n2: 0, sum: 6.57409, sigma: inf}
+15.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+15.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+15.8;5;adder;;{noise: 6.85235, n1: 0, n2: 0, sum: 6.85235, sigma: 0}
+15.8;6;noise;noise_out;6.85235
+15.8;6;noise;;{value: 9.59013, sigma: 0.1}
+15.8;1;electrode;;{input: 6.85235, threshold: 25, sigma: inf}
+15.8;5;adder;sum_out;6.85235
+15.8;5;adder;;{noise: 6.85235, n1: 0, n2: 0, sum: 6.85235, sigma: inf}
+15.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+15.9;4;neuron1;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+15.9;5;adder;;{noise: 9.59013, n1: 0, n2: 0, sum: 9.59013, sigma: 0}
+15.9;6;noise;noise_out;9.59013
+15.9;6;noise;;{value: -5.54569, sigma: 0.1}
+15.9;1;electrode;;{input: 9.59013, threshold: 25, sigma: inf}
+15.9;5;adder;sum_out;9.59013
+15.9;5;adder;;{noise: 9.59013, n1: 0, n2: 0, sum: 9.59013, sigma: inf}
+16;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+16;4;neuron1;potential_out;30
+16;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+16;5;adder;;{noise: -5.54569, n1: 30, n2: 0, sum: 21.4543, sigma: 0}
+16;6;noise;noise_out;-5.54569
+16;6;noise;;{value: -15.7908, sigma: 0.1}
+16;1;electrode;;{input: 21.4543, threshold: 25, sigma: inf}
+16;5;adder;sum_out;21.4543
+16;5;adder;;{noise: -5.54569, n1: 30, n2: 0, sum: 21.4543, sigma: inf}
+16.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+16.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+16.1;5;adder;;{noise: -15.7908, n1: 0, n2: 0, sum: -15.7908, sigma: 0}
+16.1;6;noise;noise_out;-15.7908
+16.1;6;noise;;{value: -14.6481, sigma: 0.1}
+16.1;1;electrode;;{input: -15.7908, threshold: 25, sigma: inf}
+16.1;5;adder;sum_out;-15.7908
+16.1;5;adder;;{noise: -15.7908, n1: 0, n2: 0, sum: -15.7908, sigma: inf}
+16.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+16.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+16.2;5;adder;;{noise: -14.6481, n1: 0, n2: 0, sum: -14.6481, sigma: 0}
+16.2;6;noise;noise_out;-14.6481
+16.2;6;noise;;{value: 9.22362, sigma: 0.1}
+16.2;1;electrode;;{input: -14.6481, threshold: 25, sigma: inf}
+16.2;5;adder;sum_out;-14.6481
+16.2;5;adder;;{noise: -14.6481, n1: 0, n2: 0, sum: -14.6481, sigma: inf}
+16.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+16.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+16.3;5;adder;;{noise: 9.22362, n1: 0, n2: 0, sum: 9.22362, sigma: 0}
+16.3;6;noise;noise_out;9.22362
+16.3;6;noise;;{value: -2.34213, sigma: 0.1}
+16.3;1;electrode;;{input: 9.22362, threshold: 25, sigma: inf}
+16.3;5;adder;sum_out;9.22362
+16.3;5;adder;;{noise: 9.22362, n1: 0, n2: 0, sum: 9.22362, sigma: inf}
+16.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+16.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+16.4;5;adder;;{noise: -2.34213, n1: 0, n2: 0, sum: -2.34213, sigma: 0}
+16.4;6;noise;noise_out;-2.34213
+16.4;6;noise;;{value: -3.5713, sigma: 0.1}
+16.4;1;electrode;;{input: -2.34213, threshold: 25, sigma: inf}
+16.4;5;adder;sum_out;-2.34213
+16.4;5;adder;;{noise: -2.34213, n1: 0, n2: 0, sum: -2.34213, sigma: inf}
+16.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+16.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+16.5;5;adder;;{noise: -3.5713, n1: 0, n2: 0, sum: -3.5713, sigma: 0}
+16.5;6;noise;noise_out;-3.5713
+16.5;6;noise;;{value: 5.58262, sigma: 0.1}
+16.5;1;electrode;;{input: -3.5713, threshold: 25, sigma: inf}
+16.5;5;adder;sum_out;-3.5713
+16.5;5;adder;;{noise: -3.5713, n1: 0, n2: 0, sum: -3.5713, sigma: inf}
+16.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+16.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+16.6;5;adder;;{noise: 5.58262, n1: 0, n2: 0, sum: 5.58262, sigma: 0}
+16.6;6;noise;noise_out;5.58262
+16.6;6;noise;;{value: 2.0268, sigma: 0.1}
+16.6;1;electrode;;{input: 5.58262, threshold: 25, sigma: inf}
+16.6;5;adder;sum_out;5.58262
+16.6;5;adder;;{noise: 5.58262, n1: 0, n2: 0, sum: 5.58262, sigma: inf}
+16.7;3;neuron2;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+16.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+16.7;5;adder;;{noise: 2.0268, n1: 0, n2: 0, sum: 2.0268, sigma: 0}
+16.7;6;noise;noise_out;2.0268
+16.7;6;noise;;{value: -5.80044, sigma: 0.1}
+16.7;1;electrode;;{input: 2.0268, threshold: 25, sigma: inf}
+16.7;5;adder;sum_out;2.0268
+16.7;5;adder;;{noise: 2.0268, n1: 0, n2: 0, sum: 2.0268, sigma: inf}
+16.8;3;neuron2;potential_out;30
+16.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+16.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+16.8;5;adder;;{noise: -5.80044, n1: 0, n2: 30, sum: 16.6996, sigma: 0}
+16.8;6;noise;noise_out;-5.80044
+16.8;6;noise;;{value: -6.44832, sigma: 0.1}
+16.8;1;electrode;;{input: 16.6996, threshold: 25, sigma: inf}
+16.8;5;adder;sum_out;16.6996
+16.8;5;adder;;{noise: -5.80044, n1: 0, n2: 30, sum: 16.6996, sigma: inf}
+16.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.8}
+16.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+16.9;5;adder;;{noise: -6.44832, n1: 0, n2: 0, sum: -6.44832, sigma: 0}
+16.9;6;noise;noise_out;-6.44832
+16.9;6;noise;;{value: 6.72761, sigma: 0.1}
+16.9;1;electrode;;{input: -6.44832, threshold: 25, sigma: inf}
+16.9;5;adder;sum_out;-6.44832
+16.9;5;adder;;{noise: -6.44832, n1: 0, n2: 0, sum: -6.44832, sigma: inf}
+17;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.7}
+17;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+17;5;adder;;{noise: 6.72761, n1: 0, n2: 0, sum: 6.72761, sigma: 0}
+17;6;noise;noise_out;6.72761
+17;6;noise;;{value: -3.47441, sigma: 0.1}
+17;1;electrode;;{input: 6.72761, threshold: 25, sigma: inf}
+17;5;adder;sum_out;6.72761
+17;5;adder;;{noise: 6.72761, n1: 0, n2: 0, sum: 6.72761, sigma: inf}
+17.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.6}
+17.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+17.1;5;adder;;{noise: -3.47441, n1: 0, n2: 0, sum: -3.47441, sigma: 0}
+17.1;6;noise;noise_out;-3.47441
+17.1;6;noise;;{value: 11.4547, sigma: 0.1}
+17.1;1;electrode;;{input: -3.47441, threshold: 25, sigma: inf}
+17.1;5;adder;sum_out;-3.47441
+17.1;5;adder;;{noise: -3.47441, n1: 0, n2: 0, sum: -3.47441, sigma: inf}
+17.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.5}
+17.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+17.2;5;adder;;{noise: 11.4547, n1: 0, n2: 0, sum: 11.4547, sigma: 0}
+17.2;6;noise;noise_out;11.4547
+17.2;6;noise;;{value: -6.4282, sigma: 0.1}
+17.2;1;electrode;;{input: 11.4547, threshold: 25, sigma: inf}
+17.2;5;adder;sum_out;11.4547
+17.2;5;adder;;{noise: 11.4547, n1: 0, n2: 0, sum: 11.4547, sigma: inf}
+17.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.4}
+17.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+17.3;5;adder;;{noise: -6.4282, n1: 0, n2: 0, sum: -6.4282, sigma: 0}
+17.3;6;noise;noise_out;-6.4282
+17.3;6;noise;;{value: -0.857704, sigma: 0.1}
+17.3;1;electrode;;{input: -6.4282, threshold: 25, sigma: inf}
+17.3;5;adder;sum_out;-6.4282
+17.3;5;adder;;{noise: -6.4282, n1: 0, n2: 0, sum: -6.4282, sigma: inf}
+17.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.3}
+17.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+17.4;5;adder;;{noise: -0.857704, n1: 0, n2: 0, sum: -0.857704, sigma: 0}
+17.4;6;noise;noise_out;-0.857704
+17.4;6;noise;;{value: 0.927955, sigma: 0.1}
+17.4;1;electrode;;{input: -0.857704, threshold: 25, sigma: inf}
+17.4;5;adder;sum_out;-0.857704
+17.4;5;adder;;{noise: -0.857704, n1: 0, n2: 0, sum: -0.857704, sigma: inf}
+17.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.2}
+17.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+17.5;5;adder;;{noise: 0.927955, n1: 0, n2: 0, sum: 0.927955, sigma: 0}
+17.5;6;noise;noise_out;0.927955
+17.5;6;noise;;{value: 1.03055, sigma: 0.1}
+17.5;1;electrode;;{input: 0.927955, threshold: 25, sigma: inf}
+17.5;5;adder;sum_out;0.927955
+17.5;5;adder;;{noise: 0.927955, n1: 0, n2: 0, sum: 0.927955, sigma: inf}
+17.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.1}
+17.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+17.6;5;adder;;{noise: 1.03055, n1: 0, n2: 0, sum: 1.03055, sigma: 0}
+17.6;6;noise;noise_out;1.03055
+17.6;6;noise;;{value: -9.08981, sigma: 0.1}
+17.6;1;electrode;;{input: 1.03055, threshold: 25, sigma: inf}
+17.6;5;adder;sum_out;1.03055
+17.6;5;adder;;{noise: 1.03055, n1: 0, n2: 0, sum: 1.03055, sigma: inf}
+17.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1}
+17.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+17.7;5;adder;;{noise: -9.08981, n1: 0, n2: 0, sum: -9.08981, sigma: 0}
+17.7;6;noise;noise_out;-9.08981
+17.7;6;noise;;{value: -11.564, sigma: 0.1}
+17.7;1;electrode;;{input: -9.08981, threshold: 25, sigma: inf}
+17.7;5;adder;sum_out;-9.08981
+17.7;5;adder;;{noise: -9.08981, n1: 0, n2: 0, sum: -9.08981, sigma: inf}
+17.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.9}
+17.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+17.8;5;adder;;{noise: -11.564, n1: 0, n2: 0, sum: -11.564, sigma: 0}
+17.8;6;noise;noise_out;-11.564
+17.8;6;noise;;{value: 6.6577, sigma: 0.1}
+17.8;1;electrode;;{input: -11.564, threshold: 25, sigma: inf}
+17.8;5;adder;sum_out;-11.564
+17.8;5;adder;;{noise: -11.564, n1: 0, n2: 0, sum: -11.564, sigma: inf}
+17.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.8}
+17.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+17.9;5;adder;;{noise: 6.6577, n1: 0, n2: 0, sum: 6.6577, sigma: 0}
+17.9;6;noise;noise_out;6.6577
+17.9;6;noise;;{value: -7.94146, sigma: 0.1}
+17.9;1;electrode;;{input: 6.6577, threshold: 25, sigma: inf}
+17.9;5;adder;sum_out;6.6577
+17.9;5;adder;;{noise: 6.6577, n1: 0, n2: 0, sum: 6.6577, sigma: inf}
+18;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.7}
+18;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18;5;adder;;{noise: -7.94146, n1: 0, n2: 0, sum: -7.94146, sigma: 0}
+18;6;noise;noise_out;-7.94146
+18;6;noise;;{value: -1.86806, sigma: 0.1}
+18;1;electrode;;{input: -7.94146, threshold: 25, sigma: inf}
+18;5;adder;sum_out;-7.94146
+18;5;adder;;{noise: -7.94146, n1: 0, n2: 0, sum: -7.94146, sigma: inf}
+18.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.6}
+18.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.1;5;adder;;{noise: -1.86806, n1: 0, n2: 0, sum: -1.86806, sigma: 0}
+18.1;6;noise;noise_out;-1.86806
+18.1;6;noise;;{value: -1.06445, sigma: 0.1}
+18.1;1;electrode;;{input: -1.86806, threshold: 25, sigma: inf}
+18.1;5;adder;sum_out;-1.86806
+18.1;5;adder;;{noise: -1.86806, n1: 0, n2: 0, sum: -1.86806, sigma: inf}
+18.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.5}
+18.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.2;5;adder;;{noise: -1.06445, n1: 0, n2: 0, sum: -1.06445, sigma: 0}
+18.2;6;noise;noise_out;-1.06445
+18.2;6;noise;;{value: 9.92103, sigma: 0.1}
+18.2;1;electrode;;{input: -1.06445, threshold: 25, sigma: inf}
+18.2;5;adder;sum_out;-1.06445
+18.2;5;adder;;{noise: -1.06445, n1: 0, n2: 0, sum: -1.06445, sigma: inf}
+18.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.4}
+18.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.3;5;adder;;{noise: 9.92103, n1: 0, n2: 0, sum: 9.92103, sigma: 0}
+18.3;6;noise;noise_out;9.92103
+18.3;6;noise;;{value: 10.6768, sigma: 0.1}
+18.3;1;electrode;;{input: 9.92103, threshold: 25, sigma: inf}
+18.3;5;adder;sum_out;9.92103
+18.3;5;adder;;{noise: 9.92103, n1: 0, n2: 0, sum: 9.92103, sigma: inf}
+18.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.3}
+18.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.4;5;adder;;{noise: 10.6768, n1: 0, n2: 0, sum: 10.6768, sigma: 0}
+18.4;6;noise;noise_out;10.6768
+18.4;6;noise;;{value: 11.689, sigma: 0.1}
+18.4;1;electrode;;{input: 10.6768, threshold: 25, sigma: inf}
+18.4;5;adder;sum_out;10.6768
+18.4;5;adder;;{noise: 10.6768, n1: 0, n2: 0, sum: 10.6768, sigma: inf}
+18.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.2}
+18.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.5;5;adder;;{noise: 11.689, n1: 0, n2: 0, sum: 11.689, sigma: 0}
+18.5;6;noise;noise_out;11.689
+18.5;6;noise;;{value: 3.64465, sigma: 0.1}
+18.5;1;electrode;;{input: 11.689, threshold: 25, sigma: inf}
+18.5;5;adder;sum_out;11.689
+18.5;5;adder;;{noise: 11.689, n1: 0, n2: 0, sum: 11.689, sigma: inf}
+18.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0.1}
+18.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.6;5;adder;;{noise: 3.64465, n1: 0, n2: 0, sum: 3.64465, sigma: 0}
+18.6;6;noise;noise_out;3.64465
+18.6;6;noise;;{value: -13.5331, sigma: 0.1}
+18.6;1;electrode;;{input: 3.64465, threshold: 25, sigma: inf}
+18.6;5;adder;sum_out;3.64465
+18.6;5;adder;;{noise: 3.64465, n1: 0, n2: 0, sum: 3.64465, sigma: inf}
+18.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.7;5;adder;;{noise: -13.5331, n1: 0, n2: 0, sum: -13.5331, sigma: 0}
+18.7;6;noise;noise_out;-13.5331
+18.7;6;noise;;{value: 13.6588, sigma: 0.1}
+18.7;1;electrode;;{input: -13.5331, threshold: 25, sigma: inf}
+18.7;5;adder;sum_out;-13.5331
+18.7;5;adder;;{noise: -13.5331, n1: 0, n2: 0, sum: -13.5331, sigma: inf}
+18.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.8;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.8;5;adder;;{noise: 13.6588, n1: 0, n2: 0, sum: 13.6588, sigma: 0}
+18.8;6;noise;noise_out;13.6588
+18.8;6;noise;;{value: -2.43287, sigma: 0.1}
+18.8;1;electrode;;{input: 13.6588, threshold: 25, sigma: inf}
+18.8;5;adder;sum_out;13.6588
+18.8;5;adder;;{noise: 13.6588, n1: 0, n2: 0, sum: 13.6588, sigma: inf}
+18.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+18.9;5;adder;;{noise: -2.43287, n1: 0, n2: 0, sum: -2.43287, sigma: 0}
+18.9;6;noise;noise_out;-2.43287
+18.9;6;noise;;{value: 6.3466, sigma: 0.1}
+18.9;1;electrode;;{input: -2.43287, threshold: 25, sigma: inf}
+18.9;5;adder;sum_out;-2.43287
+18.9;5;adder;;{noise: -2.43287, n1: 0, n2: 0, sum: -2.43287, sigma: inf}
+19;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19;5;adder;;{noise: 6.3466, n1: 0, n2: 0, sum: 6.3466, sigma: 0}
+19;6;noise;noise_out;6.3466
+19;6;noise;;{value: 5.60393, sigma: 0.1}
+19;1;electrode;;{input: 6.3466, threshold: 25, sigma: inf}
+19;5;adder;sum_out;6.3466
+19;5;adder;;{noise: 6.3466, n1: 0, n2: 0, sum: 6.3466, sigma: inf}
+19.1;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.1;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.1;5;adder;;{noise: 5.60393, n1: 0, n2: 0, sum: 5.60393, sigma: 0}
+19.1;6;noise;noise_out;5.60393
+19.1;6;noise;;{value: 9.75806, sigma: 0.1}
+19.1;1;electrode;;{input: 5.60393, threshold: 25, sigma: inf}
+19.1;5;adder;sum_out;5.60393
+19.1;5;adder;;{noise: 5.60393, n1: 0, n2: 0, sum: 5.60393, sigma: inf}
+19.2;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.2;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.2;5;adder;;{noise: 9.75806, n1: 0, n2: 0, sum: 9.75806, sigma: 0}
+19.2;6;noise;noise_out;9.75806
+19.2;6;noise;;{value: 2.47575, sigma: 0.1}
+19.2;1;electrode;;{input: 9.75806, threshold: 25, sigma: inf}
+19.2;5;adder;sum_out;9.75806
+19.2;5;adder;;{noise: 9.75806, n1: 0, n2: 0, sum: 9.75806, sigma: inf}
+19.3;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.3;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.3;5;adder;;{noise: 2.47575, n1: 0, n2: 0, sum: 2.47575, sigma: 0}
+19.3;6;noise;noise_out;2.47575
+19.3;6;noise;;{value: -3.56442, sigma: 0.1}
+19.3;1;electrode;;{input: 2.47575, threshold: 25, sigma: inf}
+19.3;5;adder;sum_out;2.47575
+19.3;5;adder;;{noise: 2.47575, n1: 0, n2: 0, sum: 2.47575, sigma: inf}
+19.4;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.4;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.4;5;adder;;{noise: -3.56442, n1: 0, n2: 0, sum: -3.56442, sigma: 0}
+19.4;6;noise;noise_out;-3.56442
+19.4;6;noise;;{value: 7.52074, sigma: 0.1}
+19.4;1;electrode;;{input: -3.56442, threshold: 25, sigma: inf}
+19.4;5;adder;sum_out;-3.56442
+19.4;5;adder;;{noise: -3.56442, n1: 0, n2: 0, sum: -3.56442, sigma: inf}
+19.5;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.5;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.5;5;adder;;{noise: 7.52074, n1: 0, n2: 0, sum: 7.52074, sigma: 0}
+19.5;6;noise;noise_out;7.52074
+19.5;6;noise;;{value: 2.45007, sigma: 0.1}
+19.5;1;electrode;;{input: 7.52074, threshold: 25, sigma: inf}
+19.5;5;adder;sum_out;7.52074
+19.5;5;adder;;{noise: 7.52074, n1: 0, n2: 0, sum: 7.52074, sigma: inf}
+19.6;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.6;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.6;5;adder;;{noise: 2.45007, n1: 0, n2: 0, sum: 2.45007, sigma: 0}
+19.6;6;noise;noise_out;2.45007
+19.6;6;noise;;{value: -0.679208, sigma: 0.1}
+19.6;1;electrode;;{input: 2.45007, threshold: 25, sigma: inf}
+19.6;5;adder;sum_out;2.45007
+19.6;5;adder;;{noise: 2.45007, n1: 0, n2: 0, sum: 2.45007, sigma: inf}
+19.7;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.7;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.7;5;adder;;{noise: -0.679208, n1: 0, n2: 0, sum: -0.679208, sigma: 0}
+19.7;6;noise;noise_out;-0.679208
+19.7;6;noise;;{value: -11.3249, sigma: 0.1}
+19.7;1;electrode;;{input: -0.679208, threshold: 25, sigma: inf}
+19.7;5;adder;sum_out;-0.679208
+19.7;5;adder;;{noise: -0.679208, n1: 0, n2: 0, sum: -0.679208, sigma: inf}
+19.8;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.8;4;neuron1;;{emit_spike: 1, V: 30, sigma: 0.1, refractory: 2}
+19.8;5;adder;;{noise: -11.3249, n1: 0, n2: 0, sum: -11.3249, sigma: 0}
+19.8;6;noise;noise_out;-11.3249
+19.8;6;noise;;{value: -12.1492, sigma: 0.1}
+19.8;1;electrode;;{input: -11.3249, threshold: 25, sigma: inf}
+19.8;5;adder;sum_out;-11.3249
+19.8;5;adder;;{noise: -11.3249, n1: 0, n2: 0, sum: -11.3249, sigma: inf}
+19.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.9;4;neuron1;potential_out;30
+19.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+19.9;5;adder;;{noise: -12.1492, n1: 30, n2: 0, sum: 14.8508, sigma: 0}
+19.9;6;noise;noise_out;-12.1492
+19.9;6;noise;;{value: -15.3313, sigma: 0.1}
+19.9;1;electrode;;{input: 14.8508, threshold: 25, sigma: inf}
+19.9;5;adder;sum_out;14.8508
+19.9;5;adder;;{noise: -12.1492, n1: 30, n2: 0, sum: 14.8508, sigma: inf}
+19.9;1;electrode;;{input: 14.8508, threshold: 25, sigma: inf}
+19.9;3;neuron2;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 0}
+19.9;4;neuron1;;{emit_spike: 0, V: -70, sigma: 0.1, refractory: 1.9}
+19.9;5;adder;;{noise: -12.1492, n1: 30, n2: 0, sum: 14.8508, sigma: inf}
+19.9;6;noise;;{value: -15.3313, sigma: 0.1}

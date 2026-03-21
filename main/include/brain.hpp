@@ -2,7 +2,7 @@
 #define BRAIN_HPP
 
 #include <string>
-#include "cadmium/core/modeling/coupled.hpp"
+#include "cadmium/modeling/devs/coupled.hpp"
 #include "background_noise.hpp"
 #include "neuron.hpp"
 #include "adder.hpp"

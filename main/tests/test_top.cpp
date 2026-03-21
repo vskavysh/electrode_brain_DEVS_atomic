@@ -1,9 +1,9 @@
 #include <iostream>
 #include <memory>
 
-#include "cadmium/core/modeling/coupled.hpp"
-#include "cadmium/core/simulation/root_coordinator.hpp"
-#include "cadmium/core/logger/csv.hpp"
+#include "cadmium/modeling/devs/coupled.hpp"
+#include "cadmium/simulation/root_coordinator.hpp"
+#include "cadmium/simulation/logger/csv.hpp"
 
 #include "background_noise.hpp"
 #include "neuron.hpp"
@@ -68,7 +68,7 @@ int main() {
             auto model = std::make_shared<TopTest>("top_thresh_45", p_fire, threshold);
             RootCoordinator rc(model);
 
-            rc.setLogger(std::make_shared<cadmium::CSVLogger>("top_threshold_45_log.csv", ";"));
+	    rc.setLogger<cadmium::CSVLogger>("top_threshold_45_log.csv", ";");
             rc.start();
             rc.simulate(5.0);
             rc.stop();
@@ -89,8 +89,8 @@ int main() {
             auto model = std::make_shared<TopTest>("top_thresh_55", p_fire, threshold);
             RootCoordinator rc(model);
 
-            rc.setLogger(std::make_shared<cadmium::CSVLogger>("top_threshold_55_log.csv", ";"));
-            rc.start();
+            rc.setLogger<cadmium::CSVLogger>("top_threshold_55_log.csv", ";");
+	    rc.start();
             rc.simulate(5.0);
             rc.stop();
 

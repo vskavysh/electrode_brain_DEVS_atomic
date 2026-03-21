@@ -1,0 +1,4004 @@
+sep=;
+time;model_id;model_name;port_name;data
+0;1;noise;;{value: 0, sigma: 0.1}
+0.1;1;noise;noise_out;0
+0.1;1;noise;;{value: 5.06856, sigma: 0.1}
+0.2;1;noise;noise_out;5.06856
+0.2;1;noise;;{value: -11.5343, sigma: 0.1}
+0.3;1;noise;noise_out;-11.5343
+0.3;1;noise;;{value: -4.46098, sigma: 0.1}
+0.4;1;noise;noise_out;-4.46098
+0.4;1;noise;;{value: -3.11718, sigma: 0.1}
+0.5;1;noise;noise_out;-3.11718
+0.5;1;noise;;{value: 12.1581, sigma: 0.1}
+0.6;1;noise;noise_out;12.1581
+0.6;1;noise;;{value: -4.53186, sigma: 0.1}
+0.7;1;noise;noise_out;-4.53186
+0.7;1;noise;;{value: 4.38544, sigma: 0.1}
+0.8;1;noise;noise_out;4.38544
+0.8;1;noise;;{value: -12.8189, sigma: 0.1}
+0.9;1;noise;noise_out;-12.8189
+0.9;1;noise;;{value: -33.6279, sigma: 0.1}
+1;1;noise;noise_out;-33.6279
+1;1;noise;;{value: 3.36349, sigma: 0.1}
+1.1;1;noise;noise_out;3.36349
+1.1;1;noise;;{value: 2.92524, sigma: 0.1}
+1.2;1;noise;noise_out;2.92524
+1.2;1;noise;;{value: -11.0673, sigma: 0.1}
+1.3;1;noise;noise_out;-11.0673
+1.3;1;noise;;{value: 18.0176, sigma: 0.1}
+1.4;1;noise;noise_out;18.0176
+1.4;1;noise;;{value: 5.10762, sigma: 0.1}
+1.5;1;noise;noise_out;5.10762
+1.5;1;noise;;{value: -1.94375, sigma: 0.1}
+1.6;1;noise;noise_out;-1.94375
+1.6;1;noise;;{value: -14.0012, sigma: 0.1}
+1.7;1;noise;noise_out;-14.0012
+1.7;1;noise;;{value: -8.112, sigma: 0.1}
+1.8;1;noise;noise_out;-8.112
+1.8;1;noise;;{value: -10.6291, sigma: 0.1}
+1.9;1;noise;noise_out;-10.6291
+1.9;1;noise;;{value: 9.65006, sigma: 0.1}
+2;1;noise;noise_out;9.65006
+2;1;noise;;{value: 6.09945, sigma: 0.1}
+2.1;1;noise;noise_out;6.09945
+2.1;1;noise;;{value: -7.83813, sigma: 0.1}
+2.2;1;noise;noise_out;-7.83813
+2.2;1;noise;;{value: 8.41964, sigma: 0.1}
+2.3;1;noise;noise_out;8.41964
+2.3;1;noise;;{value: -6.49967, sigma: 0.1}
+2.4;1;noise;noise_out;-6.49967
+2.4;1;noise;;{value: 16.833, sigma: 0.1}
+2.5;1;noise;noise_out;16.833
+2.5;1;noise;;{value: 8.95472, sigma: 0.1}
+2.6;1;noise;noise_out;8.95472
+2.6;1;noise;;{value: -0.626852, sigma: 0.1}
+2.7;1;noise;noise_out;-0.626852
+2.7;1;noise;;{value: -2.43976, sigma: 0.1}
+2.8;1;noise;noise_out;-2.43976
+2.8;1;noise;;{value: -9.19054, sigma: 0.1}
+2.9;1;noise;noise_out;-9.19054
+2.9;1;noise;;{value: 15.5853, sigma: 0.1}
+3;1;noise;noise_out;15.5853
+3;1;noise;;{value: -7.84749, sigma: 0.1}
+3.1;1;noise;noise_out;-7.84749
+3.1;1;noise;;{value: 19.8979, sigma: 0.1}
+3.2;1;noise;noise_out;19.8979
+3.2;1;noise;;{value: 7.30932, sigma: 0.1}
+3.3;1;noise;noise_out;7.30932
+3.3;1;noise;;{value: -19.5542, sigma: 0.1}
+3.4;1;noise;noise_out;-19.5542
+3.4;1;noise;;{value: 0.787809, sigma: 0.1}
+3.5;1;noise;noise_out;0.787809
+3.5;1;noise;;{value: 4.86698, sigma: 0.1}
+3.6;1;noise;noise_out;4.86698
+3.6;1;noise;;{value: 10.2405, sigma: 0.1}
+3.7;1;noise;noise_out;10.2405
+3.7;1;noise;;{value: 7.7938, sigma: 0.1}
+3.8;1;noise;noise_out;7.7938
+3.8;1;noise;;{value: -2.29209, sigma: 0.1}
+3.9;1;noise;noise_out;-2.29209
+3.9;1;noise;;{value: -5.64812, sigma: 0.1}
+4;1;noise;noise_out;-5.64812
+4;1;noise;;{value: 2.05397, sigma: 0.1}
+4.1;1;noise;noise_out;2.05397
+4.1;1;noise;;{value: -7.52039, sigma: 0.1}
+4.2;1;noise;noise_out;-7.52039
+4.2;1;noise;;{value: -4.98658, sigma: 0.1}
+4.3;1;noise;noise_out;-4.98658
+4.3;1;noise;;{value: 1.97714, sigma: 0.1}
+4.4;1;noise;noise_out;1.97714
+4.4;1;noise;;{value: 2.96452, sigma: 0.1}
+4.5;1;noise;noise_out;2.96452
+4.5;1;noise;;{value: -8.48841, sigma: 0.1}
+4.6;1;noise;noise_out;-8.48841
+4.6;1;noise;;{value: -7.37974, sigma: 0.1}
+4.7;1;noise;noise_out;-7.37974
+4.7;1;noise;;{value: 13.4976, sigma: 0.1}
+4.8;1;noise;noise_out;13.4976
+4.8;1;noise;;{value: 18.6445, sigma: 0.1}
+4.9;1;noise;noise_out;18.6445
+4.9;1;noise;;{value: 3.43608, sigma: 0.1}
+5;1;noise;noise_out;3.43608
+5;1;noise;;{value: 10.5196, sigma: 0.1}
+5.1;1;noise;noise_out;10.5196
+5.1;1;noise;;{value: 9.9185, sigma: 0.1}
+5.2;1;noise;noise_out;9.9185
+5.2;1;noise;;{value: 1.25825, sigma: 0.1}
+5.3;1;noise;noise_out;1.25825
+5.3;1;noise;;{value: -1.74708, sigma: 0.1}
+5.4;1;noise;noise_out;-1.74708
+5.4;1;noise;;{value: 2.94343, sigma: 0.1}
+5.5;1;noise;noise_out;2.94343
+5.5;1;noise;;{value: -19.3138, sigma: 0.1}
+5.6;1;noise;noise_out;-19.3138
+5.6;1;noise;;{value: -4.42906, sigma: 0.1}
+5.7;1;noise;noise_out;-4.42906
+5.7;1;noise;;{value: 3.64667, sigma: 0.1}
+5.8;1;noise;noise_out;3.64667
+5.8;1;noise;;{value: -8.31343, sigma: 0.1}
+5.9;1;noise;noise_out;-8.31343
+5.9;1;noise;;{value: 10.2163, sigma: 0.1}
+6;1;noise;noise_out;10.2163
+6;1;noise;;{value: 12.8556, sigma: 0.1}
+6.1;1;noise;noise_out;12.8556
+6.1;1;noise;;{value: -17.1153, sigma: 0.1}
+6.2;1;noise;noise_out;-17.1153
+6.2;1;noise;;{value: 0.384833, sigma: 0.1}
+6.3;1;noise;noise_out;0.384833
+6.3;1;noise;;{value: -2.63496, sigma: 0.1}
+6.4;1;noise;noise_out;-2.63496
+6.4;1;noise;;{value: -21.337, sigma: 0.1}
+6.5;1;noise;noise_out;-21.337
+6.5;1;noise;;{value: -11.4051, sigma: 0.1}
+6.6;1;noise;noise_out;-11.4051
+6.6;1;noise;;{value: -0.503561, sigma: 0.1}
+6.7;1;noise;noise_out;-0.503561
+6.7;1;noise;;{value: 2.31189, sigma: 0.1}
+6.8;1;noise;noise_out;2.31189
+6.8;1;noise;;{value: 1.4402, sigma: 0.1}
+6.9;1;noise;noise_out;1.4402
+6.9;1;noise;;{value: 0.0084269, sigma: 0.1}
+7;1;noise;noise_out;0.0084269
+7;1;noise;;{value: -0.0205898, sigma: 0.1}
+7.1;1;noise;noise_out;-0.0205898
+7.1;1;noise;;{value: 0.496567, sigma: 0.1}
+7.2;1;noise;noise_out;0.496567
+7.2;1;noise;;{value: -7.08416, sigma: 0.1}
+7.3;1;noise;noise_out;-7.08416
+7.3;1;noise;;{value: -0.0939978, sigma: 0.1}
+7.4;1;noise;noise_out;-0.0939978
+7.4;1;noise;;{value: 4.66195, sigma: 0.1}
+7.5;1;noise;noise_out;4.66195
+7.5;1;noise;;{value: -2.05351, sigma: 0.1}
+7.6;1;noise;noise_out;-2.05351
+7.6;1;noise;;{value: -2.78092, sigma: 0.1}
+7.7;1;noise;noise_out;-2.78092
+7.7;1;noise;;{value: -0.508933, sigma: 0.1}
+7.8;1;noise;noise_out;-0.508933
+7.8;1;noise;;{value: -2.74069, sigma: 0.1}
+7.9;1;noise;noise_out;-2.74069
+7.9;1;noise;;{value: 2.58229, sigma: 0.1}
+8;1;noise;noise_out;2.58229
+8;1;noise;;{value: -1.45028, sigma: 0.1}
+8.1;1;noise;noise_out;-1.45028
+8.1;1;noise;;{value: 5.89206, sigma: 0.1}
+8.2;1;noise;noise_out;5.89206
+8.2;1;noise;;{value: -0.24046, sigma: 0.1}
+8.3;1;noise;noise_out;-0.24046
+8.3;1;noise;;{value: -10.2251, sigma: 0.1}
+8.4;1;noise;noise_out;-10.2251
+8.4;1;noise;;{value: -16.4684, sigma: 0.1}
+8.5;1;noise;noise_out;-16.4684
+8.5;1;noise;;{value: -10.6186, sigma: 0.1}
+8.6;1;noise;noise_out;-10.6186
+8.6;1;noise;;{value: -0.773429, sigma: 0.1}
+8.7;1;noise;noise_out;-0.773429
+8.7;1;noise;;{value: -12.4555, sigma: 0.1}
+8.8;1;noise;noise_out;-12.4555
+8.8;1;noise;;{value: 11.6903, sigma: 0.1}
+8.9;1;noise;noise_out;11.6903
+8.9;1;noise;;{value: -10.8814, sigma: 0.1}
+9;1;noise;noise_out;-10.8814
+9;1;noise;;{value: -6.77844, sigma: 0.1}
+9.1;1;noise;noise_out;-6.77844
+9.1;1;noise;;{value: 1.19082, sigma: 0.1}
+9.2;1;noise;noise_out;1.19082
+9.2;1;noise;;{value: -2.38248, sigma: 0.1}
+9.3;1;noise;noise_out;-2.38248
+9.3;1;noise;;{value: -1.98543, sigma: 0.1}
+9.4;1;noise;noise_out;-1.98543
+9.4;1;noise;;{value: -2.40567, sigma: 0.1}
+9.5;1;noise;noise_out;-2.40567
+9.5;1;noise;;{value: -13.5607, sigma: 0.1}
+9.6;1;noise;noise_out;-13.5607
+9.6;1;noise;;{value: 12.8674, sigma: 0.1}
+9.7;1;noise;noise_out;12.8674
+9.7;1;noise;;{value: 0.0223609, sigma: 0.1}
+9.8;1;noise;noise_out;0.0223609
+9.8;1;noise;;{value: 12.6866, sigma: 0.1}
+9.9;1;noise;noise_out;12.6866
+9.9;1;noise;;{value: -5.09277, sigma: 0.1}
+10;1;noise;noise_out;-5.09277
+10;1;noise;;{value: -16.2389, sigma: 0.1}
+10.1;1;noise;noise_out;-16.2389
+10.1;1;noise;;{value: 4.85595, sigma: 0.1}
+10.2;1;noise;noise_out;4.85595
+10.2;1;noise;;{value: -5.67815, sigma: 0.1}
+10.3;1;noise;noise_out;-5.67815
+10.3;1;noise;;{value: 0.885878, sigma: 0.1}
+10.4;1;noise;noise_out;0.885878
+10.4;1;noise;;{value: 7.82054, sigma: 0.1}
+10.5;1;noise;noise_out;7.82054
+10.5;1;noise;;{value: -3.92813, sigma: 0.1}
+10.6;1;noise;noise_out;-3.92813
+10.6;1;noise;;{value: 10.351, sigma: 0.1}
+10.7;1;noise;noise_out;10.351
+10.7;1;noise;;{value: -2.89982, sigma: 0.1}
+10.8;1;noise;noise_out;-2.89982
+10.8;1;noise;;{value: 14.026, sigma: 0.1}
+10.9;1;noise;noise_out;14.026
+10.9;1;noise;;{value: -24.3758, sigma: 0.1}
+11;1;noise;noise_out;-24.3758
+11;1;noise;;{value: 5.87992, sigma: 0.1}
+11.1;1;noise;noise_out;5.87992
+11.1;1;noise;;{value: -10.9986, sigma: 0.1}
+11.2;1;noise;noise_out;-10.9986
+11.2;1;noise;;{value: -17.3532, sigma: 0.1}
+11.3;1;noise;noise_out;-17.3532
+11.3;1;noise;;{value: -6.01297, sigma: 0.1}
+11.4;1;noise;noise_out;-6.01297
+11.4;1;noise;;{value: 6.27882, sigma: 0.1}
+11.5;1;noise;noise_out;6.27882
+11.5;1;noise;;{value: 7.25396, sigma: 0.1}
+11.6;1;noise;noise_out;7.25396
+11.6;1;noise;;{value: 9.54869, sigma: 0.1}
+11.7;1;noise;noise_out;9.54869
+11.7;1;noise;;{value: 6.68018, sigma: 0.1}
+11.8;1;noise;noise_out;6.68018
+11.8;1;noise;;{value: -3.19905, sigma: 0.1}
+11.9;1;noise;noise_out;-3.19905
+11.9;1;noise;;{value: 3.03384, sigma: 0.1}
+12;1;noise;noise_out;3.03384
+12;1;noise;;{value: -9.38332, sigma: 0.1}
+12.1;1;noise;noise_out;-9.38332
+12.1;1;noise;;{value: 9.88193, sigma: 0.1}
+12.2;1;noise;noise_out;9.88193
+12.2;1;noise;;{value: -11.4852, sigma: 0.1}
+12.3;1;noise;noise_out;-11.4852
+12.3;1;noise;;{value: 2.14309, sigma: 0.1}
+12.4;1;noise;noise_out;2.14309
+12.4;1;noise;;{value: -8.15611, sigma: 0.1}
+12.5;1;noise;noise_out;-8.15611
+12.5;1;noise;;{value: 12.1593, sigma: 0.1}
+12.6;1;noise;noise_out;12.1593
+12.6;1;noise;;{value: 2.68697, sigma: 0.1}
+12.7;1;noise;noise_out;2.68697
+12.7;1;noise;;{value: -5.19894, sigma: 0.1}
+12.8;1;noise;noise_out;-5.19894
+12.8;1;noise;;{value: -14.071, sigma: 0.1}
+12.9;1;noise;noise_out;-14.071
+12.9;1;noise;;{value: 7.81071, sigma: 0.1}
+13;1;noise;noise_out;7.81071
+13;1;noise;;{value: -8.69377, sigma: 0.1}
+13.1;1;noise;noise_out;-8.69377
+13.1;1;noise;;{value: 23.0065, sigma: 0.1}
+13.2;1;noise;noise_out;23.0065
+13.2;1;noise;;{value: 14.0205, sigma: 0.1}
+13.3;1;noise;noise_out;14.0205
+13.3;1;noise;;{value: -2.91337, sigma: 0.1}
+13.4;1;noise;noise_out;-2.91337
+13.4;1;noise;;{value: -11.2025, sigma: 0.1}
+13.5;1;noise;noise_out;-11.2025
+13.5;1;noise;;{value: 13.3703, sigma: 0.1}
+13.6;1;noise;noise_out;13.3703
+13.6;1;noise;;{value: -15.2171, sigma: 0.1}
+13.7;1;noise;noise_out;-15.2171
+13.7;1;noise;;{value: -0.24813, sigma: 0.1}
+13.8;1;noise;noise_out;-0.24813
+13.8;1;noise;;{value: 10.4662, sigma: 0.1}
+13.9;1;noise;noise_out;10.4662
+13.9;1;noise;;{value: -4.53751, sigma: 0.1}
+14;1;noise;noise_out;-4.53751
+14;1;noise;;{value: 6.43231, sigma: 0.1}
+14.1;1;noise;noise_out;6.43231
+14.1;1;noise;;{value: -4.43962, sigma: 0.1}
+14.2;1;noise;noise_out;-4.43962
+14.2;1;noise;;{value: 4.96777, sigma: 0.1}
+14.3;1;noise;noise_out;4.96777
+14.3;1;noise;;{value: -1.39948, sigma: 0.1}
+14.4;1;noise;noise_out;-1.39948
+14.4;1;noise;;{value: -1.76229, sigma: 0.1}
+14.5;1;noise;noise_out;-1.76229
+14.5;1;noise;;{value: -21.6912, sigma: 0.1}
+14.6;1;noise;noise_out;-21.6912
+14.6;1;noise;;{value: -14.5701, sigma: 0.1}
+14.7;1;noise;noise_out;-14.5701
+14.7;1;noise;;{value: -11.49, sigma: 0.1}
+14.8;1;noise;noise_out;-11.49
+14.8;1;noise;;{value: -4.92984, sigma: 0.1}
+14.9;1;noise;noise_out;-4.92984
+14.9;1;noise;;{value: 9.23052, sigma: 0.1}
+15;1;noise;noise_out;9.23052
+15;1;noise;;{value: 8.87743, sigma: 0.1}
+15.1;1;noise;noise_out;8.87743
+15.1;1;noise;;{value: 24.8293, sigma: 0.1}
+15.2;1;noise;noise_out;24.8293
+15.2;1;noise;;{value: 8.24834, sigma: 0.1}
+15.3;1;noise;noise_out;8.24834
+15.3;1;noise;;{value: -0.178155, sigma: 0.1}
+15.4;1;noise;noise_out;-0.178155
+15.4;1;noise;;{value: -2.74596, sigma: 0.1}
+15.5;1;noise;noise_out;-2.74596
+15.5;1;noise;;{value: -10.1092, sigma: 0.1}
+15.6;1;noise;noise_out;-10.1092
+15.6;1;noise;;{value: -3.65734, sigma: 0.1}
+15.7;1;noise;noise_out;-3.65734
+15.7;1;noise;;{value: 0.334596, sigma: 0.1}
+15.8;1;noise;noise_out;0.334596
+15.8;1;noise;;{value: 4.70995, sigma: 0.1}
+15.9;1;noise;noise_out;4.70995
+15.9;1;noise;;{value: 6.52801, sigma: 0.1}
+16;1;noise;noise_out;6.52801
+16;1;noise;;{value: -1.52071, sigma: 0.1}
+16.1;1;noise;noise_out;-1.52071
+16.1;1;noise;;{value: -9.19082, sigma: 0.1}
+16.2;1;noise;noise_out;-9.19082
+16.2;1;noise;;{value: -9.48063, sigma: 0.1}
+16.3;1;noise;noise_out;-9.48063
+16.3;1;noise;;{value: -1.94708, sigma: 0.1}
+16.4;1;noise;noise_out;-1.94708
+16.4;1;noise;;{value: 8.04432, sigma: 0.1}
+16.5;1;noise;noise_out;8.04432
+16.5;1;noise;;{value: -6.04043, sigma: 0.1}
+16.6;1;noise;noise_out;-6.04043
+16.6;1;noise;;{value: 10.1129, sigma: 0.1}
+16.7;1;noise;noise_out;10.1129
+16.7;1;noise;;{value: 5.86, sigma: 0.1}
+16.8;1;noise;noise_out;5.86
+16.8;1;noise;;{value: -1.77248, sigma: 0.1}
+16.9;1;noise;noise_out;-1.77248
+16.9;1;noise;;{value: -2.96524, sigma: 0.1}
+17;1;noise;noise_out;-2.96524
+17;1;noise;;{value: -8.15937, sigma: 0.1}
+17.1;1;noise;noise_out;-8.15937
+17.1;1;noise;;{value: 12.5145, sigma: 0.1}
+17.2;1;noise;noise_out;12.5145
+17.2;1;noise;;{value: -14.7001, sigma: 0.1}
+17.3;1;noise;noise_out;-14.7001
+17.3;1;noise;;{value: 12.2219, sigma: 0.1}
+17.4;1;noise;noise_out;12.2219
+17.4;1;noise;;{value: 7.97413, sigma: 0.1}
+17.5;1;noise;noise_out;7.97413
+17.5;1;noise;;{value: 7.61873, sigma: 0.1}
+17.6;1;noise;noise_out;7.61873
+17.6;1;noise;;{value: 5.5507, sigma: 0.1}
+17.7;1;noise;noise_out;5.5507
+17.7;1;noise;;{value: -0.423366, sigma: 0.1}
+17.8;1;noise;noise_out;-0.423366
+17.8;1;noise;;{value: 4.80024, sigma: 0.1}
+17.9;1;noise;noise_out;4.80024
+17.9;1;noise;;{value: 6.01372, sigma: 0.1}
+18;1;noise;noise_out;6.01372
+18;1;noise;;{value: 7.73781, sigma: 0.1}
+18.1;1;noise;noise_out;7.73781
+18.1;1;noise;;{value: -3.28067, sigma: 0.1}
+18.2;1;noise;noise_out;-3.28067
+18.2;1;noise;;{value: -2.92778, sigma: 0.1}
+18.3;1;noise;noise_out;-2.92778
+18.3;1;noise;;{value: -8.46988, sigma: 0.1}
+18.4;1;noise;noise_out;-8.46988
+18.4;1;noise;;{value: -13.1647, sigma: 0.1}
+18.5;1;noise;noise_out;-13.1647
+18.5;1;noise;;{value: -5.70535, sigma: 0.1}
+18.6;1;noise;noise_out;-5.70535
+18.6;1;noise;;{value: -16.5496, sigma: 0.1}
+18.7;1;noise;noise_out;-16.5496
+18.7;1;noise;;{value: -15.4513, sigma: 0.1}
+18.8;1;noise;noise_out;-15.4513
+18.8;1;noise;;{value: 1.01402, sigma: 0.1}
+18.9;1;noise;noise_out;1.01402
+18.9;1;noise;;{value: 5.5242, sigma: 0.1}
+19;1;noise;noise_out;5.5242
+19;1;noise;;{value: -7.81409, sigma: 0.1}
+19.1;1;noise;noise_out;-7.81409
+19.1;1;noise;;{value: -4.96261, sigma: 0.1}
+19.2;1;noise;noise_out;-4.96261
+19.2;1;noise;;{value: -20.5262, sigma: 0.1}
+19.3;1;noise;noise_out;-20.5262
+19.3;1;noise;;{value: 17.2773, sigma: 0.1}
+19.4;1;noise;noise_out;17.2773
+19.4;1;noise;;{value: 12.5074, sigma: 0.1}
+19.5;1;noise;noise_out;12.5074
+19.5;1;noise;;{value: 23.6324, sigma: 0.1}
+19.6;1;noise;noise_out;23.6324
+19.6;1;noise;;{value: 1.2701, sigma: 0.1}
+19.7;1;noise;noise_out;1.2701
+19.7;1;noise;;{value: -17.2895, sigma: 0.1}
+19.8;1;noise;noise_out;-17.2895
+19.8;1;noise;;{value: -4.03465, sigma: 0.1}
+19.9;1;noise;noise_out;-4.03465
+19.9;1;noise;;{value: -3.85545, sigma: 0.1}
+20;1;noise;noise_out;-3.85545
+20;1;noise;;{value: -6.44183, sigma: 0.1}
+20.1;1;noise;noise_out;-6.44183
+20.1;1;noise;;{value: -8.87796, sigma: 0.1}
+20.2;1;noise;noise_out;-8.87796
+20.2;1;noise;;{value: 7.05965, sigma: 0.1}
+20.3;1;noise;noise_out;7.05965
+20.3;1;noise;;{value: -2.49663, sigma: 0.1}
+20.4;1;noise;noise_out;-2.49663
+20.4;1;noise;;{value: 12.3615, sigma: 0.1}
+20.5;1;noise;noise_out;12.3615
+20.5;1;noise;;{value: -2.24598, sigma: 0.1}
+20.6;1;noise;noise_out;-2.24598
+20.6;1;noise;;{value: -5.0037, sigma: 0.1}
+20.7;1;noise;noise_out;-5.0037
+20.7;1;noise;;{value: 1.20064, sigma: 0.1}
+20.8;1;noise;noise_out;1.20064
+20.8;1;noise;;{value: 3.85069, sigma: 0.1}
+20.9;1;noise;noise_out;3.85069
+20.9;1;noise;;{value: 13.7523, sigma: 0.1}
+21;1;noise;noise_out;13.7523
+21;1;noise;;{value: 14.738, sigma: 0.1}
+21.1;1;noise;noise_out;14.738
+21.1;1;noise;;{value: -15.0593, sigma: 0.1}
+21.2;1;noise;noise_out;-15.0593
+21.2;1;noise;;{value: -6.63013, sigma: 0.1}
+21.3;1;noise;noise_out;-6.63013
+21.3;1;noise;;{value: -3.86372, sigma: 0.1}
+21.4;1;noise;noise_out;-3.86372
+21.4;1;noise;;{value: 12.9001, sigma: 0.1}
+21.5;1;noise;noise_out;12.9001
+21.5;1;noise;;{value: -2.38448, sigma: 0.1}
+21.6;1;noise;noise_out;-2.38448
+21.6;1;noise;;{value: -5.50739, sigma: 0.1}
+21.7;1;noise;noise_out;-5.50739
+21.7;1;noise;;{value: 4.70835, sigma: 0.1}
+21.8;1;noise;noise_out;4.70835
+21.8;1;noise;;{value: -13.5636, sigma: 0.1}
+21.9;1;noise;noise_out;-13.5636
+21.9;1;noise;;{value: 3.0064, sigma: 0.1}
+22;1;noise;noise_out;3.0064
+22;1;noise;;{value: 10.7551, sigma: 0.1}
+22.1;1;noise;noise_out;10.7551
+22.1;1;noise;;{value: -0.759681, sigma: 0.1}
+22.2;1;noise;noise_out;-0.759681
+22.2;1;noise;;{value: 7.34727, sigma: 0.1}
+22.3;1;noise;noise_out;7.34727
+22.3;1;noise;;{value: -5.6908, sigma: 0.1}
+22.4;1;noise;noise_out;-5.6908
+22.4;1;noise;;{value: 4.76117, sigma: 0.1}
+22.5;1;noise;noise_out;4.76117
+22.5;1;noise;;{value: 5.51342, sigma: 0.1}
+22.6;1;noise;noise_out;5.51342
+22.6;1;noise;;{value: 12.8468, sigma: 0.1}
+22.7;1;noise;noise_out;12.8468
+22.7;1;noise;;{value: 2.57516, sigma: 0.1}
+22.8;1;noise;noise_out;2.57516
+22.8;1;noise;;{value: -11.6875, sigma: 0.1}
+22.9;1;noise;noise_out;-11.6875
+22.9;1;noise;;{value: -23.1792, sigma: 0.1}
+23;1;noise;noise_out;-23.1792
+23;1;noise;;{value: 11.9813, sigma: 0.1}
+23.1;1;noise;noise_out;11.9813
+23.1;1;noise;;{value: -1.57643, sigma: 0.1}
+23.2;1;noise;noise_out;-1.57643
+23.2;1;noise;;{value: 7.3013, sigma: 0.1}
+23.3;1;noise;noise_out;7.3013
+23.3;1;noise;;{value: 12.5169, sigma: 0.1}
+23.4;1;noise;noise_out;12.5169
+23.4;1;noise;;{value: -8.22222, sigma: 0.1}
+23.5;1;noise;noise_out;-8.22222
+23.5;1;noise;;{value: 0.177098, sigma: 0.1}
+23.6;1;noise;noise_out;0.177098
+23.6;1;noise;;{value: 3.9912, sigma: 0.1}
+23.7;1;noise;noise_out;3.9912
+23.7;1;noise;;{value: -2.55852, sigma: 0.1}
+23.8;1;noise;noise_out;-2.55852
+23.8;1;noise;;{value: -15.6485, sigma: 0.1}
+23.9;1;noise;noise_out;-15.6485
+23.9;1;noise;;{value: -1.12672, sigma: 0.1}
+24;1;noise;noise_out;-1.12672
+24;1;noise;;{value: -10.0513, sigma: 0.1}
+24.1;1;noise;noise_out;-10.0513
+24.1;1;noise;;{value: 32.341, sigma: 0.1}
+24.2;1;noise;noise_out;32.341
+24.2;1;noise;;{value: 5.15382, sigma: 0.1}
+24.3;1;noise;noise_out;5.15382
+24.3;1;noise;;{value: -5.51758, sigma: 0.1}
+24.4;1;noise;noise_out;-5.51758
+24.4;1;noise;;{value: 6.28623, sigma: 0.1}
+24.5;1;noise;noise_out;6.28623
+24.5;1;noise;;{value: -0.4212, sigma: 0.1}
+24.6;1;noise;noise_out;-0.4212
+24.6;1;noise;;{value: 2.79797, sigma: 0.1}
+24.7;1;noise;noise_out;2.79797
+24.7;1;noise;;{value: 17.2976, sigma: 0.1}
+24.8;1;noise;noise_out;17.2976
+24.8;1;noise;;{value: 13.2771, sigma: 0.1}
+24.9;1;noise;noise_out;13.2771
+24.9;1;noise;;{value: 4.64883, sigma: 0.1}
+25;1;noise;noise_out;4.64883
+25;1;noise;;{value: -19.2236, sigma: 0.1}
+25.1;1;noise;noise_out;-19.2236
+25.1;1;noise;;{value: -18.0052, sigma: 0.1}
+25.2;1;noise;noise_out;-18.0052
+25.2;1;noise;;{value: 4.85466, sigma: 0.1}
+25.3;1;noise;noise_out;4.85466
+25.3;1;noise;;{value: 9.55688, sigma: 0.1}
+25.4;1;noise;noise_out;9.55688
+25.4;1;noise;;{value: -6.62212, sigma: 0.1}
+25.5;1;noise;noise_out;-6.62212
+25.5;1;noise;;{value: 8.22763, sigma: 0.1}
+25.6;1;noise;noise_out;8.22763
+25.6;1;noise;;{value: 25.5534, sigma: 0.1}
+25.7;1;noise;noise_out;25.5534
+25.7;1;noise;;{value: 4.38768, sigma: 0.1}
+25.8;1;noise;noise_out;4.38768
+25.8;1;noise;;{value: -7.32484, sigma: 0.1}
+25.9;1;noise;noise_out;-7.32484
+25.9;1;noise;;{value: -8.02416, sigma: 0.1}
+26;1;noise;noise_out;-8.02416
+26;1;noise;;{value: -3.17698, sigma: 0.1}
+26.1;1;noise;noise_out;-3.17698
+26.1;1;noise;;{value: 3.76885, sigma: 0.1}
+26.2;1;noise;noise_out;3.76885
+26.2;1;noise;;{value: 8.6893, sigma: 0.1}
+26.3;1;noise;noise_out;8.6893
+26.3;1;noise;;{value: 5.01005, sigma: 0.1}
+26.4;1;noise;noise_out;5.01005
+26.4;1;noise;;{value: -1.13677, sigma: 0.1}
+26.5;1;noise;noise_out;-1.13677
+26.5;1;noise;;{value: 7.32482, sigma: 0.1}
+26.6;1;noise;noise_out;7.32482
+26.6;1;noise;;{value: 2.16127, sigma: 0.1}
+26.7;1;noise;noise_out;2.16127
+26.7;1;noise;;{value: -7.12495, sigma: 0.1}
+26.8;1;noise;noise_out;-7.12495
+26.8;1;noise;;{value: -2.96127, sigma: 0.1}
+26.9;1;noise;noise_out;-2.96127
+26.9;1;noise;;{value: 6.97597, sigma: 0.1}
+27;1;noise;noise_out;6.97597
+27;1;noise;;{value: -1.0813, sigma: 0.1}
+27.1;1;noise;noise_out;-1.0813
+27.1;1;noise;;{value: -3.11437, sigma: 0.1}
+27.2;1;noise;noise_out;-3.11437
+27.2;1;noise;;{value: 6.51105, sigma: 0.1}
+27.3;1;noise;noise_out;6.51105
+27.3;1;noise;;{value: 3.16268, sigma: 0.1}
+27.4;1;noise;noise_out;3.16268
+27.4;1;noise;;{value: 15.6786, sigma: 0.1}
+27.5;1;noise;noise_out;15.6786
+27.5;1;noise;;{value: 4.96961, sigma: 0.1}
+27.6;1;noise;noise_out;4.96961
+27.6;1;noise;;{value: -16.854, sigma: 0.1}
+27.7;1;noise;noise_out;-16.854
+27.7;1;noise;;{value: -5.97682, sigma: 0.1}
+27.8;1;noise;noise_out;-5.97682
+27.8;1;noise;;{value: -10.5394, sigma: 0.1}
+27.9;1;noise;noise_out;-10.5394
+27.9;1;noise;;{value: -12.6169, sigma: 0.1}
+28;1;noise;noise_out;-12.6169
+28;1;noise;;{value: 26.6752, sigma: 0.1}
+28.1;1;noise;noise_out;26.6752
+28.1;1;noise;;{value: 3.66869, sigma: 0.1}
+28.2;1;noise;noise_out;3.66869
+28.2;1;noise;;{value: -7.35915, sigma: 0.1}
+28.3;1;noise;noise_out;-7.35915
+28.3;1;noise;;{value: -4.45007, sigma: 0.1}
+28.4;1;noise;noise_out;-4.45007
+28.4;1;noise;;{value: 6.96551, sigma: 0.1}
+28.5;1;noise;noise_out;6.96551
+28.5;1;noise;;{value: 14.3914, sigma: 0.1}
+28.6;1;noise;noise_out;14.3914
+28.6;1;noise;;{value: -0.460905, sigma: 0.1}
+28.7;1;noise;noise_out;-0.460905
+28.7;1;noise;;{value: 6.61522, sigma: 0.1}
+28.8;1;noise;noise_out;6.61522
+28.8;1;noise;;{value: -10.2156, sigma: 0.1}
+28.9;1;noise;noise_out;-10.2156
+28.9;1;noise;;{value: -3.40216, sigma: 0.1}
+29;1;noise;noise_out;-3.40216
+29;1;noise;;{value: 2.27583, sigma: 0.1}
+29.1;1;noise;noise_out;2.27583
+29.1;1;noise;;{value: -3.0555, sigma: 0.1}
+29.2;1;noise;noise_out;-3.0555
+29.2;1;noise;;{value: 3.40482, sigma: 0.1}
+29.3;1;noise;noise_out;3.40482
+29.3;1;noise;;{value: 2.52601, sigma: 0.1}
+29.4;1;noise;noise_out;2.52601
+29.4;1;noise;;{value: 5.3768, sigma: 0.1}
+29.5;1;noise;noise_out;5.3768
+29.5;1;noise;;{value: -2.12864, sigma: 0.1}
+29.6;1;noise;noise_out;-2.12864
+29.6;1;noise;;{value: 7.20751, sigma: 0.1}
+29.7;1;noise;noise_out;7.20751
+29.7;1;noise;;{value: 14.3817, sigma: 0.1}
+29.8;1;noise;noise_out;14.3817
+29.8;1;noise;;{value: -18.9984, sigma: 0.1}
+29.9;1;noise;noise_out;-18.9984
+29.9;1;noise;;{value: 17.3982, sigma: 0.1}
+30;1;noise;noise_out;17.3982
+30;1;noise;;{value: 5.03523, sigma: 0.1}
+30.1;1;noise;noise_out;5.03523
+30.1;1;noise;;{value: -0.525222, sigma: 0.1}
+30.2;1;noise;noise_out;-0.525222
+30.2;1;noise;;{value: 2.69658, sigma: 0.1}
+30.3;1;noise;noise_out;2.69658
+30.3;1;noise;;{value: 19.5104, sigma: 0.1}
+30.4;1;noise;noise_out;19.5104
+30.4;1;noise;;{value: -0.29648, sigma: 0.1}
+30.5;1;noise;noise_out;-0.29648
+30.5;1;noise;;{value: 1.82212, sigma: 0.1}
+30.6;1;noise;noise_out;1.82212
+30.6;1;noise;;{value: 3.76972, sigma: 0.1}
+30.7;1;noise;noise_out;3.76972
+30.7;1;noise;;{value: 9.01751, sigma: 0.1}
+30.8;1;noise;noise_out;9.01751
+30.8;1;noise;;{value: 2.38339, sigma: 0.1}
+30.9;1;noise;noise_out;2.38339
+30.9;1;noise;;{value: 7.93717, sigma: 0.1}
+31;1;noise;noise_out;7.93717
+31;1;noise;;{value: 6.04584, sigma: 0.1}
+31.1;1;noise;noise_out;6.04584
+31.1;1;noise;;{value: -14.8246, sigma: 0.1}
+31.2;1;noise;noise_out;-14.8246
+31.2;1;noise;;{value: -15.3051, sigma: 0.1}
+31.3;1;noise;noise_out;-15.3051
+31.3;1;noise;;{value: -1.54899, sigma: 0.1}
+31.4;1;noise;noise_out;-1.54899
+31.4;1;noise;;{value: 0.776736, sigma: 0.1}
+31.5;1;noise;noise_out;0.776736
+31.5;1;noise;;{value: -7.35269, sigma: 0.1}
+31.6;1;noise;noise_out;-7.35269
+31.6;1;noise;;{value: -6.73734, sigma: 0.1}
+31.7;1;noise;noise_out;-6.73734
+31.7;1;noise;;{value: -7.42618, sigma: 0.1}
+31.8;1;noise;noise_out;-7.42618
+31.8;1;noise;;{value: 8.72729, sigma: 0.1}
+31.9;1;noise;noise_out;8.72729
+31.9;1;noise;;{value: -5.53186, sigma: 0.1}
+32;1;noise;noise_out;-5.53186
+32;1;noise;;{value: -0.135871, sigma: 0.1}
+32.1;1;noise;noise_out;-0.135871
+32.1;1;noise;;{value: 15.7452, sigma: 0.1}
+32.2;1;noise;noise_out;15.7452
+32.2;1;noise;;{value: -21.7065, sigma: 0.1}
+32.3;1;noise;noise_out;-21.7065
+32.3;1;noise;;{value: 1.21656, sigma: 0.1}
+32.4;1;noise;noise_out;1.21656
+32.4;1;noise;;{value: -3.15349, sigma: 0.1}
+32.5;1;noise;noise_out;-3.15349
+32.5;1;noise;;{value: 1.50975, sigma: 0.1}
+32.6;1;noise;noise_out;1.50975
+32.6;1;noise;;{value: 5.64478, sigma: 0.1}
+32.7;1;noise;noise_out;5.64478
+32.7;1;noise;;{value: -5.66545, sigma: 0.1}
+32.8;1;noise;noise_out;-5.66545
+32.8;1;noise;;{value: -7.0225, sigma: 0.1}
+32.9;1;noise;noise_out;-7.0225
+32.9;1;noise;;{value: -9.53522, sigma: 0.1}
+33;1;noise;noise_out;-9.53522
+33;1;noise;;{value: 0.500727, sigma: 0.1}
+33.1;1;noise;noise_out;0.500727
+33.1;1;noise;;{value: 21.8758, sigma: 0.1}
+33.2;1;noise;noise_out;21.8758
+33.2;1;noise;;{value: -9.91102, sigma: 0.1}
+33.3;1;noise;noise_out;-9.91102
+33.3;1;noise;;{value: -1.28347, sigma: 0.1}
+33.4;1;noise;noise_out;-1.28347
+33.4;1;noise;;{value: 7.81634, sigma: 0.1}
+33.5;1;noise;noise_out;7.81634
+33.5;1;noise;;{value: 5.90753, sigma: 0.1}
+33.6;1;noise;noise_out;5.90753
+33.6;1;noise;;{value: -5.55206, sigma: 0.1}
+33.7;1;noise;noise_out;-5.55206
+33.7;1;noise;;{value: 3.98024, sigma: 0.1}
+33.8;1;noise;noise_out;3.98024
+33.8;1;noise;;{value: 10.4248, sigma: 0.1}
+33.9;1;noise;noise_out;10.4248
+33.9;1;noise;;{value: 8.13643, sigma: 0.1}
+34;1;noise;noise_out;8.13643
+34;1;noise;;{value: 11.0571, sigma: 0.1}
+34.1;1;noise;noise_out;11.0571
+34.1;1;noise;;{value: 4.83651, sigma: 0.1}
+34.2;1;noise;noise_out;4.83651
+34.2;1;noise;;{value: -4.8192, sigma: 0.1}
+34.3;1;noise;noise_out;-4.8192
+34.3;1;noise;;{value: -6.03631, sigma: 0.1}
+34.4;1;noise;noise_out;-6.03631
+34.4;1;noise;;{value: 8.06602, sigma: 0.1}
+34.5;1;noise;noise_out;8.06602
+34.5;1;noise;;{value: 15.8389, sigma: 0.1}
+34.6;1;noise;noise_out;15.8389
+34.6;1;noise;;{value: -3.86764, sigma: 0.1}
+34.7;1;noise;noise_out;-3.86764
+34.7;1;noise;;{value: -1.06124, sigma: 0.1}
+34.8;1;noise;noise_out;-1.06124
+34.8;1;noise;;{value: -3.67978, sigma: 0.1}
+34.9;1;noise;noise_out;-3.67978
+34.9;1;noise;;{value: 2.96978, sigma: 0.1}
+35;1;noise;noise_out;2.96978
+35;1;noise;;{value: 4.73455, sigma: 0.1}
+35.1;1;noise;noise_out;4.73455
+35.1;1;noise;;{value: -1.91735, sigma: 0.1}
+35.2;1;noise;noise_out;-1.91735
+35.2;1;noise;;{value: 7.29641, sigma: 0.1}
+35.3;1;noise;noise_out;7.29641
+35.3;1;noise;;{value: 9.2657, sigma: 0.1}
+35.4;1;noise;noise_out;9.2657
+35.4;1;noise;;{value: -6.61872, sigma: 0.1}
+35.5;1;noise;noise_out;-6.61872
+35.5;1;noise;;{value: -10.4414, sigma: 0.1}
+35.6;1;noise;noise_out;-10.4414
+35.6;1;noise;;{value: 2.85042, sigma: 0.1}
+35.7;1;noise;noise_out;2.85042
+35.7;1;noise;;{value: 16.1617, sigma: 0.1}
+35.8;1;noise;noise_out;16.1617
+35.8;1;noise;;{value: 2.43729, sigma: 0.1}
+35.9;1;noise;noise_out;2.43729
+35.9;1;noise;;{value: 5.68127, sigma: 0.1}
+36;1;noise;noise_out;5.68127
+36;1;noise;;{value: -9.96283, sigma: 0.1}
+36.1;1;noise;noise_out;-9.96283
+36.1;1;noise;;{value: -12.7807, sigma: 0.1}
+36.2;1;noise;noise_out;-12.7807
+36.2;1;noise;;{value: 0.363428, sigma: 0.1}
+36.3;1;noise;noise_out;0.363428
+36.3;1;noise;;{value: -14.4922, sigma: 0.1}
+36.4;1;noise;noise_out;-14.4922
+36.4;1;noise;;{value: -11.6426, sigma: 0.1}
+36.5;1;noise;noise_out;-11.6426
+36.5;1;noise;;{value: -2.22676, sigma: 0.1}
+36.6;1;noise;noise_out;-2.22676
+36.6;1;noise;;{value: -2.85002, sigma: 0.1}
+36.7;1;noise;noise_out;-2.85002
+36.7;1;noise;;{value: 23.0419, sigma: 0.1}
+36.8;1;noise;noise_out;23.0419
+36.8;1;noise;;{value: 0.178275, sigma: 0.1}
+36.9;1;noise;noise_out;0.178275
+36.9;1;noise;;{value: 14.1763, sigma: 0.1}
+37;1;noise;noise_out;14.1763
+37;1;noise;;{value: 2.29489, sigma: 0.1}
+37.1;1;noise;noise_out;2.29489
+37.1;1;noise;;{value: -28.289, sigma: 0.1}
+37.2;1;noise;noise_out;-28.289
+37.2;1;noise;;{value: -9.53387, sigma: 0.1}
+37.3;1;noise;noise_out;-9.53387
+37.3;1;noise;;{value: 13.3019, sigma: 0.1}
+37.4;1;noise;noise_out;13.3019
+37.4;1;noise;;{value: 1.34339, sigma: 0.1}
+37.5;1;noise;noise_out;1.34339
+37.5;1;noise;;{value: -2.96998, sigma: 0.1}
+37.6;1;noise;noise_out;-2.96998
+37.6;1;noise;;{value: 11.8335, sigma: 0.1}
+37.7;1;noise;noise_out;11.8335
+37.7;1;noise;;{value: 19.325, sigma: 0.1}
+37.8;1;noise;noise_out;19.325
+37.8;1;noise;;{value: 4.29628, sigma: 0.1}
+37.9;1;noise;noise_out;4.29628
+37.9;1;noise;;{value: 1.45705, sigma: 0.1}
+38;1;noise;noise_out;1.45705
+38;1;noise;;{value: -15.5362, sigma: 0.1}
+38.1;1;noise;noise_out;-15.5362
+38.1;1;noise;;{value: 5.27092, sigma: 0.1}
+38.2;1;noise;noise_out;5.27092
+38.2;1;noise;;{value: -17.9505, sigma: 0.1}
+38.3;1;noise;noise_out;-17.9505
+38.3;1;noise;;{value: -0.583743, sigma: 0.1}
+38.4;1;noise;noise_out;-0.583743
+38.4;1;noise;;{value: -3.2629, sigma: 0.1}
+38.5;1;noise;noise_out;-3.2629
+38.5;1;noise;;{value: -0.689783, sigma: 0.1}
+38.6;1;noise;noise_out;-0.689783
+38.6;1;noise;;{value: -1.76465, sigma: 0.1}
+38.7;1;noise;noise_out;-1.76465
+38.7;1;noise;;{value: 17.0553, sigma: 0.1}
+38.8;1;noise;noise_out;17.0553
+38.8;1;noise;;{value: -3.35551, sigma: 0.1}
+38.9;1;noise;noise_out;-3.35551
+38.9;1;noise;;{value: 4.05394, sigma: 0.1}
+39;1;noise;noise_out;4.05394
+39;1;noise;;{value: -8.61521, sigma: 0.1}
+39.1;1;noise;noise_out;-8.61521
+39.1;1;noise;;{value: 10.5217, sigma: 0.1}
+39.2;1;noise;noise_out;10.5217
+39.2;1;noise;;{value: -4.83685, sigma: 0.1}
+39.3;1;noise;noise_out;-4.83685
+39.3;1;noise;;{value: -2.72938, sigma: 0.1}
+39.4;1;noise;noise_out;-2.72938
+39.4;1;noise;;{value: -3.43403, sigma: 0.1}
+39.5;1;noise;noise_out;-3.43403
+39.5;1;noise;;{value: -3.38925, sigma: 0.1}
+39.6;1;noise;noise_out;-3.38925
+39.6;1;noise;;{value: 4.12137, sigma: 0.1}
+39.7;1;noise;noise_out;4.12137
+39.7;1;noise;;{value: -2.26535, sigma: 0.1}
+39.8;1;noise;noise_out;-2.26535
+39.8;1;noise;;{value: -8.16437, sigma: 0.1}
+39.9;1;noise;noise_out;-8.16437
+39.9;1;noise;;{value: -11.3762, sigma: 0.1}
+40;1;noise;noise_out;-11.3762
+40;1;noise;;{value: -8.35377, sigma: 0.1}
+40.1;1;noise;noise_out;-8.35377
+40.1;1;noise;;{value: 13.2819, sigma: 0.1}
+40.2;1;noise;noise_out;13.2819
+40.2;1;noise;;{value: -3.06552, sigma: 0.1}
+40.3;1;noise;noise_out;-3.06552
+40.3;1;noise;;{value: -7.94575, sigma: 0.1}
+40.4;1;noise;noise_out;-7.94575
+40.4;1;noise;;{value: -22.8351, sigma: 0.1}
+40.5;1;noise;noise_out;-22.8351
+40.5;1;noise;;{value: 4.20498, sigma: 0.1}
+40.6;1;noise;noise_out;4.20498
+40.6;1;noise;;{value: -6.15079, sigma: 0.1}
+40.7;1;noise;noise_out;-6.15079
+40.7;1;noise;;{value: -1.66634, sigma: 0.1}
+40.8;1;noise;noise_out;-1.66634
+40.8;1;noise;;{value: -2.623, sigma: 0.1}
+40.9;1;noise;noise_out;-2.623
+40.9;1;noise;;{value: 7.67606, sigma: 0.1}
+41;1;noise;noise_out;7.67606
+41;1;noise;;{value: 13.2505, sigma: 0.1}
+41.1;1;noise;noise_out;13.2505
+41.1;1;noise;;{value: 11.3872, sigma: 0.1}
+41.2;1;noise;noise_out;11.3872
+41.2;1;noise;;{value: 0.198621, sigma: 0.1}
+41.3;1;noise;noise_out;0.198621
+41.3;1;noise;;{value: 2.59192, sigma: 0.1}
+41.4;1;noise;noise_out;2.59192
+41.4;1;noise;;{value: 34.7566, sigma: 0.1}
+41.5;1;noise;noise_out;34.7566
+41.5;1;noise;;{value: 14.0322, sigma: 0.1}
+41.6;1;noise;noise_out;14.0322
+41.6;1;noise;;{value: -8.0228, sigma: 0.1}
+41.7;1;noise;noise_out;-8.0228
+41.7;1;noise;;{value: -5.56887, sigma: 0.1}
+41.8;1;noise;noise_out;-5.56887
+41.8;1;noise;;{value: 4.68244, sigma: 0.1}
+41.9;1;noise;noise_out;4.68244
+41.9;1;noise;;{value: 5.03865, sigma: 0.1}
+42;1;noise;noise_out;5.03865
+42;1;noise;;{value: -5.32328, sigma: 0.1}
+42.1;1;noise;noise_out;-5.32328
+42.1;1;noise;;{value: 14.3775, sigma: 0.1}
+42.2;1;noise;noise_out;14.3775
+42.2;1;noise;;{value: 5.91534, sigma: 0.1}
+42.3;1;noise;noise_out;5.91534
+42.3;1;noise;;{value: -3.22444, sigma: 0.1}
+42.4;1;noise;noise_out;-3.22444
+42.4;1;noise;;{value: -13.553, sigma: 0.1}
+42.5;1;noise;noise_out;-13.553
+42.5;1;noise;;{value: 12.2368, sigma: 0.1}
+42.6;1;noise;noise_out;12.2368
+42.6;1;noise;;{value: -5.04174, sigma: 0.1}
+42.7;1;noise;noise_out;-5.04174
+42.7;1;noise;;{value: 2.5561, sigma: 0.1}
+42.8;1;noise;noise_out;2.5561
+42.8;1;noise;;{value: 10.6269, sigma: 0.1}
+42.9;1;noise;noise_out;10.6269
+42.9;1;noise;;{value: -7.0123, sigma: 0.1}
+43;1;noise;noise_out;-7.0123
+43;1;noise;;{value: -5.23177, sigma: 0.1}
+43.1;1;noise;noise_out;-5.23177
+43.1;1;noise;;{value: -16.3181, sigma: 0.1}
+43.2;1;noise;noise_out;-16.3181
+43.2;1;noise;;{value: -4.9696, sigma: 0.1}
+43.3;1;noise;noise_out;-4.9696
+43.3;1;noise;;{value: -3.09967, sigma: 0.1}
+43.4;1;noise;noise_out;-3.09967
+43.4;1;noise;;{value: 11.8258, sigma: 0.1}
+43.5;1;noise;noise_out;11.8258
+43.5;1;noise;;{value: 1.61804, sigma: 0.1}
+43.6;1;noise;noise_out;1.61804
+43.6;1;noise;;{value: -6.10628, sigma: 0.1}
+43.7;1;noise;noise_out;-6.10628
+43.7;1;noise;;{value: -14.055, sigma: 0.1}
+43.8;1;noise;noise_out;-14.055
+43.8;1;noise;;{value: -6.06802, sigma: 0.1}
+43.9;1;noise;noise_out;-6.06802
+43.9;1;noise;;{value: -9.65242, sigma: 0.1}
+44;1;noise;noise_out;-9.65242
+44;1;noise;;{value: -8.24195, sigma: 0.1}
+44.1;1;noise;noise_out;-8.24195
+44.1;1;noise;;{value: -5.80143, sigma: 0.1}
+44.2;1;noise;noise_out;-5.80143
+44.2;1;noise;;{value: -14.7609, sigma: 0.1}
+44.3;1;noise;noise_out;-14.7609
+44.3;1;noise;;{value: -9.66458, sigma: 0.1}
+44.4;1;noise;noise_out;-9.66458
+44.4;1;noise;;{value: -3.54006, sigma: 0.1}
+44.5;1;noise;noise_out;-3.54006
+44.5;1;noise;;{value: 8.10561, sigma: 0.1}
+44.6;1;noise;noise_out;8.10561
+44.6;1;noise;;{value: 12.5976, sigma: 0.1}
+44.7;1;noise;noise_out;12.5976
+44.7;1;noise;;{value: -3.66833, sigma: 0.1}
+44.8;1;noise;noise_out;-3.66833
+44.8;1;noise;;{value: 3.9819, sigma: 0.1}
+44.9;1;noise;noise_out;3.9819
+44.9;1;noise;;{value: 2.56443, sigma: 0.1}
+45;1;noise;noise_out;2.56443
+45;1;noise;;{value: -12.8808, sigma: 0.1}
+45.1;1;noise;noise_out;-12.8808
+45.1;1;noise;;{value: 7.55377, sigma: 0.1}
+45.2;1;noise;noise_out;7.55377
+45.2;1;noise;;{value: 1.41838, sigma: 0.1}
+45.3;1;noise;noise_out;1.41838
+45.3;1;noise;;{value: 23.3066, sigma: 0.1}
+45.4;1;noise;noise_out;23.3066
+45.4;1;noise;;{value: 2.78816, sigma: 0.1}
+45.5;1;noise;noise_out;2.78816
+45.5;1;noise;;{value: -7.95906, sigma: 0.1}
+45.6;1;noise;noise_out;-7.95906
+45.6;1;noise;;{value: -12.7156, sigma: 0.1}
+45.7;1;noise;noise_out;-12.7156
+45.7;1;noise;;{value: -15.8927, sigma: 0.1}
+45.8;1;noise;noise_out;-15.8927
+45.8;1;noise;;{value: -0.487075, sigma: 0.1}
+45.9;1;noise;noise_out;-0.487075
+45.9;1;noise;;{value: -0.731105, sigma: 0.1}
+46;1;noise;noise_out;-0.731105
+46;1;noise;;{value: 19.0351, sigma: 0.1}
+46.1;1;noise;noise_out;19.0351
+46.1;1;noise;;{value: 15.3331, sigma: 0.1}
+46.2;1;noise;noise_out;15.3331
+46.2;1;noise;;{value: 12.6022, sigma: 0.1}
+46.3;1;noise;noise_out;12.6022
+46.3;1;noise;;{value: 6.92605, sigma: 0.1}
+46.4;1;noise;noise_out;6.92605
+46.4;1;noise;;{value: 6.84877, sigma: 0.1}
+46.5;1;noise;noise_out;6.84877
+46.5;1;noise;;{value: 20.2684, sigma: 0.1}
+46.6;1;noise;noise_out;20.2684
+46.6;1;noise;;{value: 19.3009, sigma: 0.1}
+46.7;1;noise;noise_out;19.3009
+46.7;1;noise;;{value: -1.70867, sigma: 0.1}
+46.8;1;noise;noise_out;-1.70867
+46.8;1;noise;;{value: 4.54225, sigma: 0.1}
+46.9;1;noise;noise_out;4.54225
+46.9;1;noise;;{value: -8.53365, sigma: 0.1}
+47;1;noise;noise_out;-8.53365
+47;1;noise;;{value: -4.96312, sigma: 0.1}
+47.1;1;noise;noise_out;-4.96312
+47.1;1;noise;;{value: -3.14503, sigma: 0.1}
+47.2;1;noise;noise_out;-3.14503
+47.2;1;noise;;{value: 6.30674, sigma: 0.1}
+47.3;1;noise;noise_out;6.30674
+47.3;1;noise;;{value: 5.63178, sigma: 0.1}
+47.4;1;noise;noise_out;5.63178
+47.4;1;noise;;{value: -3.04862, sigma: 0.1}
+47.5;1;noise;noise_out;-3.04862
+47.5;1;noise;;{value: 8.3464, sigma: 0.1}
+47.6;1;noise;noise_out;8.3464
+47.6;1;noise;;{value: -2.77028, sigma: 0.1}
+47.7;1;noise;noise_out;-2.77028
+47.7;1;noise;;{value: -19.4309, sigma: 0.1}
+47.8;1;noise;noise_out;-19.4309
+47.8;1;noise;;{value: -15.3914, sigma: 0.1}
+47.9;1;noise;noise_out;-15.3914
+47.9;1;noise;;{value: -7.57256, sigma: 0.1}
+48;1;noise;noise_out;-7.57256
+48;1;noise;;{value: 8.85346, sigma: 0.1}
+48.1;1;noise;noise_out;8.85346
+48.1;1;noise;;{value: -5.96034, sigma: 0.1}
+48.2;1;noise;noise_out;-5.96034
+48.2;1;noise;;{value: 5.47892, sigma: 0.1}
+48.3;1;noise;noise_out;5.47892
+48.3;1;noise;;{value: -14.8336, sigma: 0.1}
+48.4;1;noise;noise_out;-14.8336
+48.4;1;noise;;{value: -3.15821, sigma: 0.1}
+48.5;1;noise;noise_out;-3.15821
+48.5;1;noise;;{value: 21.7842, sigma: 0.1}
+48.6;1;noise;noise_out;21.7842
+48.6;1;noise;;{value: 22.9002, sigma: 0.1}
+48.7;1;noise;noise_out;22.9002
+48.7;1;noise;;{value: -6.46527, sigma: 0.1}
+48.8;1;noise;noise_out;-6.46527
+48.8;1;noise;;{value: -10.3816, sigma: 0.1}
+48.9;1;noise;noise_out;-10.3816
+48.9;1;noise;;{value: 18.1063, sigma: 0.1}
+49;1;noise;noise_out;18.1063
+49;1;noise;;{value: -10.7333, sigma: 0.1}
+49.1;1;noise;noise_out;-10.7333
+49.1;1;noise;;{value: 3.42861, sigma: 0.1}
+49.2;1;noise;noise_out;3.42861
+49.2;1;noise;;{value: 15.81, sigma: 0.1}
+49.3;1;noise;noise_out;15.81
+49.3;1;noise;;{value: -10.5089, sigma: 0.1}
+49.4;1;noise;noise_out;-10.5089
+49.4;1;noise;;{value: -2.12437, sigma: 0.1}
+49.5;1;noise;noise_out;-2.12437
+49.5;1;noise;;{value: -5.79957, sigma: 0.1}
+49.6;1;noise;noise_out;-5.79957
+49.6;1;noise;;{value: 5.67615, sigma: 0.1}
+49.7;1;noise;noise_out;5.67615
+49.7;1;noise;;{value: 1.69901, sigma: 0.1}
+49.8;1;noise;noise_out;1.69901
+49.8;1;noise;;{value: 2.62251, sigma: 0.1}
+49.9;1;noise;noise_out;2.62251
+49.9;1;noise;;{value: -11.1947, sigma: 0.1}
+50;1;noise;noise_out;-11.1947
+50;1;noise;;{value: -1.07326, sigma: 0.1}
+50.1;1;noise;noise_out;-1.07326
+50.1;1;noise;;{value: -2.66442, sigma: 0.1}
+50.2;1;noise;noise_out;-2.66442
+50.2;1;noise;;{value: 6.48302, sigma: 0.1}
+50.3;1;noise;noise_out;6.48302
+50.3;1;noise;;{value: 5.89673, sigma: 0.1}
+50.4;1;noise;noise_out;5.89673
+50.4;1;noise;;{value: -11.2405, sigma: 0.1}
+50.5;1;noise;noise_out;-11.2405
+50.5;1;noise;;{value: 3.3282, sigma: 0.1}
+50.6;1;noise;noise_out;3.3282
+50.6;1;noise;;{value: -5.07524, sigma: 0.1}
+50.7;1;noise;noise_out;-5.07524
+50.7;1;noise;;{value: 34.6809, sigma: 0.1}
+50.8;1;noise;noise_out;34.6809
+50.8;1;noise;;{value: -2.8202, sigma: 0.1}
+50.9;1;noise;noise_out;-2.8202
+50.9;1;noise;;{value: 6.99335, sigma: 0.1}
+51;1;noise;noise_out;6.99335
+51;1;noise;;{value: -10.4469, sigma: 0.1}
+51.1;1;noise;noise_out;-10.4469
+51.1;1;noise;;{value: 1.39834, sigma: 0.1}
+51.2;1;noise;noise_out;1.39834
+51.2;1;noise;;{value: -15.4019, sigma: 0.1}
+51.3;1;noise;noise_out;-15.4019
+51.3;1;noise;;{value: -2.57904, sigma: 0.1}
+51.4;1;noise;noise_out;-2.57904
+51.4;1;noise;;{value: 4.49434, sigma: 0.1}
+51.5;1;noise;noise_out;4.49434
+51.5;1;noise;;{value: -4.58975, sigma: 0.1}
+51.6;1;noise;noise_out;-4.58975
+51.6;1;noise;;{value: 19.9672, sigma: 0.1}
+51.7;1;noise;noise_out;19.9672
+51.7;1;noise;;{value: 0.0491071, sigma: 0.1}
+51.8;1;noise;noise_out;0.0491071
+51.8;1;noise;;{value: -6.35508, sigma: 0.1}
+51.9;1;noise;noise_out;-6.35508
+51.9;1;noise;;{value: 2.60666, sigma: 0.1}
+52;1;noise;noise_out;2.60666
+52;1;noise;;{value: -27.0112, sigma: 0.1}
+52.1;1;noise;noise_out;-27.0112
+52.1;1;noise;;{value: 17.4782, sigma: 0.1}
+52.2;1;noise;noise_out;17.4782
+52.2;1;noise;;{value: -9.06072, sigma: 0.1}
+52.3;1;noise;noise_out;-9.06072
+52.3;1;noise;;{value: -0.683689, sigma: 0.1}
+52.4;1;noise;noise_out;-0.683689
+52.4;1;noise;;{value: 4.19951, sigma: 0.1}
+52.5;1;noise;noise_out;4.19951
+52.5;1;noise;;{value: -5.1263, sigma: 0.1}
+52.6;1;noise;noise_out;-5.1263
+52.6;1;noise;;{value: -8.4262, sigma: 0.1}
+52.7;1;noise;noise_out;-8.4262
+52.7;1;noise;;{value: -4.35405, sigma: 0.1}
+52.8;1;noise;noise_out;-4.35405
+52.8;1;noise;;{value: 9.97327, sigma: 0.1}
+52.9;1;noise;noise_out;9.97327
+52.9;1;noise;;{value: 14.7729, sigma: 0.1}
+53;1;noise;noise_out;14.7729
+53;1;noise;;{value: -21.8508, sigma: 0.1}
+53.1;1;noise;noise_out;-21.8508
+53.1;1;noise;;{value: 5.85964, sigma: 0.1}
+53.2;1;noise;noise_out;5.85964
+53.2;1;noise;;{value: 23.8485, sigma: 0.1}
+53.3;1;noise;noise_out;23.8485
+53.3;1;noise;;{value: 11.0967, sigma: 0.1}
+53.4;1;noise;noise_out;11.0967
+53.4;1;noise;;{value: -8.87882, sigma: 0.1}
+53.5;1;noise;noise_out;-8.87882
+53.5;1;noise;;{value: -13.9296, sigma: 0.1}
+53.6;1;noise;noise_out;-13.9296
+53.6;1;noise;;{value: -4.11501, sigma: 0.1}
+53.7;1;noise;noise_out;-4.11501
+53.7;1;noise;;{value: 8.83279, sigma: 0.1}
+53.8;1;noise;noise_out;8.83279
+53.8;1;noise;;{value: -13.3195, sigma: 0.1}
+53.9;1;noise;noise_out;-13.3195
+53.9;1;noise;;{value: 23.7571, sigma: 0.1}
+54;1;noise;noise_out;23.7571
+54;1;noise;;{value: 1.66276, sigma: 0.1}
+54.1;1;noise;noise_out;1.66276
+54.1;1;noise;;{value: 2.81431, sigma: 0.1}
+54.2;1;noise;noise_out;2.81431
+54.2;1;noise;;{value: 4.73859, sigma: 0.1}
+54.3;1;noise;noise_out;4.73859
+54.3;1;noise;;{value: 11.648, sigma: 0.1}
+54.4;1;noise;noise_out;11.648
+54.4;1;noise;;{value: 7.63846, sigma: 0.1}
+54.5;1;noise;noise_out;7.63846
+54.5;1;noise;;{value: -4.37337, sigma: 0.1}
+54.6;1;noise;noise_out;-4.37337
+54.6;1;noise;;{value: 9.33025, sigma: 0.1}
+54.7;1;noise;noise_out;9.33025
+54.7;1;noise;;{value: 5.41903, sigma: 0.1}
+54.8;1;noise;noise_out;5.41903
+54.8;1;noise;;{value: 14.686, sigma: 0.1}
+54.9;1;noise;noise_out;14.686
+54.9;1;noise;;{value: 11.2781, sigma: 0.1}
+55;1;noise;noise_out;11.2781
+55;1;noise;;{value: 5.8921, sigma: 0.1}
+55.1;1;noise;noise_out;5.8921
+55.1;1;noise;;{value: -15.1988, sigma: 0.1}
+55.2;1;noise;noise_out;-15.1988
+55.2;1;noise;;{value: -11.7204, sigma: 0.1}
+55.3;1;noise;noise_out;-11.7204
+55.3;1;noise;;{value: -14.5444, sigma: 0.1}
+55.4;1;noise;noise_out;-14.5444
+55.4;1;noise;;{value: 12.0166, sigma: 0.1}
+55.5;1;noise;noise_out;12.0166
+55.5;1;noise;;{value: -0.117063, sigma: 0.1}
+55.6;1;noise;noise_out;-0.117063
+55.6;1;noise;;{value: 14.5795, sigma: 0.1}
+55.7;1;noise;noise_out;14.5795
+55.7;1;noise;;{value: -1.70506, sigma: 0.1}
+55.8;1;noise;noise_out;-1.70506
+55.8;1;noise;;{value: 14.5316, sigma: 0.1}
+55.9;1;noise;noise_out;14.5316
+55.9;1;noise;;{value: -4.52724, sigma: 0.1}
+56;1;noise;noise_out;-4.52724
+56;1;noise;;{value: 1.95648, sigma: 0.1}
+56.1;1;noise;noise_out;1.95648
+56.1;1;noise;;{value: 0.320214, sigma: 0.1}
+56.2;1;noise;noise_out;0.320214
+56.2;1;noise;;{value: 4.9849, sigma: 0.1}
+56.3;1;noise;noise_out;4.9849
+56.3;1;noise;;{value: 11.5657, sigma: 0.1}
+56.4;1;noise;noise_out;11.5657
+56.4;1;noise;;{value: 24.9419, sigma: 0.1}
+56.5;1;noise;noise_out;24.9419
+56.5;1;noise;;{value: -7.29763, sigma: 0.1}
+56.6;1;noise;noise_out;-7.29763
+56.6;1;noise;;{value: -11.1689, sigma: 0.1}
+56.7;1;noise;noise_out;-11.1689
+56.7;1;noise;;{value: 21.0043, sigma: 0.1}
+56.8;1;noise;noise_out;21.0043
+56.8;1;noise;;{value: -17.9738, sigma: 0.1}
+56.9;1;noise;noise_out;-17.9738
+56.9;1;noise;;{value: -9.04394, sigma: 0.1}
+57;1;noise;noise_out;-9.04394
+57;1;noise;;{value: 3.91205, sigma: 0.1}
+57.1;1;noise;noise_out;3.91205
+57.1;1;noise;;{value: -5.39218, sigma: 0.1}
+57.2;1;noise;noise_out;-5.39218
+57.2;1;noise;;{value: -0.472474, sigma: 0.1}
+57.3;1;noise;noise_out;-0.472474
+57.3;1;noise;;{value: 6.66895, sigma: 0.1}
+57.4;1;noise;noise_out;6.66895
+57.4;1;noise;;{value: -4.08219, sigma: 0.1}
+57.5;1;noise;noise_out;-4.08219
+57.5;1;noise;;{value: -1.94997, sigma: 0.1}
+57.6;1;noise;noise_out;-1.94997
+57.6;1;noise;;{value: 14.0379, sigma: 0.1}
+57.7;1;noise;noise_out;14.0379
+57.7;1;noise;;{value: 6.68874, sigma: 0.1}
+57.8;1;noise;noise_out;6.68874
+57.8;1;noise;;{value: -2.11022, sigma: 0.1}
+57.9;1;noise;noise_out;-2.11022
+57.9;1;noise;;{value: 11.1968, sigma: 0.1}
+58;1;noise;noise_out;11.1968
+58;1;noise;;{value: 2.28102, sigma: 0.1}
+58.1;1;noise;noise_out;2.28102
+58.1;1;noise;;{value: -9.78718, sigma: 0.1}
+58.2;1;noise;noise_out;-9.78718
+58.2;1;noise;;{value: -12.6601, sigma: 0.1}
+58.3;1;noise;noise_out;-12.6601
+58.3;1;noise;;{value: 9.48174, sigma: 0.1}
+58.4;1;noise;noise_out;9.48174
+58.4;1;noise;;{value: -3.57329, sigma: 0.1}
+58.5;1;noise;noise_out;-3.57329
+58.5;1;noise;;{value: 14.2712, sigma: 0.1}
+58.6;1;noise;noise_out;14.2712
+58.6;1;noise;;{value: -22.4994, sigma: 0.1}
+58.7;1;noise;noise_out;-22.4994
+58.7;1;noise;;{value: 14.8225, sigma: 0.1}
+58.8;1;noise;noise_out;14.8225
+58.8;1;noise;;{value: 13.6907, sigma: 0.1}
+58.9;1;noise;noise_out;13.6907
+58.9;1;noise;;{value: -11.7094, sigma: 0.1}
+59;1;noise;noise_out;-11.7094
+59;1;noise;;{value: -5.52401, sigma: 0.1}
+59.1;1;noise;noise_out;-5.52401
+59.1;1;noise;;{value: 6.01225, sigma: 0.1}
+59.2;1;noise;noise_out;6.01225
+59.2;1;noise;;{value: -4.0373, sigma: 0.1}
+59.3;1;noise;noise_out;-4.0373
+59.3;1;noise;;{value: 2.52553, sigma: 0.1}
+59.4;1;noise;noise_out;2.52553
+59.4;1;noise;;{value: 12.7007, sigma: 0.1}
+59.5;1;noise;noise_out;12.7007
+59.5;1;noise;;{value: -9.80033, sigma: 0.1}
+59.6;1;noise;noise_out;-9.80033
+59.6;1;noise;;{value: -22.0413, sigma: 0.1}
+59.7;1;noise;noise_out;-22.0413
+59.7;1;noise;;{value: 22.5038, sigma: 0.1}
+59.8;1;noise;noise_out;22.5038
+59.8;1;noise;;{value: 10.0693, sigma: 0.1}
+59.9;1;noise;noise_out;10.0693
+59.9;1;noise;;{value: 2.66682, sigma: 0.1}
+60;1;noise;noise_out;2.66682
+60;1;noise;;{value: 10.0583, sigma: 0.1}
+60.1;1;noise;noise_out;10.0583
+60.1;1;noise;;{value: -12.7807, sigma: 0.1}
+60.2;1;noise;noise_out;-12.7807
+60.2;1;noise;;{value: -11.3796, sigma: 0.1}
+60.3;1;noise;noise_out;-11.3796
+60.3;1;noise;;{value: -8.77127, sigma: 0.1}
+60.4;1;noise;noise_out;-8.77127
+60.4;1;noise;;{value: 0.300062, sigma: 0.1}
+60.5;1;noise;noise_out;0.300062
+60.5;1;noise;;{value: 2.69062, sigma: 0.1}
+60.6;1;noise;noise_out;2.69062
+60.6;1;noise;;{value: -2.76995, sigma: 0.1}
+60.7;1;noise;noise_out;-2.76995
+60.7;1;noise;;{value: -6.51985, sigma: 0.1}
+60.8;1;noise;noise_out;-6.51985
+60.8;1;noise;;{value: 1.54957, sigma: 0.1}
+60.9;1;noise;noise_out;1.54957
+60.9;1;noise;;{value: 5.98262, sigma: 0.1}
+61;1;noise;noise_out;5.98262
+61;1;noise;;{value: 0.568747, sigma: 0.1}
+61.1;1;noise;noise_out;0.568747
+61.1;1;noise;;{value: -9.56011, sigma: 0.1}
+61.2;1;noise;noise_out;-9.56011
+61.2;1;noise;;{value: -28.5965, sigma: 0.1}
+61.3;1;noise;noise_out;-28.5965
+61.3;1;noise;;{value: 8.51426, sigma: 0.1}
+61.4;1;noise;noise_out;8.51426
+61.4;1;noise;;{value: -3.53295, sigma: 0.1}
+61.5;1;noise;noise_out;-3.53295
+61.5;1;noise;;{value: -6.20345, sigma: 0.1}
+61.6;1;noise;noise_out;-6.20345
+61.6;1;noise;;{value: 11.1324, sigma: 0.1}
+61.7;1;noise;noise_out;11.1324
+61.7;1;noise;;{value: -4.94599, sigma: 0.1}
+61.8;1;noise;noise_out;-4.94599
+61.8;1;noise;;{value: -2.47193, sigma: 0.1}
+61.9;1;noise;noise_out;-2.47193
+61.9;1;noise;;{value: -8.22468, sigma: 0.1}
+62;1;noise;noise_out;-8.22468
+62;1;noise;;{value: 4.64662, sigma: 0.1}
+62.1;1;noise;noise_out;4.64662
+62.1;1;noise;;{value: 6.83275, sigma: 0.1}
+62.2;1;noise;noise_out;6.83275
+62.2;1;noise;;{value: 4.09142, sigma: 0.1}
+62.3;1;noise;noise_out;4.09142
+62.3;1;noise;;{value: 0.78912, sigma: 0.1}
+62.4;1;noise;noise_out;0.78912
+62.4;1;noise;;{value: 10.5328, sigma: 0.1}
+62.5;1;noise;noise_out;10.5328
+62.5;1;noise;;{value: 11.3251, sigma: 0.1}
+62.6;1;noise;noise_out;11.3251
+62.6;1;noise;;{value: -8.29331, sigma: 0.1}
+62.7;1;noise;noise_out;-8.29331
+62.7;1;noise;;{value: -5.53984, sigma: 0.1}
+62.8;1;noise;noise_out;-5.53984
+62.8;1;noise;;{value: 1.8266, sigma: 0.1}
+62.9;1;noise;noise_out;1.8266
+62.9;1;noise;;{value: -14.6986, sigma: 0.1}
+63;1;noise;noise_out;-14.6986
+63;1;noise;;{value: 3.8866, sigma: 0.1}
+63.1;1;noise;noise_out;3.8866
+63.1;1;noise;;{value: -8.65244, sigma: 0.1}
+63.2;1;noise;noise_out;-8.65244
+63.2;1;noise;;{value: 13.6268, sigma: 0.1}
+63.3;1;noise;noise_out;13.6268
+63.3;1;noise;;{value: -8.83915, sigma: 0.1}
+63.4;1;noise;noise_out;-8.83915
+63.4;1;noise;;{value: 11.1888, sigma: 0.1}
+63.5;1;noise;noise_out;11.1888
+63.5;1;noise;;{value: -4.12849, sigma: 0.1}
+63.6;1;noise;noise_out;-4.12849
+63.6;1;noise;;{value: 1.41783, sigma: 0.1}
+63.7;1;noise;noise_out;1.41783
+63.7;1;noise;;{value: 2.58825, sigma: 0.1}
+63.8;1;noise;noise_out;2.58825
+63.8;1;noise;;{value: 3.59294, sigma: 0.1}
+63.9;1;noise;noise_out;3.59294
+63.9;1;noise;;{value: -1.89222, sigma: 0.1}
+64;1;noise;noise_out;-1.89222
+64;1;noise;;{value: -2.01595, sigma: 0.1}
+64.1;1;noise;noise_out;-2.01595
+64.1;1;noise;;{value: -4.09247, sigma: 0.1}
+64.2;1;noise;noise_out;-4.09247
+64.2;1;noise;;{value: 10.0114, sigma: 0.1}
+64.3;1;noise;noise_out;10.0114
+64.3;1;noise;;{value: -8.64213, sigma: 0.1}
+64.4;1;noise;noise_out;-8.64213
+64.4;1;noise;;{value: 19.2563, sigma: 0.1}
+64.5;1;noise;noise_out;19.2563
+64.5;1;noise;;{value: 2.66377, sigma: 0.1}
+64.6;1;noise;noise_out;2.66377
+64.6;1;noise;;{value: 9.4045, sigma: 0.1}
+64.7;1;noise;noise_out;9.4045
+64.7;1;noise;;{value: 8.92385, sigma: 0.1}
+64.8;1;noise;noise_out;8.92385
+64.8;1;noise;;{value: -7.3315, sigma: 0.1}
+64.9;1;noise;noise_out;-7.3315
+64.9;1;noise;;{value: 28.259, sigma: 0.1}
+65;1;noise;noise_out;28.259
+65;1;noise;;{value: 5.98807, sigma: 0.1}
+65.1;1;noise;noise_out;5.98807
+65.1;1;noise;;{value: 4.66582, sigma: 0.1}
+65.2;1;noise;noise_out;4.66582
+65.2;1;noise;;{value: 19.2026, sigma: 0.1}
+65.3;1;noise;noise_out;19.2026
+65.3;1;noise;;{value: -3.12303, sigma: 0.1}
+65.4;1;noise;noise_out;-3.12303
+65.4;1;noise;;{value: 7.13631, sigma: 0.1}
+65.5;1;noise;noise_out;7.13631
+65.5;1;noise;;{value: 6.34138, sigma: 0.1}
+65.6;1;noise;noise_out;6.34138
+65.6;1;noise;;{value: 6.96171, sigma: 0.1}
+65.7;1;noise;noise_out;6.96171
+65.7;1;noise;;{value: 2.12739, sigma: 0.1}
+65.8;1;noise;noise_out;2.12739
+65.8;1;noise;;{value: 23.0875, sigma: 0.1}
+65.9;1;noise;noise_out;23.0875
+65.9;1;noise;;{value: 11.7194, sigma: 0.1}
+66;1;noise;noise_out;11.7194
+66;1;noise;;{value: 1.57087, sigma: 0.1}
+66.1;1;noise;noise_out;1.57087
+66.1;1;noise;;{value: 15.7479, sigma: 0.1}
+66.2;1;noise;noise_out;15.7479
+66.2;1;noise;;{value: -10.1128, sigma: 0.1}
+66.3;1;noise;noise_out;-10.1128
+66.3;1;noise;;{value: -7.39764, sigma: 0.1}
+66.4;1;noise;noise_out;-7.39764
+66.4;1;noise;;{value: 23.1139, sigma: 0.1}
+66.5;1;noise;noise_out;23.1139
+66.5;1;noise;;{value: -14.0415, sigma: 0.1}
+66.6;1;noise;noise_out;-14.0415
+66.6;1;noise;;{value: 18.6539, sigma: 0.1}
+66.7;1;noise;noise_out;18.6539
+66.7;1;noise;;{value: 19.6951, sigma: 0.1}
+66.8;1;noise;noise_out;19.6951
+66.8;1;noise;;{value: -0.790495, sigma: 0.1}
+66.9;1;noise;noise_out;-0.790495
+66.9;1;noise;;{value: 7.34282, sigma: 0.1}
+67;1;noise;noise_out;7.34282
+67;1;noise;;{value: 13.9889, sigma: 0.1}
+67.1;1;noise;noise_out;13.9889
+67.1;1;noise;;{value: -16.3103, sigma: 0.1}
+67.2;1;noise;noise_out;-16.3103
+67.2;1;noise;;{value: -1.99946, sigma: 0.1}
+67.3;1;noise;noise_out;-1.99946
+67.3;1;noise;;{value: 14.2663, sigma: 0.1}
+67.4;1;noise;noise_out;14.2663
+67.4;1;noise;;{value: 3.79407, sigma: 0.1}
+67.5;1;noise;noise_out;3.79407
+67.5;1;noise;;{value: 0.347654, sigma: 0.1}
+67.6;1;noise;noise_out;0.347654
+67.6;1;noise;;{value: -9.45194, sigma: 0.1}
+67.7;1;noise;noise_out;-9.45194
+67.7;1;noise;;{value: 1.29243, sigma: 0.1}
+67.8;1;noise;noise_out;1.29243
+67.8;1;noise;;{value: -13.9646, sigma: 0.1}
+67.9;1;noise;noise_out;-13.9646
+67.9;1;noise;;{value: -8.3922, sigma: 0.1}
+68;1;noise;noise_out;-8.3922
+68;1;noise;;{value: 1.78346, sigma: 0.1}
+68.1;1;noise;noise_out;1.78346
+68.1;1;noise;;{value: 19.4411, sigma: 0.1}
+68.2;1;noise;noise_out;19.4411
+68.2;1;noise;;{value: -3.69979, sigma: 0.1}
+68.3;1;noise;noise_out;-3.69979
+68.3;1;noise;;{value: -12.2815, sigma: 0.1}
+68.4;1;noise;noise_out;-12.2815
+68.4;1;noise;;{value: -1.63386, sigma: 0.1}
+68.5;1;noise;noise_out;-1.63386
+68.5;1;noise;;{value: -1.94038, sigma: 0.1}
+68.6;1;noise;noise_out;-1.94038
+68.6;1;noise;;{value: 8.0749, sigma: 0.1}
+68.7;1;noise;noise_out;8.0749
+68.7;1;noise;;{value: 4.40435, sigma: 0.1}
+68.8;1;noise;noise_out;4.40435
+68.8;1;noise;;{value: 15.8725, sigma: 0.1}
+68.9;1;noise;noise_out;15.8725
+68.9;1;noise;;{value: 4.71551, sigma: 0.1}
+69;1;noise;noise_out;4.71551
+69;1;noise;;{value: -8.28873, sigma: 0.1}
+69.1;1;noise;noise_out;-8.28873
+69.1;1;noise;;{value: 14.3635, sigma: 0.1}
+69.2;1;noise;noise_out;14.3635
+69.2;1;noise;;{value: 3.84705, sigma: 0.1}
+69.3;1;noise;noise_out;3.84705
+69.3;1;noise;;{value: 13.4724, sigma: 0.1}
+69.4;1;noise;noise_out;13.4724
+69.4;1;noise;;{value: -18.4679, sigma: 0.1}
+69.5;1;noise;noise_out;-18.4679
+69.5;1;noise;;{value: -1.48582, sigma: 0.1}
+69.6;1;noise;noise_out;-1.48582
+69.6;1;noise;;{value: 10.7228, sigma: 0.1}
+69.7;1;noise;noise_out;10.7228
+69.7;1;noise;;{value: -6.35427, sigma: 0.1}
+69.8;1;noise;noise_out;-6.35427
+69.8;1;noise;;{value: -0.0714333, sigma: 0.1}
+69.9;1;noise;noise_out;-0.0714333
+69.9;1;noise;;{value: 4.95515, sigma: 0.1}
+70;1;noise;noise_out;4.95515
+70;1;noise;;{value: 0.624527, sigma: 0.1}
+70.1;1;noise;noise_out;0.624527
+70.1;1;noise;;{value: 9.90369, sigma: 0.1}
+70.2;1;noise;noise_out;9.90369
+70.2;1;noise;;{value: 0.454081, sigma: 0.1}
+70.3;1;noise;noise_out;0.454081
+70.3;1;noise;;{value: -18.0819, sigma: 0.1}
+70.4;1;noise;noise_out;-18.0819
+70.4;1;noise;;{value: -22.3677, sigma: 0.1}
+70.5;1;noise;noise_out;-22.3677
+70.5;1;noise;;{value: -15.816, sigma: 0.1}
+70.6;1;noise;noise_out;-15.816
+70.6;1;noise;;{value: -4.83241, sigma: 0.1}
+70.7;1;noise;noise_out;-4.83241
+70.7;1;noise;;{value: 4.81898, sigma: 0.1}
+70.8;1;noise;noise_out;4.81898
+70.8;1;noise;;{value: 0.949179, sigma: 0.1}
+70.9;1;noise;noise_out;0.949179
+70.9;1;noise;;{value: -6.02777, sigma: 0.1}
+71;1;noise;noise_out;-6.02777
+71;1;noise;;{value: -15.1312, sigma: 0.1}
+71.1;1;noise;noise_out;-15.1312
+71.1;1;noise;;{value: 8.42369, sigma: 0.1}
+71.2;1;noise;noise_out;8.42369
+71.2;1;noise;;{value: 14.2707, sigma: 0.1}
+71.3;1;noise;noise_out;14.2707
+71.3;1;noise;;{value: 4.43447, sigma: 0.1}
+71.4;1;noise;noise_out;4.43447
+71.4;1;noise;;{value: -23.116, sigma: 0.1}
+71.5;1;noise;noise_out;-23.116
+71.5;1;noise;;{value: 17.83, sigma: 0.1}
+71.6;1;noise;noise_out;17.83
+71.6;1;noise;;{value: 6.27306, sigma: 0.1}
+71.7;1;noise;noise_out;6.27306
+71.7;1;noise;;{value: 14.5885, sigma: 0.1}
+71.8;1;noise;noise_out;14.5885
+71.8;1;noise;;{value: -15.0162, sigma: 0.1}
+71.9;1;noise;noise_out;-15.0162
+71.9;1;noise;;{value: 0.0933845, sigma: 0.1}
+72;1;noise;noise_out;0.0933845
+72;1;noise;;{value: 23.4121, sigma: 0.1}
+72.1;1;noise;noise_out;23.4121
+72.1;1;noise;;{value: 4.29404, sigma: 0.1}
+72.2;1;noise;noise_out;4.29404
+72.2;1;noise;;{value: -19.8387, sigma: 0.1}
+72.3;1;noise;noise_out;-19.8387
+72.3;1;noise;;{value: -7.56877, sigma: 0.1}
+72.4;1;noise;noise_out;-7.56877
+72.4;1;noise;;{value: -3.92215, sigma: 0.1}
+72.5;1;noise;noise_out;-3.92215
+72.5;1;noise;;{value: -4.43187, sigma: 0.1}
+72.6;1;noise;noise_out;-4.43187
+72.6;1;noise;;{value: 9.29787, sigma: 0.1}
+72.7;1;noise;noise_out;9.29787
+72.7;1;noise;;{value: 0.483242, sigma: 0.1}
+72.8;1;noise;noise_out;0.483242
+72.8;1;noise;;{value: -0.0395168, sigma: 0.1}
+72.9;1;noise;noise_out;-0.0395168
+72.9;1;noise;;{value: -10.3233, sigma: 0.1}
+73;1;noise;noise_out;-10.3233
+73;1;noise;;{value: 2.16527, sigma: 0.1}
+73.1;1;noise;noise_out;2.16527
+73.1;1;noise;;{value: -3.72939, sigma: 0.1}
+73.2;1;noise;noise_out;-3.72939
+73.2;1;noise;;{value: 3.68633, sigma: 0.1}
+73.3;1;noise;noise_out;3.68633
+73.3;1;noise;;{value: -2.23236, sigma: 0.1}
+73.4;1;noise;noise_out;-2.23236
+73.4;1;noise;;{value: -2.88849, sigma: 0.1}
+73.5;1;noise;noise_out;-2.88849
+73.5;1;noise;;{value: 1.4285, sigma: 0.1}
+73.6;1;noise;noise_out;1.4285
+73.6;1;noise;;{value: -17.0856, sigma: 0.1}
+73.7;1;noise;noise_out;-17.0856
+73.7;1;noise;;{value: 4.77372, sigma: 0.1}
+73.8;1;noise;noise_out;4.77372
+73.8;1;noise;;{value: -12.2181, sigma: 0.1}
+73.9;1;noise;noise_out;-12.2181
+73.9;1;noise;;{value: 2.83616, sigma: 0.1}
+74;1;noise;noise_out;2.83616
+74;1;noise;;{value: -8.72309, sigma: 0.1}
+74.1;1;noise;noise_out;-8.72309
+74.1;1;noise;;{value: -5.30521, sigma: 0.1}
+74.2;1;noise;noise_out;-5.30521
+74.2;1;noise;;{value: 6.13687, sigma: 0.1}
+74.3;1;noise;noise_out;6.13687
+74.3;1;noise;;{value: 0.692982, sigma: 0.1}
+74.4;1;noise;noise_out;0.692982
+74.4;1;noise;;{value: 3.86674, sigma: 0.1}
+74.5;1;noise;noise_out;3.86674
+74.5;1;noise;;{value: -4.34625, sigma: 0.1}
+74.6;1;noise;noise_out;-4.34625
+74.6;1;noise;;{value: -15.1938, sigma: 0.1}
+74.7;1;noise;noise_out;-15.1938
+74.7;1;noise;;{value: -1.49292, sigma: 0.1}
+74.8;1;noise;noise_out;-1.49292
+74.8;1;noise;;{value: -11.0119, sigma: 0.1}
+74.9;1;noise;noise_out;-11.0119
+74.9;1;noise;;{value: 17.4694, sigma: 0.1}
+75;1;noise;noise_out;17.4694
+75;1;noise;;{value: 4.78483, sigma: 0.1}
+75.1;1;noise;noise_out;4.78483
+75.1;1;noise;;{value: -10.8686, sigma: 0.1}
+75.2;1;noise;noise_out;-10.8686
+75.2;1;noise;;{value: 21.8322, sigma: 0.1}
+75.3;1;noise;noise_out;21.8322
+75.3;1;noise;;{value: -8.46606, sigma: 0.1}
+75.4;1;noise;noise_out;-8.46606
+75.4;1;noise;;{value: -5.10202, sigma: 0.1}
+75.5;1;noise;noise_out;-5.10202
+75.5;1;noise;;{value: 0.0184865, sigma: 0.1}
+75.6;1;noise;noise_out;0.0184865
+75.6;1;noise;;{value: -2.29332, sigma: 0.1}
+75.7;1;noise;noise_out;-2.29332
+75.7;1;noise;;{value: -3.03224, sigma: 0.1}
+75.8;1;noise;noise_out;-3.03224
+75.8;1;noise;;{value: -5.22926, sigma: 0.1}
+75.9;1;noise;noise_out;-5.22926
+75.9;1;noise;;{value: -0.648476, sigma: 0.1}
+76;1;noise;noise_out;-0.648476
+76;1;noise;;{value: -6.92855, sigma: 0.1}
+76.1;1;noise;noise_out;-6.92855
+76.1;1;noise;;{value: 2.17142, sigma: 0.1}
+76.2;1;noise;noise_out;2.17142
+76.2;1;noise;;{value: -2.78525, sigma: 0.1}
+76.3;1;noise;noise_out;-2.78525
+76.3;1;noise;;{value: -11.8534, sigma: 0.1}
+76.4;1;noise;noise_out;-11.8534
+76.4;1;noise;;{value: -6.4416, sigma: 0.1}
+76.5;1;noise;noise_out;-6.4416
+76.5;1;noise;;{value: 2.11354, sigma: 0.1}
+76.6;1;noise;noise_out;2.11354
+76.6;1;noise;;{value: 9.74766, sigma: 0.1}
+76.7;1;noise;noise_out;9.74766
+76.7;1;noise;;{value: 1.52114, sigma: 0.1}
+76.8;1;noise;noise_out;1.52114
+76.8;1;noise;;{value: -0.712074, sigma: 0.1}
+76.9;1;noise;noise_out;-0.712074
+76.9;1;noise;;{value: -1.79423, sigma: 0.1}
+77;1;noise;noise_out;-1.79423
+77;1;noise;;{value: 6.41502, sigma: 0.1}
+77.1;1;noise;noise_out;6.41502
+77.1;1;noise;;{value: -5.30072, sigma: 0.1}
+77.2;1;noise;noise_out;-5.30072
+77.2;1;noise;;{value: -19.8716, sigma: 0.1}
+77.3;1;noise;noise_out;-19.8716
+77.3;1;noise;;{value: 4.09295, sigma: 0.1}
+77.4;1;noise;noise_out;4.09295
+77.4;1;noise;;{value: 0.787434, sigma: 0.1}
+77.5;1;noise;noise_out;0.787434
+77.5;1;noise;;{value: -6.0681, sigma: 0.1}
+77.6;1;noise;noise_out;-6.0681
+77.6;1;noise;;{value: -7.09083, sigma: 0.1}
+77.7;1;noise;noise_out;-7.09083
+77.7;1;noise;;{value: -1.09081, sigma: 0.1}
+77.8;1;noise;noise_out;-1.09081
+77.8;1;noise;;{value: 10.6617, sigma: 0.1}
+77.9;1;noise;noise_out;10.6617
+77.9;1;noise;;{value: 0.224758, sigma: 0.1}
+78;1;noise;noise_out;0.224758
+78;1;noise;;{value: -8.96087, sigma: 0.1}
+78.1;1;noise;noise_out;-8.96087
+78.1;1;noise;;{value: -2.64947, sigma: 0.1}
+78.2;1;noise;noise_out;-2.64947
+78.2;1;noise;;{value: -7.53978, sigma: 0.1}
+78.3;1;noise;noise_out;-7.53978
+78.3;1;noise;;{value: 5.85002, sigma: 0.1}
+78.4;1;noise;noise_out;5.85002
+78.4;1;noise;;{value: -9.9426, sigma: 0.1}
+78.5;1;noise;noise_out;-9.9426
+78.5;1;noise;;{value: -7.22406, sigma: 0.1}
+78.6;1;noise;noise_out;-7.22406
+78.6;1;noise;;{value: 16.1988, sigma: 0.1}
+78.7;1;noise;noise_out;16.1988
+78.7;1;noise;;{value: -5.0951, sigma: 0.1}
+78.8;1;noise;noise_out;-5.0951
+78.8;1;noise;;{value: 0.916006, sigma: 0.1}
+78.9;1;noise;noise_out;0.916006
+78.9;1;noise;;{value: -5.94905, sigma: 0.1}
+79;1;noise;noise_out;-5.94905
+79;1;noise;;{value: 1.42561, sigma: 0.1}
+79.1;1;noise;noise_out;1.42561
+79.1;1;noise;;{value: 3.25047, sigma: 0.1}
+79.2;1;noise;noise_out;3.25047
+79.2;1;noise;;{value: 8.87114, sigma: 0.1}
+79.3;1;noise;noise_out;8.87114
+79.3;1;noise;;{value: 6.40947, sigma: 0.1}
+79.4;1;noise;noise_out;6.40947
+79.4;1;noise;;{value: -7.29734, sigma: 0.1}
+79.5;1;noise;noise_out;-7.29734
+79.5;1;noise;;{value: -4.13337, sigma: 0.1}
+79.6;1;noise;noise_out;-4.13337
+79.6;1;noise;;{value: 10.7652, sigma: 0.1}
+79.7;1;noise;noise_out;10.7652
+79.7;1;noise;;{value: -1.91443, sigma: 0.1}
+79.8;1;noise;noise_out;-1.91443
+79.8;1;noise;;{value: -10.016, sigma: 0.1}
+79.9;1;noise;noise_out;-10.016
+79.9;1;noise;;{value: -3.60335, sigma: 0.1}
+80;1;noise;noise_out;-3.60335
+80;1;noise;;{value: 9.43894, sigma: 0.1}
+80.1;1;noise;noise_out;9.43894
+80.1;1;noise;;{value: -5.8214, sigma: 0.1}
+80.2;1;noise;noise_out;-5.8214
+80.2;1;noise;;{value: 4.19839, sigma: 0.1}
+80.3;1;noise;noise_out;4.19839
+80.3;1;noise;;{value: 1.11522, sigma: 0.1}
+80.4;1;noise;noise_out;1.11522
+80.4;1;noise;;{value: -10.5885, sigma: 0.1}
+80.5;1;noise;noise_out;-10.5885
+80.5;1;noise;;{value: 14.6155, sigma: 0.1}
+80.6;1;noise;noise_out;14.6155
+80.6;1;noise;;{value: -1.02031, sigma: 0.1}
+80.7;1;noise;noise_out;-1.02031
+80.7;1;noise;;{value: 16.3064, sigma: 0.1}
+80.8;1;noise;noise_out;16.3064
+80.8;1;noise;;{value: -2.66069, sigma: 0.1}
+80.9;1;noise;noise_out;-2.66069
+80.9;1;noise;;{value: -5.44847, sigma: 0.1}
+81;1;noise;noise_out;-5.44847
+81;1;noise;;{value: -15.4906, sigma: 0.1}
+81.1;1;noise;noise_out;-15.4906
+81.1;1;noise;;{value: 6.22614, sigma: 0.1}
+81.2;1;noise;noise_out;6.22614
+81.2;1;noise;;{value: 5.093, sigma: 0.1}
+81.3;1;noise;noise_out;5.093
+81.3;1;noise;;{value: 2.23743, sigma: 0.1}
+81.4;1;noise;noise_out;2.23743
+81.4;1;noise;;{value: -2.88822, sigma: 0.1}
+81.5;1;noise;noise_out;-2.88822
+81.5;1;noise;;{value: 7.57204, sigma: 0.1}
+81.6;1;noise;noise_out;7.57204
+81.6;1;noise;;{value: -5.87661, sigma: 0.1}
+81.7;1;noise;noise_out;-5.87661
+81.7;1;noise;;{value: 5.78146, sigma: 0.1}
+81.8;1;noise;noise_out;5.78146
+81.8;1;noise;;{value: 10.6807, sigma: 0.1}
+81.9;1;noise;noise_out;10.6807
+81.9;1;noise;;{value: 19.7131, sigma: 0.1}
+82;1;noise;noise_out;19.7131
+82;1;noise;;{value: -3.62928, sigma: 0.1}
+82.1;1;noise;noise_out;-3.62928
+82.1;1;noise;;{value: -16.1105, sigma: 0.1}
+82.2;1;noise;noise_out;-16.1105
+82.2;1;noise;;{value: -0.450463, sigma: 0.1}
+82.3;1;noise;noise_out;-0.450463
+82.3;1;noise;;{value: -3.6457, sigma: 0.1}
+82.4;1;noise;noise_out;-3.6457
+82.4;1;noise;;{value: 7.6761, sigma: 0.1}
+82.5;1;noise;noise_out;7.6761
+82.5;1;noise;;{value: 13.416, sigma: 0.1}
+82.6;1;noise;noise_out;13.416
+82.6;1;noise;;{value: 9.09831, sigma: 0.1}
+82.7;1;noise;noise_out;9.09831
+82.7;1;noise;;{value: 2.38232, sigma: 0.1}
+82.8;1;noise;noise_out;2.38232
+82.8;1;noise;;{value: -8.12049, sigma: 0.1}
+82.9;1;noise;noise_out;-8.12049
+82.9;1;noise;;{value: 5.28859, sigma: 0.1}
+83;1;noise;noise_out;5.28859
+83;1;noise;;{value: 6.71676, sigma: 0.1}
+83.1;1;noise;noise_out;6.71676
+83.1;1;noise;;{value: 0.743374, sigma: 0.1}
+83.2;1;noise;noise_out;0.743374
+83.2;1;noise;;{value: 2.55558, sigma: 0.1}
+83.3;1;noise;noise_out;2.55558
+83.3;1;noise;;{value: 7.81122, sigma: 0.1}
+83.4;1;noise;noise_out;7.81122
+83.4;1;noise;;{value: -9.02047, sigma: 0.1}
+83.5;1;noise;noise_out;-9.02047
+83.5;1;noise;;{value: -7.67518, sigma: 0.1}
+83.6;1;noise;noise_out;-7.67518
+83.6;1;noise;;{value: 2.9929, sigma: 0.1}
+83.7;1;noise;noise_out;2.9929
+83.7;1;noise;;{value: -3.72484, sigma: 0.1}
+83.8;1;noise;noise_out;-3.72484
+83.8;1;noise;;{value: 14.7191, sigma: 0.1}
+83.9;1;noise;noise_out;14.7191
+83.9;1;noise;;{value: 9.73558, sigma: 0.1}
+84;1;noise;noise_out;9.73558
+84;1;noise;;{value: 13.2741, sigma: 0.1}
+84.1;1;noise;noise_out;13.2741
+84.1;1;noise;;{value: 3.61984, sigma: 0.1}
+84.2;1;noise;noise_out;3.61984
+84.2;1;noise;;{value: -4.25456, sigma: 0.1}
+84.3;1;noise;noise_out;-4.25456
+84.3;1;noise;;{value: 7.93812, sigma: 0.1}
+84.4;1;noise;noise_out;7.93812
+84.4;1;noise;;{value: -2.98568, sigma: 0.1}
+84.5;1;noise;noise_out;-2.98568
+84.5;1;noise;;{value: -0.634406, sigma: 0.1}
+84.6;1;noise;noise_out;-0.634406
+84.6;1;noise;;{value: 5.35364, sigma: 0.1}
+84.7;1;noise;noise_out;5.35364
+84.7;1;noise;;{value: -6.67419, sigma: 0.1}
+84.8;1;noise;noise_out;-6.67419
+84.8;1;noise;;{value: -1.97214, sigma: 0.1}
+84.9;1;noise;noise_out;-1.97214
+84.9;1;noise;;{value: 16.9371, sigma: 0.1}
+85;1;noise;noise_out;16.9371
+85;1;noise;;{value: 19.6798, sigma: 0.1}
+85.1;1;noise;noise_out;19.6798
+85.1;1;noise;;{value: 1.27128, sigma: 0.1}
+85.2;1;noise;noise_out;1.27128
+85.2;1;noise;;{value: -2.25283, sigma: 0.1}
+85.3;1;noise;noise_out;-2.25283
+85.3;1;noise;;{value: 2.66129, sigma: 0.1}
+85.4;1;noise;noise_out;2.66129
+85.4;1;noise;;{value: -6.11079, sigma: 0.1}
+85.5;1;noise;noise_out;-6.11079
+85.5;1;noise;;{value: -11.4418, sigma: 0.1}
+85.6;1;noise;noise_out;-11.4418
+85.6;1;noise;;{value: -10.2965, sigma: 0.1}
+85.7;1;noise;noise_out;-10.2965
+85.7;1;noise;;{value: -4.66622, sigma: 0.1}
+85.8;1;noise;noise_out;-4.66622
+85.8;1;noise;;{value: 4.18843, sigma: 0.1}
+85.9;1;noise;noise_out;4.18843
+85.9;1;noise;;{value: 11.7867, sigma: 0.1}
+86;1;noise;noise_out;11.7867
+86;1;noise;;{value: 3.08664, sigma: 0.1}
+86.1;1;noise;noise_out;3.08664
+86.1;1;noise;;{value: -6.57046, sigma: 0.1}
+86.2;1;noise;noise_out;-6.57046
+86.2;1;noise;;{value: 1.26038, sigma: 0.1}
+86.3;1;noise;noise_out;1.26038
+86.3;1;noise;;{value: -9.10738, sigma: 0.1}
+86.4;1;noise;noise_out;-9.10738
+86.4;1;noise;;{value: -14.8625, sigma: 0.1}
+86.5;1;noise;noise_out;-14.8625
+86.5;1;noise;;{value: -3.54433, sigma: 0.1}
+86.6;1;noise;noise_out;-3.54433
+86.6;1;noise;;{value: 5.3803, sigma: 0.1}
+86.7;1;noise;noise_out;5.3803
+86.7;1;noise;;{value: 4.66037, sigma: 0.1}
+86.8;1;noise;noise_out;4.66037
+86.8;1;noise;;{value: 7.75211, sigma: 0.1}
+86.9;1;noise;noise_out;7.75211
+86.9;1;noise;;{value: -12.0597, sigma: 0.1}
+87;1;noise;noise_out;-12.0597
+87;1;noise;;{value: -7.51285, sigma: 0.1}
+87.1;1;noise;noise_out;-7.51285
+87.1;1;noise;;{value: 4.17578, sigma: 0.1}
+87.2;1;noise;noise_out;4.17578
+87.2;1;noise;;{value: 5.17206, sigma: 0.1}
+87.3;1;noise;noise_out;5.17206
+87.3;1;noise;;{value: 15.2971, sigma: 0.1}
+87.4;1;noise;noise_out;15.2971
+87.4;1;noise;;{value: 21.0475, sigma: 0.1}
+87.5;1;noise;noise_out;21.0475
+87.5;1;noise;;{value: -9.84149, sigma: 0.1}
+87.6;1;noise;noise_out;-9.84149
+87.6;1;noise;;{value: -4.89133, sigma: 0.1}
+87.7;1;noise;noise_out;-4.89133
+87.7;1;noise;;{value: -22.0537, sigma: 0.1}
+87.8;1;noise;noise_out;-22.0537
+87.8;1;noise;;{value: 6.65781, sigma: 0.1}
+87.9;1;noise;noise_out;6.65781
+87.9;1;noise;;{value: -5.8924, sigma: 0.1}
+88;1;noise;noise_out;-5.8924
+88;1;noise;;{value: -8.51463, sigma: 0.1}
+88.1;1;noise;noise_out;-8.51463
+88.1;1;noise;;{value: 9.42909, sigma: 0.1}
+88.2;1;noise;noise_out;9.42909
+88.2;1;noise;;{value: -3.55272, sigma: 0.1}
+88.3;1;noise;noise_out;-3.55272
+88.3;1;noise;;{value: -18.4756, sigma: 0.1}
+88.4;1;noise;noise_out;-18.4756
+88.4;1;noise;;{value: -1.98728, sigma: 0.1}
+88.5;1;noise;noise_out;-1.98728
+88.5;1;noise;;{value: 8.04177, sigma: 0.1}
+88.6;1;noise;noise_out;8.04177
+88.6;1;noise;;{value: 1.45344, sigma: 0.1}
+88.7;1;noise;noise_out;1.45344
+88.7;1;noise;;{value: -22.2636, sigma: 0.1}
+88.8;1;noise;noise_out;-22.2636
+88.8;1;noise;;{value: 7.21664, sigma: 0.1}
+88.9;1;noise;noise_out;7.21664
+88.9;1;noise;;{value: -9.13215, sigma: 0.1}
+89;1;noise;noise_out;-9.13215
+89;1;noise;;{value: 4.59845, sigma: 0.1}
+89.1;1;noise;noise_out;4.59845
+89.1;1;noise;;{value: 5.69558, sigma: 0.1}
+89.2;1;noise;noise_out;5.69558
+89.2;1;noise;;{value: 16.3564, sigma: 0.1}
+89.3;1;noise;noise_out;16.3564
+89.3;1;noise;;{value: 0.477731, sigma: 0.1}
+89.4;1;noise;noise_out;0.477731
+89.4;1;noise;;{value: 0.799905, sigma: 0.1}
+89.5;1;noise;noise_out;0.799905
+89.5;1;noise;;{value: -10.0417, sigma: 0.1}
+89.6;1;noise;noise_out;-10.0417
+89.6;1;noise;;{value: 14.7268, sigma: 0.1}
+89.7;1;noise;noise_out;14.7268
+89.7;1;noise;;{value: -8.33774, sigma: 0.1}
+89.8;1;noise;noise_out;-8.33774
+89.8;1;noise;;{value: -2.45854, sigma: 0.1}
+89.9;1;noise;noise_out;-2.45854
+89.9;1;noise;;{value: 3.93657, sigma: 0.1}
+90;1;noise;noise_out;3.93657
+90;1;noise;;{value: 5.21508, sigma: 0.1}
+90.1;1;noise;noise_out;5.21508
+90.1;1;noise;;{value: 1.79778, sigma: 0.1}
+90.2;1;noise;noise_out;1.79778
+90.2;1;noise;;{value: 4.13871, sigma: 0.1}
+90.3;1;noise;noise_out;4.13871
+90.3;1;noise;;{value: -24.8965, sigma: 0.1}
+90.4;1;noise;noise_out;-24.8965
+90.4;1;noise;;{value: 25.4352, sigma: 0.1}
+90.5;1;noise;noise_out;25.4352
+90.5;1;noise;;{value: -9.40742, sigma: 0.1}
+90.6;1;noise;noise_out;-9.40742
+90.6;1;noise;;{value: -1.849, sigma: 0.1}
+90.7;1;noise;noise_out;-1.849
+90.7;1;noise;;{value: -6.65732, sigma: 0.1}
+90.8;1;noise;noise_out;-6.65732
+90.8;1;noise;;{value: 7.67514, sigma: 0.1}
+90.9;1;noise;noise_out;7.67514
+90.9;1;noise;;{value: -10.6085, sigma: 0.1}
+91;1;noise;noise_out;-10.6085
+91;1;noise;;{value: -10.4452, sigma: 0.1}
+91.1;1;noise;noise_out;-10.4452
+91.1;1;noise;;{value: -5.87966, sigma: 0.1}
+91.2;1;noise;noise_out;-5.87966
+91.2;1;noise;;{value: 4.21459, sigma: 0.1}
+91.3;1;noise;noise_out;4.21459
+91.3;1;noise;;{value: 6.44834, sigma: 0.1}
+91.4;1;noise;noise_out;6.44834
+91.4;1;noise;;{value: -3.4976, sigma: 0.1}
+91.5;1;noise;noise_out;-3.4976
+91.5;1;noise;;{value: -9.22016, sigma: 0.1}
+91.6;1;noise;noise_out;-9.22016
+91.6;1;noise;;{value: -12.4618, sigma: 0.1}
+91.7;1;noise;noise_out;-12.4618
+91.7;1;noise;;{value: -1.45972, sigma: 0.1}
+91.8;1;noise;noise_out;-1.45972
+91.8;1;noise;;{value: 4.73206, sigma: 0.1}
+91.9;1;noise;noise_out;4.73206
+91.9;1;noise;;{value: -7.39216, sigma: 0.1}
+92;1;noise;noise_out;-7.39216
+92;1;noise;;{value: -1.89465, sigma: 0.1}
+92.1;1;noise;noise_out;-1.89465
+92.1;1;noise;;{value: -3.67245, sigma: 0.1}
+92.2;1;noise;noise_out;-3.67245
+92.2;1;noise;;{value: 2.76033, sigma: 0.1}
+92.3;1;noise;noise_out;2.76033
+92.3;1;noise;;{value: 13.3805, sigma: 0.1}
+92.4;1;noise;noise_out;13.3805
+92.4;1;noise;;{value: -6.32415, sigma: 0.1}
+92.5;1;noise;noise_out;-6.32415
+92.5;1;noise;;{value: -5.91171, sigma: 0.1}
+92.6;1;noise;noise_out;-5.91171
+92.6;1;noise;;{value: -2.01652, sigma: 0.1}
+92.7;1;noise;noise_out;-2.01652
+92.7;1;noise;;{value: 2.74122, sigma: 0.1}
+92.8;1;noise;noise_out;2.74122
+92.8;1;noise;;{value: 7.76086, sigma: 0.1}
+92.9;1;noise;noise_out;7.76086
+92.9;1;noise;;{value: -13.7103, sigma: 0.1}
+93;1;noise;noise_out;-13.7103
+93;1;noise;;{value: -2.74285, sigma: 0.1}
+93.1;1;noise;noise_out;-2.74285
+93.1;1;noise;;{value: 6.78213, sigma: 0.1}
+93.2;1;noise;noise_out;6.78213
+93.2;1;noise;;{value: 9.42158, sigma: 0.1}
+93.3;1;noise;noise_out;9.42158
+93.3;1;noise;;{value: 4.08075, sigma: 0.1}
+93.4;1;noise;noise_out;4.08075
+93.4;1;noise;;{value: -12.0705, sigma: 0.1}
+93.5;1;noise;noise_out;-12.0705
+93.5;1;noise;;{value: -2.60683, sigma: 0.1}
+93.6;1;noise;noise_out;-2.60683
+93.6;1;noise;;{value: 6.34139, sigma: 0.1}
+93.7;1;noise;noise_out;6.34139
+93.7;1;noise;;{value: -10.69, sigma: 0.1}
+93.8;1;noise;noise_out;-10.69
+93.8;1;noise;;{value: -0.178828, sigma: 0.1}
+93.9;1;noise;noise_out;-0.178828
+93.9;1;noise;;{value: -7.14838, sigma: 0.1}
+94;1;noise;noise_out;-7.14838
+94;1;noise;;{value: 3.60792, sigma: 0.1}
+94.1;1;noise;noise_out;3.60792
+94.1;1;noise;;{value: -4.19222, sigma: 0.1}
+94.2;1;noise;noise_out;-4.19222
+94.2;1;noise;;{value: -1.81777, sigma: 0.1}
+94.3;1;noise;noise_out;-1.81777
+94.3;1;noise;;{value: 5.09641, sigma: 0.1}
+94.4;1;noise;noise_out;5.09641
+94.4;1;noise;;{value: -2.85291, sigma: 0.1}
+94.5;1;noise;noise_out;-2.85291
+94.5;1;noise;;{value: 5.2041, sigma: 0.1}
+94.6;1;noise;noise_out;5.2041
+94.6;1;noise;;{value: 7.65352, sigma: 0.1}
+94.7;1;noise;noise_out;7.65352
+94.7;1;noise;;{value: 19.53, sigma: 0.1}
+94.8;1;noise;noise_out;19.53
+94.8;1;noise;;{value: 6.92544, sigma: 0.1}
+94.9;1;noise;noise_out;6.92544
+94.9;1;noise;;{value: 3.8596, sigma: 0.1}
+95;1;noise;noise_out;3.8596
+95;1;noise;;{value: 8.93186, sigma: 0.1}
+95.1;1;noise;noise_out;8.93186
+95.1;1;noise;;{value: 0.760254, sigma: 0.1}
+95.2;1;noise;noise_out;0.760254
+95.2;1;noise;;{value: -2.79531, sigma: 0.1}
+95.3;1;noise;noise_out;-2.79531
+95.3;1;noise;;{value: 7.26428, sigma: 0.1}
+95.4;1;noise;noise_out;7.26428
+95.4;1;noise;;{value: 10.763, sigma: 0.1}
+95.5;1;noise;noise_out;10.763
+95.5;1;noise;;{value: 8.10474, sigma: 0.1}
+95.6;1;noise;noise_out;8.10474
+95.6;1;noise;;{value: 19.7682, sigma: 0.1}
+95.7;1;noise;noise_out;19.7682
+95.7;1;noise;;{value: 16.0073, sigma: 0.1}
+95.8;1;noise;noise_out;16.0073
+95.8;1;noise;;{value: 10.8036, sigma: 0.1}
+95.9;1;noise;noise_out;10.8036
+95.9;1;noise;;{value: 21.2649, sigma: 0.1}
+96;1;noise;noise_out;21.2649
+96;1;noise;;{value: 5.14452, sigma: 0.1}
+96.1;1;noise;noise_out;5.14452
+96.1;1;noise;;{value: -16.0027, sigma: 0.1}
+96.2;1;noise;noise_out;-16.0027
+96.2;1;noise;;{value: 4.7919, sigma: 0.1}
+96.3;1;noise;noise_out;4.7919
+96.3;1;noise;;{value: 9.89445, sigma: 0.1}
+96.4;1;noise;noise_out;9.89445
+96.4;1;noise;;{value: 0.641464, sigma: 0.1}
+96.5;1;noise;noise_out;0.641464
+96.5;1;noise;;{value: 4.31439, sigma: 0.1}
+96.6;1;noise;noise_out;4.31439
+96.6;1;noise;;{value: -19.2655, sigma: 0.1}
+96.7;1;noise;noise_out;-19.2655
+96.7;1;noise;;{value: 8.3649, sigma: 0.1}
+96.8;1;noise;noise_out;8.3649
+96.8;1;noise;;{value: -22.3347, sigma: 0.1}
+96.9;1;noise;noise_out;-22.3347
+96.9;1;noise;;{value: 2.17968, sigma: 0.1}
+97;1;noise;noise_out;2.17968
+97;1;noise;;{value: -1.17154, sigma: 0.1}
+97.1;1;noise;noise_out;-1.17154
+97.1;1;noise;;{value: -8.81133, sigma: 0.1}
+97.2;1;noise;noise_out;-8.81133
+97.2;1;noise;;{value: 21.9248, sigma: 0.1}
+97.3;1;noise;noise_out;21.9248
+97.3;1;noise;;{value: 10.8362, sigma: 0.1}
+97.4;1;noise;noise_out;10.8362
+97.4;1;noise;;{value: 4.22754, sigma: 0.1}
+97.5;1;noise;noise_out;4.22754
+97.5;1;noise;;{value: -6.85441, sigma: 0.1}
+97.6;1;noise;noise_out;-6.85441
+97.6;1;noise;;{value: 8.46229, sigma: 0.1}
+97.7;1;noise;noise_out;8.46229
+97.7;1;noise;;{value: 6.88507, sigma: 0.1}
+97.8;1;noise;noise_out;6.88507
+97.8;1;noise;;{value: -14.5332, sigma: 0.1}
+97.9;1;noise;noise_out;-14.5332
+97.9;1;noise;;{value: -2.20968, sigma: 0.1}
+98;1;noise;noise_out;-2.20968
+98;1;noise;;{value: -16.3308, sigma: 0.1}
+98.1;1;noise;noise_out;-16.3308
+98.1;1;noise;;{value: 2.2793, sigma: 0.1}
+98.2;1;noise;noise_out;2.2793
+98.2;1;noise;;{value: -17.1732, sigma: 0.1}
+98.3;1;noise;noise_out;-17.1732
+98.3;1;noise;;{value: -16.6237, sigma: 0.1}
+98.4;1;noise;noise_out;-16.6237
+98.4;1;noise;;{value: -2.17889, sigma: 0.1}
+98.5;1;noise;noise_out;-2.17889
+98.5;1;noise;;{value: 23.4898, sigma: 0.1}
+98.6;1;noise;noise_out;23.4898
+98.6;1;noise;;{value: 0.632408, sigma: 0.1}
+98.7;1;noise;noise_out;0.632408
+98.7;1;noise;;{value: -1.32074, sigma: 0.1}
+98.8;1;noise;noise_out;-1.32074
+98.8;1;noise;;{value: 2.27005, sigma: 0.1}
+98.9;1;noise;noise_out;2.27005
+98.9;1;noise;;{value: -16.9822, sigma: 0.1}
+99;1;noise;noise_out;-16.9822
+99;1;noise;;{value: -0.50217, sigma: 0.1}
+99.1;1;noise;noise_out;-0.50217
+99.1;1;noise;;{value: -2.85144, sigma: 0.1}
+99.2;1;noise;noise_out;-2.85144
+99.2;1;noise;;{value: 0.309799, sigma: 0.1}
+99.3;1;noise;noise_out;0.309799
+99.3;1;noise;;{value: 13.7405, sigma: 0.1}
+99.4;1;noise;noise_out;13.7405
+99.4;1;noise;;{value: -13.5037, sigma: 0.1}
+99.5;1;noise;noise_out;-13.5037
+99.5;1;noise;;{value: 7.04224, sigma: 0.1}
+99.6;1;noise;noise_out;7.04224
+99.6;1;noise;;{value: -8.69123, sigma: 0.1}
+99.7;1;noise;noise_out;-8.69123
+99.7;1;noise;;{value: -22.0926, sigma: 0.1}
+99.8;1;noise;noise_out;-22.0926
+99.8;1;noise;;{value: 13.2272, sigma: 0.1}
+99.9;1;noise;noise_out;13.2272
+99.9;1;noise;;{value: 13.233, sigma: 0.1}
+100;1;noise;noise_out;13.233
+100;1;noise;;{value: 1.93985, sigma: 0.1}
+100.1;1;noise;noise_out;1.93985
+100.1;1;noise;;{value: 1.64438, sigma: 0.1}
+100.2;1;noise;noise_out;1.64438
+100.2;1;noise;;{value: 7.70355, sigma: 0.1}
+100.3;1;noise;noise_out;7.70355
+100.3;1;noise;;{value: -13.0422, sigma: 0.1}
+100.4;1;noise;noise_out;-13.0422
+100.4;1;noise;;{value: 14.809, sigma: 0.1}
+100.5;1;noise;noise_out;14.809
+100.5;1;noise;;{value: -18.5963, sigma: 0.1}
+100.6;1;noise;noise_out;-18.5963
+100.6;1;noise;;{value: -10.3354, sigma: 0.1}
+100.7;1;noise;noise_out;-10.3354
+100.7;1;noise;;{value: -23.9986, sigma: 0.1}
+100.8;1;noise;noise_out;-23.9986
+100.8;1;noise;;{value: 0.829256, sigma: 0.1}
+100.9;1;noise;noise_out;0.829256
+100.9;1;noise;;{value: -5.40121, sigma: 0.1}
+101;1;noise;noise_out;-5.40121
+101;1;noise;;{value: -17.4843, sigma: 0.1}
+101.1;1;noise;noise_out;-17.4843
+101.1;1;noise;;{value: -2.66903, sigma: 0.1}
+101.2;1;noise;noise_out;-2.66903
+101.2;1;noise;;{value: -24.0894, sigma: 0.1}
+101.3;1;noise;noise_out;-24.0894
+101.3;1;noise;;{value: 16.7652, sigma: 0.1}
+101.4;1;noise;noise_out;16.7652
+101.4;1;noise;;{value: 5.00963, sigma: 0.1}
+101.5;1;noise;noise_out;5.00963
+101.5;1;noise;;{value: 12.4062, sigma: 0.1}
+101.6;1;noise;noise_out;12.4062
+101.6;1;noise;;{value: 3.83925, sigma: 0.1}
+101.7;1;noise;noise_out;3.83925
+101.7;1;noise;;{value: 4.5877, sigma: 0.1}
+101.8;1;noise;noise_out;4.5877
+101.8;1;noise;;{value: 13.6154, sigma: 0.1}
+101.9;1;noise;noise_out;13.6154
+101.9;1;noise;;{value: -9.82776, sigma: 0.1}
+102;1;noise;noise_out;-9.82776
+102;1;noise;;{value: 1.60402, sigma: 0.1}
+102.1;1;noise;noise_out;1.60402
+102.1;1;noise;;{value: -8.41595, sigma: 0.1}
+102.2;1;noise;noise_out;-8.41595
+102.2;1;noise;;{value: -12.5016, sigma: 0.1}
+102.3;1;noise;noise_out;-12.5016
+102.3;1;noise;;{value: 8.12855, sigma: 0.1}
+102.4;1;noise;noise_out;8.12855
+102.4;1;noise;;{value: -5.45205, sigma: 0.1}
+102.5;1;noise;noise_out;-5.45205
+102.5;1;noise;;{value: -12.7526, sigma: 0.1}
+102.6;1;noise;noise_out;-12.7526
+102.6;1;noise;;{value: 2.32887, sigma: 0.1}
+102.7;1;noise;noise_out;2.32887
+102.7;1;noise;;{value: 6.44656, sigma: 0.1}
+102.8;1;noise;noise_out;6.44656
+102.8;1;noise;;{value: -14.5146, sigma: 0.1}
+102.9;1;noise;noise_out;-14.5146
+102.9;1;noise;;{value: 11.8458, sigma: 0.1}
+103;1;noise;noise_out;11.8458
+103;1;noise;;{value: 1.25414, sigma: 0.1}
+103.1;1;noise;noise_out;1.25414
+103.1;1;noise;;{value: -4.10094, sigma: 0.1}
+103.2;1;noise;noise_out;-4.10094
+103.2;1;noise;;{value: -11.2068, sigma: 0.1}
+103.3;1;noise;noise_out;-11.2068
+103.3;1;noise;;{value: 8.1055, sigma: 0.1}
+103.4;1;noise;noise_out;8.1055
+103.4;1;noise;;{value: 7.34153, sigma: 0.1}
+103.5;1;noise;noise_out;7.34153
+103.5;1;noise;;{value: 17.8169, sigma: 0.1}
+103.6;1;noise;noise_out;17.8169
+103.6;1;noise;;{value: -10.3182, sigma: 0.1}
+103.7;1;noise;noise_out;-10.3182
+103.7;1;noise;;{value: 4.6981, sigma: 0.1}
+103.8;1;noise;noise_out;4.6981
+103.8;1;noise;;{value: -5.14511, sigma: 0.1}
+103.9;1;noise;noise_out;-5.14511
+103.9;1;noise;;{value: -2.33421, sigma: 0.1}
+104;1;noise;noise_out;-2.33421
+104;1;noise;;{value: -8.47862, sigma: 0.1}
+104.1;1;noise;noise_out;-8.47862
+104.1;1;noise;;{value: 12.492, sigma: 0.1}
+104.2;1;noise;noise_out;12.492
+104.2;1;noise;;{value: -3.89899, sigma: 0.1}
+104.3;1;noise;noise_out;-3.89899
+104.3;1;noise;;{value: 1.31338, sigma: 0.1}
+104.4;1;noise;noise_out;1.31338
+104.4;1;noise;;{value: 26.7967, sigma: 0.1}
+104.5;1;noise;noise_out;26.7967
+104.5;1;noise;;{value: 2.28926, sigma: 0.1}
+104.6;1;noise;noise_out;2.28926
+104.6;1;noise;;{value: -7.75282, sigma: 0.1}
+104.7;1;noise;noise_out;-7.75282
+104.7;1;noise;;{value: -5.44121, sigma: 0.1}
+104.8;1;noise;noise_out;-5.44121
+104.8;1;noise;;{value: 6.6149, sigma: 0.1}
+104.9;1;noise;noise_out;6.6149
+104.9;1;noise;;{value: -13.8518, sigma: 0.1}
+105;1;noise;noise_out;-13.8518
+105;1;noise;;{value: -14.3418, sigma: 0.1}
+105.1;1;noise;noise_out;-14.3418
+105.1;1;noise;;{value: -2.90772, sigma: 0.1}
+105.2;1;noise;noise_out;-2.90772
+105.2;1;noise;;{value: -2.54139, sigma: 0.1}
+105.3;1;noise;noise_out;-2.54139
+105.3;1;noise;;{value: 6.37887, sigma: 0.1}
+105.4;1;noise;noise_out;6.37887
+105.4;1;noise;;{value: 8.53173, sigma: 0.1}
+105.5;1;noise;noise_out;8.53173
+105.5;1;noise;;{value: 4.19444, sigma: 0.1}
+105.6;1;noise;noise_out;4.19444
+105.6;1;noise;;{value: 11.2813, sigma: 0.1}
+105.7;1;noise;noise_out;11.2813
+105.7;1;noise;;{value: 13.0571, sigma: 0.1}
+105.8;1;noise;noise_out;13.0571
+105.8;1;noise;;{value: -3.00095, sigma: 0.1}
+105.9;1;noise;noise_out;-3.00095
+105.9;1;noise;;{value: 16.4729, sigma: 0.1}
+106;1;noise;noise_out;16.4729
+106;1;noise;;{value: -4.64155, sigma: 0.1}
+106.1;1;noise;noise_out;-4.64155
+106.1;1;noise;;{value: 6.75151, sigma: 0.1}
+106.2;1;noise;noise_out;6.75151
+106.2;1;noise;;{value: -6.32847, sigma: 0.1}
+106.3;1;noise;noise_out;-6.32847
+106.3;1;noise;;{value: 9.1331, sigma: 0.1}
+106.4;1;noise;noise_out;9.1331
+106.4;1;noise;;{value: -9.16551, sigma: 0.1}
+106.5;1;noise;noise_out;-9.16551
+106.5;1;noise;;{value: 6.88864, sigma: 0.1}
+106.6;1;noise;noise_out;6.88864
+106.6;1;noise;;{value: 24.103, sigma: 0.1}
+106.7;1;noise;noise_out;24.103
+106.7;1;noise;;{value: -4.09753, sigma: 0.1}
+106.8;1;noise;noise_out;-4.09753
+106.8;1;noise;;{value: 2.18153, sigma: 0.1}
+106.9;1;noise;noise_out;2.18153
+106.9;1;noise;;{value: 1.58641, sigma: 0.1}
+107;1;noise;noise_out;1.58641
+107;1;noise;;{value: 6.29206, sigma: 0.1}
+107.1;1;noise;noise_out;6.29206
+107.1;1;noise;;{value: 19.0139, sigma: 0.1}
+107.2;1;noise;noise_out;19.0139
+107.2;1;noise;;{value: -0.551649, sigma: 0.1}
+107.3;1;noise;noise_out;-0.551649
+107.3;1;noise;;{value: -4.83507, sigma: 0.1}
+107.4;1;noise;noise_out;-4.83507
+107.4;1;noise;;{value: 10.8168, sigma: 0.1}
+107.5;1;noise;noise_out;10.8168
+107.5;1;noise;;{value: -14.8373, sigma: 0.1}
+107.6;1;noise;noise_out;-14.8373
+107.6;1;noise;;{value: -6.34589, sigma: 0.1}
+107.7;1;noise;noise_out;-6.34589
+107.7;1;noise;;{value: 7.05662, sigma: 0.1}
+107.8;1;noise;noise_out;7.05662
+107.8;1;noise;;{value: 14.225, sigma: 0.1}
+107.9;1;noise;noise_out;14.225
+107.9;1;noise;;{value: 5.8983, sigma: 0.1}
+108;1;noise;noise_out;5.8983
+108;1;noise;;{value: 3.75124, sigma: 0.1}
+108.1;1;noise;noise_out;3.75124
+108.1;1;noise;;{value: -3.09115, sigma: 0.1}
+108.2;1;noise;noise_out;-3.09115
+108.2;1;noise;;{value: 21.5474, sigma: 0.1}
+108.3;1;noise;noise_out;21.5474
+108.3;1;noise;;{value: -4.32034, sigma: 0.1}
+108.4;1;noise;noise_out;-4.32034
+108.4;1;noise;;{value: 3.86928, sigma: 0.1}
+108.5;1;noise;noise_out;3.86928
+108.5;1;noise;;{value: -3.34998, sigma: 0.1}
+108.6;1;noise;noise_out;-3.34998
+108.6;1;noise;;{value: -3.3797, sigma: 0.1}
+108.7;1;noise;noise_out;-3.3797
+108.7;1;noise;;{value: -12.3622, sigma: 0.1}
+108.8;1;noise;noise_out;-12.3622
+108.8;1;noise;;{value: -9.23595, sigma: 0.1}
+108.9;1;noise;noise_out;-9.23595
+108.9;1;noise;;{value: 7.18827, sigma: 0.1}
+109;1;noise;noise_out;7.18827
+109;1;noise;;{value: 5.83884, sigma: 0.1}
+109.1;1;noise;noise_out;5.83884
+109.1;1;noise;;{value: -8.12882, sigma: 0.1}
+109.2;1;noise;noise_out;-8.12882
+109.2;1;noise;;{value: 19.9008, sigma: 0.1}
+109.3;1;noise;noise_out;19.9008
+109.3;1;noise;;{value: -1.22766, sigma: 0.1}
+109.4;1;noise;noise_out;-1.22766
+109.4;1;noise;;{value: 2.79059, sigma: 0.1}
+109.5;1;noise;noise_out;2.79059
+109.5;1;noise;;{value: 1.97946, sigma: 0.1}
+109.6;1;noise;noise_out;1.97946
+109.6;1;noise;;{value: 2.11908, sigma: 0.1}
+109.7;1;noise;noise_out;2.11908
+109.7;1;noise;;{value: 1.39831, sigma: 0.1}
+109.8;1;noise;noise_out;1.39831
+109.8;1;noise;;{value: -8.10363, sigma: 0.1}
+109.9;1;noise;noise_out;-8.10363
+109.9;1;noise;;{value: -0.57721, sigma: 0.1}
+110;1;noise;noise_out;-0.57721
+110;1;noise;;{value: -5.01127, sigma: 0.1}
+110.1;1;noise;noise_out;-5.01127
+110.1;1;noise;;{value: 18.5272, sigma: 0.1}
+110.2;1;noise;noise_out;18.5272
+110.2;1;noise;;{value: -1.8425, sigma: 0.1}
+110.3;1;noise;noise_out;-1.8425
+110.3;1;noise;;{value: -4.85551, sigma: 0.1}
+110.4;1;noise;noise_out;-4.85551
+110.4;1;noise;;{value: 8.64291, sigma: 0.1}
+110.5;1;noise;noise_out;8.64291
+110.5;1;noise;;{value: -4.74146, sigma: 0.1}
+110.6;1;noise;noise_out;-4.74146
+110.6;1;noise;;{value: -9.7974, sigma: 0.1}
+110.7;1;noise;noise_out;-9.7974
+110.7;1;noise;;{value: -7.44465, sigma: 0.1}
+110.8;1;noise;noise_out;-7.44465
+110.8;1;noise;;{value: 6.75213, sigma: 0.1}
+110.9;1;noise;noise_out;6.75213
+110.9;1;noise;;{value: 0.0382932, sigma: 0.1}
+111;1;noise;noise_out;0.0382932
+111;1;noise;;{value: -8.68657, sigma: 0.1}
+111.1;1;noise;noise_out;-8.68657
+111.1;1;noise;;{value: -10.448, sigma: 0.1}
+111.2;1;noise;noise_out;-10.448
+111.2;1;noise;;{value: 8.0342, sigma: 0.1}
+111.3;1;noise;noise_out;8.0342
+111.3;1;noise;;{value: 3.48079, sigma: 0.1}
+111.4;1;noise;noise_out;3.48079
+111.4;1;noise;;{value: -9.31251, sigma: 0.1}
+111.5;1;noise;noise_out;-9.31251
+111.5;1;noise;;{value: -14.8607, sigma: 0.1}
+111.6;1;noise;noise_out;-14.8607
+111.6;1;noise;;{value: 2.97291, sigma: 0.1}
+111.7;1;noise;noise_out;2.97291
+111.7;1;noise;;{value: -0.577356, sigma: 0.1}
+111.8;1;noise;noise_out;-0.577356
+111.8;1;noise;;{value: -15.1407, sigma: 0.1}
+111.9;1;noise;noise_out;-15.1407
+111.9;1;noise;;{value: -14.6673, sigma: 0.1}
+112;1;noise;noise_out;-14.6673
+112;1;noise;;{value: -1.50876, sigma: 0.1}
+112.1;1;noise;noise_out;-1.50876
+112.1;1;noise;;{value: -13.8742, sigma: 0.1}
+112.2;1;noise;noise_out;-13.8742
+112.2;1;noise;;{value: -9.32342, sigma: 0.1}
+112.3;1;noise;noise_out;-9.32342
+112.3;1;noise;;{value: 1.35054, sigma: 0.1}
+112.4;1;noise;noise_out;1.35054
+112.4;1;noise;;{value: 7.23671, sigma: 0.1}
+112.5;1;noise;noise_out;7.23671
+112.5;1;noise;;{value: 4.76616, sigma: 0.1}
+112.6;1;noise;noise_out;4.76616
+112.6;1;noise;;{value: -3.93941, sigma: 0.1}
+112.7;1;noise;noise_out;-3.93941
+112.7;1;noise;;{value: 2.93064, sigma: 0.1}
+112.8;1;noise;noise_out;2.93064
+112.8;1;noise;;{value: 9.31387, sigma: 0.1}
+112.9;1;noise;noise_out;9.31387
+112.9;1;noise;;{value: -13.5781, sigma: 0.1}
+113;1;noise;noise_out;-13.5781
+113;1;noise;;{value: 11.4445, sigma: 0.1}
+113.1;1;noise;noise_out;11.4445
+113.1;1;noise;;{value: 12.85, sigma: 0.1}
+113.2;1;noise;noise_out;12.85
+113.2;1;noise;;{value: 6.19525, sigma: 0.1}
+113.3;1;noise;noise_out;6.19525
+113.3;1;noise;;{value: -5.2852, sigma: 0.1}
+113.4;1;noise;noise_out;-5.2852
+113.4;1;noise;;{value: -3.40927, sigma: 0.1}
+113.5;1;noise;noise_out;-3.40927
+113.5;1;noise;;{value: -3.47732, sigma: 0.1}
+113.6;1;noise;noise_out;-3.47732
+113.6;1;noise;;{value: 17.9409, sigma: 0.1}
+113.7;1;noise;noise_out;17.9409
+113.7;1;noise;;{value: -10.7645, sigma: 0.1}
+113.8;1;noise;noise_out;-10.7645
+113.8;1;noise;;{value: -14.6891, sigma: 0.1}
+113.9;1;noise;noise_out;-14.6891
+113.9;1;noise;;{value: 0.255789, sigma: 0.1}
+114;1;noise;noise_out;0.255789
+114;1;noise;;{value: -10.3333, sigma: 0.1}
+114.1;1;noise;noise_out;-10.3333
+114.1;1;noise;;{value: 4.06079, sigma: 0.1}
+114.2;1;noise;noise_out;4.06079
+114.2;1;noise;;{value: -4.50665, sigma: 0.1}
+114.3;1;noise;noise_out;-4.50665
+114.3;1;noise;;{value: -5.21083, sigma: 0.1}
+114.4;1;noise;noise_out;-5.21083
+114.4;1;noise;;{value: 10.2874, sigma: 0.1}
+114.5;1;noise;noise_out;10.2874
+114.5;1;noise;;{value: -8.32637, sigma: 0.1}
+114.6;1;noise;noise_out;-8.32637
+114.6;1;noise;;{value: 12.2165, sigma: 0.1}
+114.7;1;noise;noise_out;12.2165
+114.7;1;noise;;{value: -0.033765, sigma: 0.1}
+114.8;1;noise;noise_out;-0.033765
+114.8;1;noise;;{value: 2.29518, sigma: 0.1}
+114.9;1;noise;noise_out;2.29518
+114.9;1;noise;;{value: -0.5569, sigma: 0.1}
+115;1;noise;noise_out;-0.5569
+115;1;noise;;{value: 7.95045, sigma: 0.1}
+115.1;1;noise;noise_out;7.95045
+115.1;1;noise;;{value: -4.79515, sigma: 0.1}
+115.2;1;noise;noise_out;-4.79515
+115.2;1;noise;;{value: 21.6612, sigma: 0.1}
+115.3;1;noise;noise_out;21.6612
+115.3;1;noise;;{value: -3.75791, sigma: 0.1}
+115.4;1;noise;noise_out;-3.75791
+115.4;1;noise;;{value: -9.89402, sigma: 0.1}
+115.5;1;noise;noise_out;-9.89402
+115.5;1;noise;;{value: -23.8839, sigma: 0.1}
+115.6;1;noise;noise_out;-23.8839
+115.6;1;noise;;{value: -6.84496, sigma: 0.1}
+115.7;1;noise;noise_out;-6.84496
+115.7;1;noise;;{value: 1.19488, sigma: 0.1}
+115.8;1;noise;noise_out;1.19488
+115.8;1;noise;;{value: 4.83341, sigma: 0.1}
+115.9;1;noise;noise_out;4.83341
+115.9;1;noise;;{value: -14.2314, sigma: 0.1}
+116;1;noise;noise_out;-14.2314
+116;1;noise;;{value: 19.7414, sigma: 0.1}
+116.1;1;noise;noise_out;19.7414
+116.1;1;noise;;{value: 4.7687, sigma: 0.1}
+116.2;1;noise;noise_out;4.7687
+116.2;1;noise;;{value: -16.9036, sigma: 0.1}
+116.3;1;noise;noise_out;-16.9036
+116.3;1;noise;;{value: 3.06627, sigma: 0.1}
+116.4;1;noise;noise_out;3.06627
+116.4;1;noise;;{value: -8.15504, sigma: 0.1}
+116.5;1;noise;noise_out;-8.15504
+116.5;1;noise;;{value: 9.80227, sigma: 0.1}
+116.6;1;noise;noise_out;9.80227
+116.6;1;noise;;{value: 14.9615, sigma: 0.1}
+116.7;1;noise;noise_out;14.9615
+116.7;1;noise;;{value: 8.20083, sigma: 0.1}
+116.8;1;noise;noise_out;8.20083
+116.8;1;noise;;{value: -13.2549, sigma: 0.1}
+116.9;1;noise;noise_out;-13.2549
+116.9;1;noise;;{value: -15.4296, sigma: 0.1}
+117;1;noise;noise_out;-15.4296
+117;1;noise;;{value: 4.16144, sigma: 0.1}
+117.1;1;noise;noise_out;4.16144
+117.1;1;noise;;{value: -5.3002, sigma: 0.1}
+117.2;1;noise;noise_out;-5.3002
+117.2;1;noise;;{value: 5.51745, sigma: 0.1}
+117.3;1;noise;noise_out;5.51745
+117.3;1;noise;;{value: -2.25274, sigma: 0.1}
+117.4;1;noise;noise_out;-2.25274
+117.4;1;noise;;{value: 4.93443, sigma: 0.1}
+117.5;1;noise;noise_out;4.93443
+117.5;1;noise;;{value: 4.57042, sigma: 0.1}
+117.6;1;noise;noise_out;4.57042
+117.6;1;noise;;{value: -4.12544, sigma: 0.1}
+117.7;1;noise;noise_out;-4.12544
+117.7;1;noise;;{value: -6.66226, sigma: 0.1}
+117.8;1;noise;noise_out;-6.66226
+117.8;1;noise;;{value: 14.6844, sigma: 0.1}
+117.9;1;noise;noise_out;14.6844
+117.9;1;noise;;{value: -2.98858, sigma: 0.1}
+118;1;noise;noise_out;-2.98858
+118;1;noise;;{value: -7.88867, sigma: 0.1}
+118.1;1;noise;noise_out;-7.88867
+118.1;1;noise;;{value: 0.433513, sigma: 0.1}
+118.2;1;noise;noise_out;0.433513
+118.2;1;noise;;{value: 4.26653, sigma: 0.1}
+118.3;1;noise;noise_out;4.26653
+118.3;1;noise;;{value: -7.91089, sigma: 0.1}
+118.4;1;noise;noise_out;-7.91089
+118.4;1;noise;;{value: 19.313, sigma: 0.1}
+118.5;1;noise;noise_out;19.313
+118.5;1;noise;;{value: -8.61672, sigma: 0.1}
+118.6;1;noise;noise_out;-8.61672
+118.6;1;noise;;{value: -1.28446, sigma: 0.1}
+118.7;1;noise;noise_out;-1.28446
+118.7;1;noise;;{value: -7.92269, sigma: 0.1}
+118.8;1;noise;noise_out;-7.92269
+118.8;1;noise;;{value: 0.835747, sigma: 0.1}
+118.9;1;noise;noise_out;0.835747
+118.9;1;noise;;{value: -22.3503, sigma: 0.1}
+119;1;noise;noise_out;-22.3503
+119;1;noise;;{value: 4.31728, sigma: 0.1}
+119.1;1;noise;noise_out;4.31728
+119.1;1;noise;;{value: -7.64029, sigma: 0.1}
+119.2;1;noise;noise_out;-7.64029
+119.2;1;noise;;{value: 7.90759, sigma: 0.1}
+119.3;1;noise;noise_out;7.90759
+119.3;1;noise;;{value: 0.890379, sigma: 0.1}
+119.4;1;noise;noise_out;0.890379
+119.4;1;noise;;{value: -14.1537, sigma: 0.1}
+119.5;1;noise;noise_out;-14.1537
+119.5;1;noise;;{value: 3.10556, sigma: 0.1}
+119.6;1;noise;noise_out;3.10556
+119.6;1;noise;;{value: -16.2395, sigma: 0.1}
+119.7;1;noise;noise_out;-16.2395
+119.7;1;noise;;{value: -3.4342, sigma: 0.1}
+119.8;1;noise;noise_out;-3.4342
+119.8;1;noise;;{value: -9.39231, sigma: 0.1}
+119.9;1;noise;noise_out;-9.39231
+119.9;1;noise;;{value: -3.44355, sigma: 0.1}
+120;1;noise;noise_out;-3.44355
+120;1;noise;;{value: 2.65799, sigma: 0.1}
+120.1;1;noise;noise_out;2.65799
+120.1;1;noise;;{value: 6.19126, sigma: 0.1}
+120.2;1;noise;noise_out;6.19126
+120.2;1;noise;;{value: 2.93339, sigma: 0.1}
+120.3;1;noise;noise_out;2.93339
+120.3;1;noise;;{value: 1.20968, sigma: 0.1}
+120.4;1;noise;noise_out;1.20968
+120.4;1;noise;;{value: 9.75248, sigma: 0.1}
+120.5;1;noise;noise_out;9.75248
+120.5;1;noise;;{value: -1.94676, sigma: 0.1}
+120.6;1;noise;noise_out;-1.94676
+120.6;1;noise;;{value: 1.02753, sigma: 0.1}
+120.7;1;noise;noise_out;1.02753
+120.7;1;noise;;{value: -7.33798, sigma: 0.1}
+120.8;1;noise;noise_out;-7.33798
+120.8;1;noise;;{value: -7.827, sigma: 0.1}
+120.9;1;noise;noise_out;-7.827
+120.9;1;noise;;{value: -6.27476, sigma: 0.1}
+121;1;noise;noise_out;-6.27476
+121;1;noise;;{value: -4.33145, sigma: 0.1}
+121.1;1;noise;noise_out;-4.33145
+121.1;1;noise;;{value: -1.77934, sigma: 0.1}
+121.2;1;noise;noise_out;-1.77934
+121.2;1;noise;;{value: -12.6201, sigma: 0.1}
+121.3;1;noise;noise_out;-12.6201
+121.3;1;noise;;{value: -9.09471, sigma: 0.1}
+121.4;1;noise;noise_out;-9.09471
+121.4;1;noise;;{value: 7.98613, sigma: 0.1}
+121.5;1;noise;noise_out;7.98613
+121.5;1;noise;;{value: -14.9551, sigma: 0.1}
+121.6;1;noise;noise_out;-14.9551
+121.6;1;noise;;{value: -5.58131, sigma: 0.1}
+121.7;1;noise;noise_out;-5.58131
+121.7;1;noise;;{value: -3.48536, sigma: 0.1}
+121.8;1;noise;noise_out;-3.48536
+121.8;1;noise;;{value: 5.58695, sigma: 0.1}
+121.9;1;noise;noise_out;5.58695
+121.9;1;noise;;{value: -10.6007, sigma: 0.1}
+122;1;noise;noise_out;-10.6007
+122;1;noise;;{value: -7.72988, sigma: 0.1}
+122.1;1;noise;noise_out;-7.72988
+122.1;1;noise;;{value: -9.2237, sigma: 0.1}
+122.2;1;noise;noise_out;-9.2237
+122.2;1;noise;;{value: 10.9144, sigma: 0.1}
+122.3;1;noise;noise_out;10.9144
+122.3;1;noise;;{value: 4.39549, sigma: 0.1}
+122.4;1;noise;noise_out;4.39549
+122.4;1;noise;;{value: -28.4349, sigma: 0.1}
+122.5;1;noise;noise_out;-28.4349
+122.5;1;noise;;{value: 0.833642, sigma: 0.1}
+122.6;1;noise;noise_out;0.833642
+122.6;1;noise;;{value: -0.736837, sigma: 0.1}
+122.7;1;noise;noise_out;-0.736837
+122.7;1;noise;;{value: -0.72345, sigma: 0.1}
+122.8;1;noise;noise_out;-0.72345
+122.8;1;noise;;{value: -11.4286, sigma: 0.1}
+122.9;1;noise;noise_out;-11.4286
+122.9;1;noise;;{value: 10.4336, sigma: 0.1}
+123;1;noise;noise_out;10.4336
+123;1;noise;;{value: -9.47188, sigma: 0.1}
+123.1;1;noise;noise_out;-9.47188
+123.1;1;noise;;{value: -10.7163, sigma: 0.1}
+123.2;1;noise;noise_out;-10.7163
+123.2;1;noise;;{value: -9.21625, sigma: 0.1}
+123.3;1;noise;noise_out;-9.21625
+123.3;1;noise;;{value: 4.26052, sigma: 0.1}
+123.4;1;noise;noise_out;4.26052
+123.4;1;noise;;{value: 9.19051, sigma: 0.1}
+123.5;1;noise;noise_out;9.19051
+123.5;1;noise;;{value: -22.8014, sigma: 0.1}
+123.6;1;noise;noise_out;-22.8014
+123.6;1;noise;;{value: 2.4829, sigma: 0.1}
+123.7;1;noise;noise_out;2.4829
+123.7;1;noise;;{value: -11.172, sigma: 0.1}
+123.8;1;noise;noise_out;-11.172
+123.8;1;noise;;{value: -3.46591, sigma: 0.1}
+123.9;1;noise;noise_out;-3.46591
+123.9;1;noise;;{value: 5.62901, sigma: 0.1}
+124;1;noise;noise_out;5.62901
+124;1;noise;;{value: -18.0798, sigma: 0.1}
+124.1;1;noise;noise_out;-18.0798
+124.1;1;noise;;{value: 16.0196, sigma: 0.1}
+124.2;1;noise;noise_out;16.0196
+124.2;1;noise;;{value: -7.72386, sigma: 0.1}
+124.3;1;noise;noise_out;-7.72386
+124.3;1;noise;;{value: -12.8626, sigma: 0.1}
+124.4;1;noise;noise_out;-12.8626
+124.4;1;noise;;{value: -7.68531, sigma: 0.1}
+124.5;1;noise;noise_out;-7.68531
+124.5;1;noise;;{value: 0.734041, sigma: 0.1}
+124.6;1;noise;noise_out;0.734041
+124.6;1;noise;;{value: -2.26192, sigma: 0.1}
+124.7;1;noise;noise_out;-2.26192
+124.7;1;noise;;{value: -3.03839, sigma: 0.1}
+124.8;1;noise;noise_out;-3.03839
+124.8;1;noise;;{value: -21.1044, sigma: 0.1}
+124.9;1;noise;noise_out;-21.1044
+124.9;1;noise;;{value: -1.26115, sigma: 0.1}
+125;1;noise;noise_out;-1.26115
+125;1;noise;;{value: -8.31943, sigma: 0.1}
+125.1;1;noise;noise_out;-8.31943
+125.1;1;noise;;{value: -11.1229, sigma: 0.1}
+125.2;1;noise;noise_out;-11.1229
+125.2;1;noise;;{value: -3.66921, sigma: 0.1}
+125.3;1;noise;noise_out;-3.66921
+125.3;1;noise;;{value: 8.64363, sigma: 0.1}
+125.4;1;noise;noise_out;8.64363
+125.4;1;noise;;{value: 7.32777, sigma: 0.1}
+125.5;1;noise;noise_out;7.32777
+125.5;1;noise;;{value: -7.29457, sigma: 0.1}
+125.6;1;noise;noise_out;-7.29457
+125.6;1;noise;;{value: 3.74268, sigma: 0.1}
+125.7;1;noise;noise_out;3.74268
+125.7;1;noise;;{value: -14.3292, sigma: 0.1}
+125.8;1;noise;noise_out;-14.3292
+125.8;1;noise;;{value: -4.19961, sigma: 0.1}
+125.9;1;noise;noise_out;-4.19961
+125.9;1;noise;;{value: 7.07696, sigma: 0.1}
+126;1;noise;noise_out;7.07696
+126;1;noise;;{value: 0.204848, sigma: 0.1}
+126.1;1;noise;noise_out;0.204848
+126.1;1;noise;;{value: -17.7615, sigma: 0.1}
+126.2;1;noise;noise_out;-17.7615
+126.2;1;noise;;{value: -5.26332, sigma: 0.1}
+126.3;1;noise;noise_out;-5.26332
+126.3;1;noise;;{value: 4.42182, sigma: 0.1}
+126.4;1;noise;noise_out;4.42182
+126.4;1;noise;;{value: 3.54014, sigma: 0.1}
+126.5;1;noise;noise_out;3.54014
+126.5;1;noise;;{value: -9.55678, sigma: 0.1}
+126.6;1;noise;noise_out;-9.55678
+126.6;1;noise;;{value: -0.352385, sigma: 0.1}
+126.7;1;noise;noise_out;-0.352385
+126.7;1;noise;;{value: 6.88735, sigma: 0.1}
+126.8;1;noise;noise_out;6.88735
+126.8;1;noise;;{value: -6.37596, sigma: 0.1}
+126.9;1;noise;noise_out;-6.37596
+126.9;1;noise;;{value: 5.30649, sigma: 0.1}
+127;1;noise;noise_out;5.30649
+127;1;noise;;{value: -31.8123, sigma: 0.1}
+127.1;1;noise;noise_out;-31.8123
+127.1;1;noise;;{value: -9.36693, sigma: 0.1}
+127.2;1;noise;noise_out;-9.36693
+127.2;1;noise;;{value: 8.25109, sigma: 0.1}
+127.3;1;noise;noise_out;8.25109
+127.3;1;noise;;{value: 1.52734, sigma: 0.1}
+127.4;1;noise;noise_out;1.52734
+127.4;1;noise;;{value: -2.05333, sigma: 0.1}
+127.5;1;noise;noise_out;-2.05333
+127.5;1;noise;;{value: 3.76676, sigma: 0.1}
+127.6;1;noise;noise_out;3.76676
+127.6;1;noise;;{value: -12.3374, sigma: 0.1}
+127.7;1;noise;noise_out;-12.3374
+127.7;1;noise;;{value: -3.64609, sigma: 0.1}
+127.8;1;noise;noise_out;-3.64609
+127.8;1;noise;;{value: -7.784, sigma: 0.1}
+127.9;1;noise;noise_out;-7.784
+127.9;1;noise;;{value: -10.954, sigma: 0.1}
+128;1;noise;noise_out;-10.954
+128;1;noise;;{value: -17.0855, sigma: 0.1}
+128.1;1;noise;noise_out;-17.0855
+128.1;1;noise;;{value: -7.29028, sigma: 0.1}
+128.2;1;noise;noise_out;-7.29028
+128.2;1;noise;;{value: 1.83002, sigma: 0.1}
+128.3;1;noise;noise_out;1.83002
+128.3;1;noise;;{value: 14.5934, sigma: 0.1}
+128.4;1;noise;noise_out;14.5934
+128.4;1;noise;;{value: -8.78146, sigma: 0.1}
+128.5;1;noise;noise_out;-8.78146
+128.5;1;noise;;{value: 6.43485, sigma: 0.1}
+128.6;1;noise;noise_out;6.43485
+128.6;1;noise;;{value: -6.36197, sigma: 0.1}
+128.7;1;noise;noise_out;-6.36197
+128.7;1;noise;;{value: 4.13332, sigma: 0.1}
+128.8;1;noise;noise_out;4.13332
+128.8;1;noise;;{value: 1.16142, sigma: 0.1}
+128.9;1;noise;noise_out;1.16142
+128.9;1;noise;;{value: 4.35145, sigma: 0.1}
+129;1;noise;noise_out;4.35145
+129;1;noise;;{value: -11.6519, sigma: 0.1}
+129.1;1;noise;noise_out;-11.6519
+129.1;1;noise;;{value: -16.8482, sigma: 0.1}
+129.2;1;noise;noise_out;-16.8482
+129.2;1;noise;;{value: -3.24913, sigma: 0.1}
+129.3;1;noise;noise_out;-3.24913
+129.3;1;noise;;{value: 3.38195, sigma: 0.1}
+129.4;1;noise;noise_out;3.38195
+129.4;1;noise;;{value: -2.43737, sigma: 0.1}
+129.5;1;noise;noise_out;-2.43737
+129.5;1;noise;;{value: -7.10107, sigma: 0.1}
+129.6;1;noise;noise_out;-7.10107
+129.6;1;noise;;{value: 19.7424, sigma: 0.1}
+129.7;1;noise;noise_out;19.7424
+129.7;1;noise;;{value: -8.99572, sigma: 0.1}
+129.8;1;noise;noise_out;-8.99572
+129.8;1;noise;;{value: 4.80964, sigma: 0.1}
+129.9;1;noise;noise_out;4.80964
+129.9;1;noise;;{value: 0.0488504, sigma: 0.1}
+130;1;noise;noise_out;0.0488504
+130;1;noise;;{value: -8.28223, sigma: 0.1}
+130.1;1;noise;noise_out;-8.28223
+130.1;1;noise;;{value: -10.1791, sigma: 0.1}
+130.2;1;noise;noise_out;-10.1791
+130.2;1;noise;;{value: 11.775, sigma: 0.1}
+130.3;1;noise;noise_out;11.775
+130.3;1;noise;;{value: 1.2937, sigma: 0.1}
+130.4;1;noise;noise_out;1.2937
+130.4;1;noise;;{value: 8.42466, sigma: 0.1}
+130.5;1;noise;noise_out;8.42466
+130.5;1;noise;;{value: 3.26629, sigma: 0.1}
+130.6;1;noise;noise_out;3.26629
+130.6;1;noise;;{value: -25.1246, sigma: 0.1}
+130.7;1;noise;noise_out;-25.1246
+130.7;1;noise;;{value: 0.18944, sigma: 0.1}
+130.8;1;noise;noise_out;0.18944
+130.8;1;noise;;{value: 5.75377, sigma: 0.1}
+130.9;1;noise;noise_out;5.75377
+130.9;1;noise;;{value: 10.746, sigma: 0.1}
+131;1;noise;noise_out;10.746
+131;1;noise;;{value: 7.17382, sigma: 0.1}
+131.1;1;noise;noise_out;7.17382
+131.1;1;noise;;{value: -12.0762, sigma: 0.1}
+131.2;1;noise;noise_out;-12.0762
+131.2;1;noise;;{value: -0.433054, sigma: 0.1}
+131.3;1;noise;noise_out;-0.433054
+131.3;1;noise;;{value: 4.30745, sigma: 0.1}
+131.4;1;noise;noise_out;4.30745
+131.4;1;noise;;{value: 14.5085, sigma: 0.1}
+131.5;1;noise;noise_out;14.5085
+131.5;1;noise;;{value: 6.01943, sigma: 0.1}
+131.6;1;noise;noise_out;6.01943
+131.6;1;noise;;{value: -9.85304, sigma: 0.1}
+131.7;1;noise;noise_out;-9.85304
+131.7;1;noise;;{value: 22.8364, sigma: 0.1}
+131.8;1;noise;noise_out;22.8364
+131.8;1;noise;;{value: -10.9312, sigma: 0.1}
+131.9;1;noise;noise_out;-10.9312
+131.9;1;noise;;{value: 7.29939, sigma: 0.1}
+132;1;noise;noise_out;7.29939
+132;1;noise;;{value: 4.63477, sigma: 0.1}
+132.1;1;noise;noise_out;4.63477
+132.1;1;noise;;{value: 7.04517, sigma: 0.1}
+132.2;1;noise;noise_out;7.04517
+132.2;1;noise;;{value: 16.1528, sigma: 0.1}
+132.3;1;noise;noise_out;16.1528
+132.3;1;noise;;{value: 8.32496, sigma: 0.1}
+132.4;1;noise;noise_out;8.32496
+132.4;1;noise;;{value: 4.79011, sigma: 0.1}
+132.5;1;noise;noise_out;4.79011
+132.5;1;noise;;{value: 10.5509, sigma: 0.1}
+132.6;1;noise;noise_out;10.5509
+132.6;1;noise;;{value: -7.22037, sigma: 0.1}
+132.7;1;noise;noise_out;-7.22037
+132.7;1;noise;;{value: -5.67003, sigma: 0.1}
+132.8;1;noise;noise_out;-5.67003
+132.8;1;noise;;{value: -1.08182, sigma: 0.1}
+132.9;1;noise;noise_out;-1.08182
+132.9;1;noise;;{value: -2.24115, sigma: 0.1}
+133;1;noise;noise_out;-2.24115
+133;1;noise;;{value: 6.2053, sigma: 0.1}
+133.1;1;noise;noise_out;6.2053
+133.1;1;noise;;{value: 0.266042, sigma: 0.1}
+133.2;1;noise;noise_out;0.266042
+133.2;1;noise;;{value: 13.548, sigma: 0.1}
+133.3;1;noise;noise_out;13.548
+133.3;1;noise;;{value: 3.02848, sigma: 0.1}
+133.4;1;noise;noise_out;3.02848
+133.4;1;noise;;{value: 12.6866, sigma: 0.1}
+133.5;1;noise;noise_out;12.6866
+133.5;1;noise;;{value: 3.9057, sigma: 0.1}
+133.6;1;noise;noise_out;3.9057
+133.6;1;noise;;{value: -5.32819, sigma: 0.1}
+133.7;1;noise;noise_out;-5.32819
+133.7;1;noise;;{value: 5.57619, sigma: 0.1}
+133.8;1;noise;noise_out;5.57619
+133.8;1;noise;;{value: -2.14209, sigma: 0.1}
+133.9;1;noise;noise_out;-2.14209
+133.9;1;noise;;{value: 8.36943, sigma: 0.1}
+134;1;noise;noise_out;8.36943
+134;1;noise;;{value: -5.74371, sigma: 0.1}
+134.1;1;noise;noise_out;-5.74371
+134.1;1;noise;;{value: -7.79652, sigma: 0.1}
+134.2;1;noise;noise_out;-7.79652
+134.2;1;noise;;{value: -0.779678, sigma: 0.1}
+134.3;1;noise;noise_out;-0.779678
+134.3;1;noise;;{value: 2.32564, sigma: 0.1}
+134.4;1;noise;noise_out;2.32564
+134.4;1;noise;;{value: 4.92241, sigma: 0.1}
+134.5;1;noise;noise_out;4.92241
+134.5;1;noise;;{value: 14.039, sigma: 0.1}
+134.6;1;noise;noise_out;14.039
+134.6;1;noise;;{value: 10.5729, sigma: 0.1}
+134.7;1;noise;noise_out;10.5729
+134.7;1;noise;;{value: 7.78162, sigma: 0.1}
+134.8;1;noise;noise_out;7.78162
+134.8;1;noise;;{value: 8.31215, sigma: 0.1}
+134.9;1;noise;noise_out;8.31215
+134.9;1;noise;;{value: -9.01478, sigma: 0.1}
+135;1;noise;noise_out;-9.01478
+135;1;noise;;{value: 7.1717, sigma: 0.1}
+135.1;1;noise;noise_out;7.1717
+135.1;1;noise;;{value: -21.4148, sigma: 0.1}
+135.2;1;noise;noise_out;-21.4148
+135.2;1;noise;;{value: -14.6999, sigma: 0.1}
+135.3;1;noise;noise_out;-14.6999
+135.3;1;noise;;{value: -1.99986, sigma: 0.1}
+135.4;1;noise;noise_out;-1.99986
+135.4;1;noise;;{value: -2.84701, sigma: 0.1}
+135.5;1;noise;noise_out;-2.84701
+135.5;1;noise;;{value: -4.47405, sigma: 0.1}
+135.6;1;noise;noise_out;-4.47405
+135.6;1;noise;;{value: 6.77143, sigma: 0.1}
+135.7;1;noise;noise_out;6.77143
+135.7;1;noise;;{value: 7.80386, sigma: 0.1}
+135.8;1;noise;noise_out;7.80386
+135.8;1;noise;;{value: -1.38396, sigma: 0.1}
+135.9;1;noise;noise_out;-1.38396
+135.9;1;noise;;{value: 8.12485, sigma: 0.1}
+136;1;noise;noise_out;8.12485
+136;1;noise;;{value: -0.349008, sigma: 0.1}
+136.1;1;noise;noise_out;-0.349008
+136.1;1;noise;;{value: -1.86, sigma: 0.1}
+136.2;1;noise;noise_out;-1.86
+136.2;1;noise;;{value: 11.8099, sigma: 0.1}
+136.3;1;noise;noise_out;11.8099
+136.3;1;noise;;{value: 5.98919, sigma: 0.1}
+136.4;1;noise;noise_out;5.98919
+136.4;1;noise;;{value: -9.98341, sigma: 0.1}
+136.5;1;noise;noise_out;-9.98341
+136.5;1;noise;;{value: 1.16845, sigma: 0.1}
+136.6;1;noise;noise_out;1.16845
+136.6;1;noise;;{value: 3.25165, sigma: 0.1}
+136.7;1;noise;noise_out;3.25165
+136.7;1;noise;;{value: -11.0707, sigma: 0.1}
+136.8;1;noise;noise_out;-11.0707
+136.8;1;noise;;{value: -2.25337, sigma: 0.1}
+136.9;1;noise;noise_out;-2.25337
+136.9;1;noise;;{value: -13.0285, sigma: 0.1}
+137;1;noise;noise_out;-13.0285
+137;1;noise;;{value: -8.07557, sigma: 0.1}
+137.1;1;noise;noise_out;-8.07557
+137.1;1;noise;;{value: 24.6975, sigma: 0.1}
+137.2;1;noise;noise_out;24.6975
+137.2;1;noise;;{value: 3.31001, sigma: 0.1}
+137.3;1;noise;noise_out;3.31001
+137.3;1;noise;;{value: 11.7118, sigma: 0.1}
+137.4;1;noise;noise_out;11.7118
+137.4;1;noise;;{value: -16.3633, sigma: 0.1}
+137.5;1;noise;noise_out;-16.3633
+137.5;1;noise;;{value: -6.28889, sigma: 0.1}
+137.6;1;noise;noise_out;-6.28889
+137.6;1;noise;;{value: 3.0168, sigma: 0.1}
+137.7;1;noise;noise_out;3.0168
+137.7;1;noise;;{value: 5.26885, sigma: 0.1}
+137.8;1;noise;noise_out;5.26885
+137.8;1;noise;;{value: -7.06442, sigma: 0.1}
+137.9;1;noise;noise_out;-7.06442
+137.9;1;noise;;{value: -16.6784, sigma: 0.1}
+138;1;noise;noise_out;-16.6784
+138;1;noise;;{value: -1.24046, sigma: 0.1}
+138.1;1;noise;noise_out;-1.24046
+138.1;1;noise;;{value: -18.9673, sigma: 0.1}
+138.2;1;noise;noise_out;-18.9673
+138.2;1;noise;;{value: -15.5644, sigma: 0.1}
+138.3;1;noise;noise_out;-15.5644
+138.3;1;noise;;{value: -14.3728, sigma: 0.1}
+138.4;1;noise;noise_out;-14.3728
+138.4;1;noise;;{value: 5.89461, sigma: 0.1}
+138.5;1;noise;noise_out;5.89461
+138.5;1;noise;;{value: 10.9806, sigma: 0.1}
+138.6;1;noise;noise_out;10.9806
+138.6;1;noise;;{value: 12.8593, sigma: 0.1}
+138.7;1;noise;noise_out;12.8593
+138.7;1;noise;;{value: -11.9891, sigma: 0.1}
+138.8;1;noise;noise_out;-11.9891
+138.8;1;noise;;{value: 2.30172, sigma: 0.1}
+138.9;1;noise;noise_out;2.30172
+138.9;1;noise;;{value: 2.04151, sigma: 0.1}
+139;1;noise;noise_out;2.04151
+139;1;noise;;{value: -7.76067, sigma: 0.1}
+139.1;1;noise;noise_out;-7.76067
+139.1;1;noise;;{value: 0.956603, sigma: 0.1}
+139.2;1;noise;noise_out;0.956603
+139.2;1;noise;;{value: -5.40721, sigma: 0.1}
+139.3;1;noise;noise_out;-5.40721
+139.3;1;noise;;{value: 12.2354, sigma: 0.1}
+139.4;1;noise;noise_out;12.2354
+139.4;1;noise;;{value: 15.7425, sigma: 0.1}
+139.5;1;noise;noise_out;15.7425
+139.5;1;noise;;{value: -14.6236, sigma: 0.1}
+139.6;1;noise;noise_out;-14.6236
+139.6;1;noise;;{value: 11.441, sigma: 0.1}
+139.7;1;noise;noise_out;11.441
+139.7;1;noise;;{value: 0.897414, sigma: 0.1}
+139.8;1;noise;noise_out;0.897414
+139.8;1;noise;;{value: 0.335791, sigma: 0.1}
+139.9;1;noise;noise_out;0.335791
+139.9;1;noise;;{value: 2.07516, sigma: 0.1}
+140;1;noise;noise_out;2.07516
+140;1;noise;;{value: 20.5424, sigma: 0.1}
+140.1;1;noise;noise_out;20.5424
+140.1;1;noise;;{value: -14.3194, sigma: 0.1}
+140.2;1;noise;noise_out;-14.3194
+140.2;1;noise;;{value: 4.80302, sigma: 0.1}
+140.3;1;noise;noise_out;4.80302
+140.3;1;noise;;{value: 10.0887, sigma: 0.1}
+140.4;1;noise;noise_out;10.0887
+140.4;1;noise;;{value: -21.5836, sigma: 0.1}
+140.5;1;noise;noise_out;-21.5836
+140.5;1;noise;;{value: -0.20082, sigma: 0.1}
+140.6;1;noise;noise_out;-0.20082
+140.6;1;noise;;{value: 0.42688, sigma: 0.1}
+140.7;1;noise;noise_out;0.42688
+140.7;1;noise;;{value: 4.64019, sigma: 0.1}
+140.8;1;noise;noise_out;4.64019
+140.8;1;noise;;{value: -10.4757, sigma: 0.1}
+140.9;1;noise;noise_out;-10.4757
+140.9;1;noise;;{value: 5.05975, sigma: 0.1}
+141;1;noise;noise_out;5.05975
+141;1;noise;;{value: 2.30667, sigma: 0.1}
+141.1;1;noise;noise_out;2.30667
+141.1;1;noise;;{value: -2.37662, sigma: 0.1}
+141.2;1;noise;noise_out;-2.37662
+141.2;1;noise;;{value: -9.72824, sigma: 0.1}
+141.3;1;noise;noise_out;-9.72824
+141.3;1;noise;;{value: 4.44688, sigma: 0.1}
+141.4;1;noise;noise_out;4.44688
+141.4;1;noise;;{value: -9.92925, sigma: 0.1}
+141.5;1;noise;noise_out;-9.92925
+141.5;1;noise;;{value: -5.9514, sigma: 0.1}
+141.6;1;noise;noise_out;-5.9514
+141.6;1;noise;;{value: 14.091, sigma: 0.1}
+141.7;1;noise;noise_out;14.091
+141.7;1;noise;;{value: 7.41909, sigma: 0.1}
+141.8;1;noise;noise_out;7.41909
+141.8;1;noise;;{value: -33.1434, sigma: 0.1}
+141.9;1;noise;noise_out;-33.1434
+141.9;1;noise;;{value: -9.32078, sigma: 0.1}
+142;1;noise;noise_out;-9.32078
+142;1;noise;;{value: -7.68211, sigma: 0.1}
+142.1;1;noise;noise_out;-7.68211
+142.1;1;noise;;{value: -1.32093, sigma: 0.1}
+142.2;1;noise;noise_out;-1.32093
+142.2;1;noise;;{value: -0.0347292, sigma: 0.1}
+142.3;1;noise;noise_out;-0.0347292
+142.3;1;noise;;{value: 5.32943, sigma: 0.1}
+142.4;1;noise;noise_out;5.32943
+142.4;1;noise;;{value: -12.4232, sigma: 0.1}
+142.5;1;noise;noise_out;-12.4232
+142.5;1;noise;;{value: -3.84042, sigma: 0.1}
+142.6;1;noise;noise_out;-3.84042
+142.6;1;noise;;{value: -5.22169, sigma: 0.1}
+142.7;1;noise;noise_out;-5.22169
+142.7;1;noise;;{value: -16.984, sigma: 0.1}
+142.8;1;noise;noise_out;-16.984
+142.8;1;noise;;{value: -0.174389, sigma: 0.1}
+142.9;1;noise;noise_out;-0.174389
+142.9;1;noise;;{value: 23.6266, sigma: 0.1}
+143;1;noise;noise_out;23.6266
+143;1;noise;;{value: 15.7335, sigma: 0.1}
+143.1;1;noise;noise_out;15.7335
+143.1;1;noise;;{value: -18.8247, sigma: 0.1}
+143.2;1;noise;noise_out;-18.8247
+143.2;1;noise;;{value: 6.32005, sigma: 0.1}
+143.3;1;noise;noise_out;6.32005
+143.3;1;noise;;{value: 27.0636, sigma: 0.1}
+143.4;1;noise;noise_out;27.0636
+143.4;1;noise;;{value: -2.76193, sigma: 0.1}
+143.5;1;noise;noise_out;-2.76193
+143.5;1;noise;;{value: -11.747, sigma: 0.1}
+143.6;1;noise;noise_out;-11.747
+143.6;1;noise;;{value: 13.5399, sigma: 0.1}
+143.7;1;noise;noise_out;13.5399
+143.7;1;noise;;{value: 2.21025, sigma: 0.1}
+143.8;1;noise;noise_out;2.21025
+143.8;1;noise;;{value: -7.07149, sigma: 0.1}
+143.9;1;noise;noise_out;-7.07149
+143.9;1;noise;;{value: 11.3188, sigma: 0.1}
+144;1;noise;noise_out;11.3188
+144;1;noise;;{value: 0.669055, sigma: 0.1}
+144.1;1;noise;noise_out;0.669055
+144.1;1;noise;;{value: 2.41579, sigma: 0.1}
+144.2;1;noise;noise_out;2.41579
+144.2;1;noise;;{value: 8.75314, sigma: 0.1}
+144.3;1;noise;noise_out;8.75314
+144.3;1;noise;;{value: -16.334, sigma: 0.1}
+144.4;1;noise;noise_out;-16.334
+144.4;1;noise;;{value: -17.2685, sigma: 0.1}
+144.5;1;noise;noise_out;-17.2685
+144.5;1;noise;;{value: 7.88307, sigma: 0.1}
+144.6;1;noise;noise_out;7.88307
+144.6;1;noise;;{value: -5.39416, sigma: 0.1}
+144.7;1;noise;noise_out;-5.39416
+144.7;1;noise;;{value: 9.05376, sigma: 0.1}
+144.8;1;noise;noise_out;9.05376
+144.8;1;noise;;{value: -1.64205, sigma: 0.1}
+144.9;1;noise;noise_out;-1.64205
+144.9;1;noise;;{value: -0.906701, sigma: 0.1}
+145;1;noise;noise_out;-0.906701
+145;1;noise;;{value: 1.98806, sigma: 0.1}
+145.1;1;noise;noise_out;1.98806
+145.1;1;noise;;{value: -16.9667, sigma: 0.1}
+145.2;1;noise;noise_out;-16.9667
+145.2;1;noise;;{value: 8.04566, sigma: 0.1}
+145.3;1;noise;noise_out;8.04566
+145.3;1;noise;;{value: -8.0769, sigma: 0.1}
+145.4;1;noise;noise_out;-8.0769
+145.4;1;noise;;{value: -10.7014, sigma: 0.1}
+145.5;1;noise;noise_out;-10.7014
+145.5;1;noise;;{value: -2.91463, sigma: 0.1}
+145.6;1;noise;noise_out;-2.91463
+145.6;1;noise;;{value: -11.1231, sigma: 0.1}
+145.7;1;noise;noise_out;-11.1231
+145.7;1;noise;;{value: 3.6386, sigma: 0.1}
+145.8;1;noise;noise_out;3.6386
+145.8;1;noise;;{value: 14.5582, sigma: 0.1}
+145.9;1;noise;noise_out;14.5582
+145.9;1;noise;;{value: -15.9896, sigma: 0.1}
+146;1;noise;noise_out;-15.9896
+146;1;noise;;{value: -11.5486, sigma: 0.1}
+146.1;1;noise;noise_out;-11.5486
+146.1;1;noise;;{value: 0.2792, sigma: 0.1}
+146.2;1;noise;noise_out;0.2792
+146.2;1;noise;;{value: 2.80586, sigma: 0.1}
+146.3;1;noise;noise_out;2.80586
+146.3;1;noise;;{value: 1.72246, sigma: 0.1}
+146.4;1;noise;noise_out;1.72246
+146.4;1;noise;;{value: 1.91585, sigma: 0.1}
+146.5;1;noise;noise_out;1.91585
+146.5;1;noise;;{value: -5.15157, sigma: 0.1}
+146.6;1;noise;noise_out;-5.15157
+146.6;1;noise;;{value: -6.27459, sigma: 0.1}
+146.7;1;noise;noise_out;-6.27459
+146.7;1;noise;;{value: -4.63771, sigma: 0.1}
+146.8;1;noise;noise_out;-4.63771
+146.8;1;noise;;{value: 3.04598, sigma: 0.1}
+146.9;1;noise;noise_out;3.04598
+146.9;1;noise;;{value: 1.8761, sigma: 0.1}
+147;1;noise;noise_out;1.8761
+147;1;noise;;{value: -5.20069, sigma: 0.1}
+147.1;1;noise;noise_out;-5.20069
+147.1;1;noise;;{value: 4.2265, sigma: 0.1}
+147.2;1;noise;noise_out;4.2265
+147.2;1;noise;;{value: -3.2094, sigma: 0.1}
+147.3;1;noise;noise_out;-3.2094
+147.3;1;noise;;{value: 1.20057, sigma: 0.1}
+147.4;1;noise;noise_out;1.20057
+147.4;1;noise;;{value: 10.4177, sigma: 0.1}
+147.5;1;noise;noise_out;10.4177
+147.5;1;noise;;{value: -17.1717, sigma: 0.1}
+147.6;1;noise;noise_out;-17.1717
+147.6;1;noise;;{value: 23.1979, sigma: 0.1}
+147.7;1;noise;noise_out;23.1979
+147.7;1;noise;;{value: 1.4122, sigma: 0.1}
+147.8;1;noise;noise_out;1.4122
+147.8;1;noise;;{value: 13.2192, sigma: 0.1}
+147.9;1;noise;noise_out;13.2192
+147.9;1;noise;;{value: -9.82721, sigma: 0.1}
+148;1;noise;noise_out;-9.82721
+148;1;noise;;{value: 1.25874, sigma: 0.1}
+148.1;1;noise;noise_out;1.25874
+148.1;1;noise;;{value: 0.139253, sigma: 0.1}
+148.2;1;noise;noise_out;0.139253
+148.2;1;noise;;{value: -13.5405, sigma: 0.1}
+148.3;1;noise;noise_out;-13.5405
+148.3;1;noise;;{value: -7.23923, sigma: 0.1}
+148.4;1;noise;noise_out;-7.23923
+148.4;1;noise;;{value: 6.03732, sigma: 0.1}
+148.5;1;noise;noise_out;6.03732
+148.5;1;noise;;{value: 23.4597, sigma: 0.1}
+148.6;1;noise;noise_out;23.4597
+148.6;1;noise;;{value: 0.0132086, sigma: 0.1}
+148.7;1;noise;noise_out;0.0132086
+148.7;1;noise;;{value: 1.6587, sigma: 0.1}
+148.8;1;noise;noise_out;1.6587
+148.8;1;noise;;{value: -1.45997, sigma: 0.1}
+148.9;1;noise;noise_out;-1.45997
+148.9;1;noise;;{value: 12.1519, sigma: 0.1}
+149;1;noise;noise_out;12.1519
+149;1;noise;;{value: -4.57844, sigma: 0.1}
+149.1;1;noise;noise_out;-4.57844
+149.1;1;noise;;{value: 19.8549, sigma: 0.1}
+149.2;1;noise;noise_out;19.8549
+149.2;1;noise;;{value: -5.52721, sigma: 0.1}
+149.3;1;noise;noise_out;-5.52721
+149.3;1;noise;;{value: -17.4743, sigma: 0.1}
+149.4;1;noise;noise_out;-17.4743
+149.4;1;noise;;{value: -8.60508, sigma: 0.1}
+149.5;1;noise;noise_out;-8.60508
+149.5;1;noise;;{value: 10.8929, sigma: 0.1}
+149.6;1;noise;noise_out;10.8929
+149.6;1;noise;;{value: 5.40055, sigma: 0.1}
+149.7;1;noise;noise_out;5.40055
+149.7;1;noise;;{value: 2.03619, sigma: 0.1}
+149.8;1;noise;noise_out;2.03619
+149.8;1;noise;;{value: 6.23793, sigma: 0.1}
+149.9;1;noise;noise_out;6.23793
+149.9;1;noise;;{value: 12.7421, sigma: 0.1}
+150;1;noise;noise_out;12.7421
+150;1;noise;;{value: -3.09588, sigma: 0.1}
+150.1;1;noise;noise_out;-3.09588
+150.1;1;noise;;{value: 6.98473, sigma: 0.1}
+150.2;1;noise;noise_out;6.98473
+150.2;1;noise;;{value: -24.8033, sigma: 0.1}
+150.3;1;noise;noise_out;-24.8033
+150.3;1;noise;;{value: -4.01748, sigma: 0.1}
+150.4;1;noise;noise_out;-4.01748
+150.4;1;noise;;{value: 1.94974, sigma: 0.1}
+150.5;1;noise;noise_out;1.94974
+150.5;1;noise;;{value: 19.3783, sigma: 0.1}
+150.6;1;noise;noise_out;19.3783
+150.6;1;noise;;{value: -10.5224, sigma: 0.1}
+150.7;1;noise;noise_out;-10.5224
+150.7;1;noise;;{value: 8.79918, sigma: 0.1}
+150.8;1;noise;noise_out;8.79918
+150.8;1;noise;;{value: 12.5181, sigma: 0.1}
+150.9;1;noise;noise_out;12.5181
+150.9;1;noise;;{value: 13.1272, sigma: 0.1}
+151;1;noise;noise_out;13.1272
+151;1;noise;;{value: 6.90993, sigma: 0.1}
+151.1;1;noise;noise_out;6.90993
+151.1;1;noise;;{value: 8.99995, sigma: 0.1}
+151.2;1;noise;noise_out;8.99995
+151.2;1;noise;;{value: 5.69909, sigma: 0.1}
+151.3;1;noise;noise_out;5.69909
+151.3;1;noise;;{value: 1.59797, sigma: 0.1}
+151.4;1;noise;noise_out;1.59797
+151.4;1;noise;;{value: -10.9651, sigma: 0.1}
+151.5;1;noise;noise_out;-10.9651
+151.5;1;noise;;{value: 2.66679, sigma: 0.1}
+151.6;1;noise;noise_out;2.66679
+151.6;1;noise;;{value: 0.0806996, sigma: 0.1}
+151.7;1;noise;noise_out;0.0806996
+151.7;1;noise;;{value: 8.05154, sigma: 0.1}
+151.8;1;noise;noise_out;8.05154
+151.8;1;noise;;{value: -9.99965, sigma: 0.1}
+151.9;1;noise;noise_out;-9.99965
+151.9;1;noise;;{value: 19.8522, sigma: 0.1}
+152;1;noise;noise_out;19.8522
+152;1;noise;;{value: -5.11123, sigma: 0.1}
+152.1;1;noise;noise_out;-5.11123
+152.1;1;noise;;{value: 3.87563, sigma: 0.1}
+152.2;1;noise;noise_out;3.87563
+152.2;1;noise;;{value: -0.891941, sigma: 0.1}
+152.3;1;noise;noise_out;-0.891941
+152.3;1;noise;;{value: 1.65939, sigma: 0.1}
+152.4;1;noise;noise_out;1.65939
+152.4;1;noise;;{value: 1.49028, sigma: 0.1}
+152.5;1;noise;noise_out;1.49028
+152.5;1;noise;;{value: 6.1845, sigma: 0.1}
+152.6;1;noise;noise_out;6.1845
+152.6;1;noise;;{value: -14.376, sigma: 0.1}
+152.7;1;noise;noise_out;-14.376
+152.7;1;noise;;{value: -6.46891, sigma: 0.1}
+152.8;1;noise;noise_out;-6.46891
+152.8;1;noise;;{value: 1.79426, sigma: 0.1}
+152.9;1;noise;noise_out;1.79426
+152.9;1;noise;;{value: -21.7574, sigma: 0.1}
+153;1;noise;noise_out;-21.7574
+153;1;noise;;{value: -4.60429, sigma: 0.1}
+153.1;1;noise;noise_out;-4.60429
+153.1;1;noise;;{value: -8.86617, sigma: 0.1}
+153.2;1;noise;noise_out;-8.86617
+153.2;1;noise;;{value: 8.76696, sigma: 0.1}
+153.3;1;noise;noise_out;8.76696
+153.3;1;noise;;{value: -16.3821, sigma: 0.1}
+153.4;1;noise;noise_out;-16.3821
+153.4;1;noise;;{value: 9.07398, sigma: 0.1}
+153.5;1;noise;noise_out;9.07398
+153.5;1;noise;;{value: 3.25833, sigma: 0.1}
+153.6;1;noise;noise_out;3.25833
+153.6;1;noise;;{value: -2.9906, sigma: 0.1}
+153.7;1;noise;noise_out;-2.9906
+153.7;1;noise;;{value: 7.13244, sigma: 0.1}
+153.8;1;noise;noise_out;7.13244
+153.8;1;noise;;{value: -5.05984, sigma: 0.1}
+153.9;1;noise;noise_out;-5.05984
+153.9;1;noise;;{value: -14.3869, sigma: 0.1}
+154;1;noise;noise_out;-14.3869
+154;1;noise;;{value: -2.61238, sigma: 0.1}
+154.1;1;noise;noise_out;-2.61238
+154.1;1;noise;;{value: 18.1539, sigma: 0.1}
+154.2;1;noise;noise_out;18.1539
+154.2;1;noise;;{value: -18.76, sigma: 0.1}
+154.3;1;noise;noise_out;-18.76
+154.3;1;noise;;{value: -1.68736, sigma: 0.1}
+154.4;1;noise;noise_out;-1.68736
+154.4;1;noise;;{value: -13.4524, sigma: 0.1}
+154.5;1;noise;noise_out;-13.4524
+154.5;1;noise;;{value: 7.03465, sigma: 0.1}
+154.6;1;noise;noise_out;7.03465
+154.6;1;noise;;{value: 8.70384, sigma: 0.1}
+154.7;1;noise;noise_out;8.70384
+154.7;1;noise;;{value: -0.0982362, sigma: 0.1}
+154.8;1;noise;noise_out;-0.0982362
+154.8;1;noise;;{value: 11.3511, sigma: 0.1}
+154.9;1;noise;noise_out;11.3511
+154.9;1;noise;;{value: -15.2903, sigma: 0.1}
+155;1;noise;noise_out;-15.2903
+155;1;noise;;{value: -29.7254, sigma: 0.1}
+155.1;1;noise;noise_out;-29.7254
+155.1;1;noise;;{value: -0.968533, sigma: 0.1}
+155.2;1;noise;noise_out;-0.968533
+155.2;1;noise;;{value: 3.21438, sigma: 0.1}
+155.3;1;noise;noise_out;3.21438
+155.3;1;noise;;{value: 8.39344, sigma: 0.1}
+155.4;1;noise;noise_out;8.39344
+155.4;1;noise;;{value: -5.85237, sigma: 0.1}
+155.5;1;noise;noise_out;-5.85237
+155.5;1;noise;;{value: -5.19176, sigma: 0.1}
+155.6;1;noise;noise_out;-5.19176
+155.6;1;noise;;{value: -4.24484, sigma: 0.1}
+155.7;1;noise;noise_out;-4.24484
+155.7;1;noise;;{value: 8.14432, sigma: 0.1}
+155.8;1;noise;noise_out;8.14432
+155.8;1;noise;;{value: 2.25963, sigma: 0.1}
+155.9;1;noise;noise_out;2.25963
+155.9;1;noise;;{value: 15.9104, sigma: 0.1}
+156;1;noise;noise_out;15.9104
+156;1;noise;;{value: -8.3637, sigma: 0.1}
+156.1;1;noise;noise_out;-8.3637
+156.1;1;noise;;{value: -22.1172, sigma: 0.1}
+156.2;1;noise;noise_out;-22.1172
+156.2;1;noise;;{value: -7.71332, sigma: 0.1}
+156.3;1;noise;noise_out;-7.71332
+156.3;1;noise;;{value: -8.27897, sigma: 0.1}
+156.4;1;noise;noise_out;-8.27897
+156.4;1;noise;;{value: 3.8342, sigma: 0.1}
+156.5;1;noise;noise_out;3.8342
+156.5;1;noise;;{value: -4.44101, sigma: 0.1}
+156.6;1;noise;noise_out;-4.44101
+156.6;1;noise;;{value: 3.24646, sigma: 0.1}
+156.7;1;noise;noise_out;3.24646
+156.7;1;noise;;{value: -4.39931, sigma: 0.1}
+156.8;1;noise;noise_out;-4.39931
+156.8;1;noise;;{value: -3.47942, sigma: 0.1}
+156.9;1;noise;noise_out;-3.47942
+156.9;1;noise;;{value: -13.2333, sigma: 0.1}
+157;1;noise;noise_out;-13.2333
+157;1;noise;;{value: -8.40355, sigma: 0.1}
+157.1;1;noise;noise_out;-8.40355
+157.1;1;noise;;{value: 14.8251, sigma: 0.1}
+157.2;1;noise;noise_out;14.8251
+157.2;1;noise;;{value: -14.5853, sigma: 0.1}
+157.3;1;noise;noise_out;-14.5853
+157.3;1;noise;;{value: 16.6588, sigma: 0.1}
+157.4;1;noise;noise_out;16.6588
+157.4;1;noise;;{value: 20.9871, sigma: 0.1}
+157.5;1;noise;noise_out;20.9871
+157.5;1;noise;;{value: -8.28103, sigma: 0.1}
+157.6;1;noise;noise_out;-8.28103
+157.6;1;noise;;{value: -18.1181, sigma: 0.1}
+157.7;1;noise;noise_out;-18.1181
+157.7;1;noise;;{value: -7.13846, sigma: 0.1}
+157.8;1;noise;noise_out;-7.13846
+157.8;1;noise;;{value: 6.4339, sigma: 0.1}
+157.9;1;noise;noise_out;6.4339
+157.9;1;noise;;{value: 2.74135, sigma: 0.1}
+158;1;noise;noise_out;2.74135
+158;1;noise;;{value: -13.3946, sigma: 0.1}
+158.1;1;noise;noise_out;-13.3946
+158.1;1;noise;;{value: 2.43619, sigma: 0.1}
+158.2;1;noise;noise_out;2.43619
+158.2;1;noise;;{value: -11.3669, sigma: 0.1}
+158.3;1;noise;noise_out;-11.3669
+158.3;1;noise;;{value: -11.2808, sigma: 0.1}
+158.4;1;noise;noise_out;-11.2808
+158.4;1;noise;;{value: 10.1356, sigma: 0.1}
+158.5;1;noise;noise_out;10.1356
+158.5;1;noise;;{value: 10.2913, sigma: 0.1}
+158.6;1;noise;noise_out;10.2913
+158.6;1;noise;;{value: -0.417619, sigma: 0.1}
+158.7;1;noise;noise_out;-0.417619
+158.7;1;noise;;{value: 0.590125, sigma: 0.1}
+158.8;1;noise;noise_out;0.590125
+158.8;1;noise;;{value: 9.0979, sigma: 0.1}
+158.9;1;noise;noise_out;9.0979
+158.9;1;noise;;{value: -13.486, sigma: 0.1}
+159;1;noise;noise_out;-13.486
+159;1;noise;;{value: -1.03602, sigma: 0.1}
+159.1;1;noise;noise_out;-1.03602
+159.1;1;noise;;{value: -2.07561, sigma: 0.1}
+159.2;1;noise;noise_out;-2.07561
+159.2;1;noise;;{value: -1.23065, sigma: 0.1}
+159.3;1;noise;noise_out;-1.23065
+159.3;1;noise;;{value: 12.7204, sigma: 0.1}
+159.4;1;noise;noise_out;12.7204
+159.4;1;noise;;{value: 10.7845, sigma: 0.1}
+159.5;1;noise;noise_out;10.7845
+159.5;1;noise;;{value: -3.73478, sigma: 0.1}
+159.6;1;noise;noise_out;-3.73478
+159.6;1;noise;;{value: -8.76089, sigma: 0.1}
+159.7;1;noise;noise_out;-8.76089
+159.7;1;noise;;{value: -2.34244, sigma: 0.1}
+159.8;1;noise;noise_out;-2.34244
+159.8;1;noise;;{value: -4.44653, sigma: 0.1}
+159.9;1;noise;noise_out;-4.44653
+159.9;1;noise;;{value: 4.97858, sigma: 0.1}
+160;1;noise;noise_out;4.97858
+160;1;noise;;{value: -3.71604, sigma: 0.1}
+160.1;1;noise;noise_out;-3.71604
+160.1;1;noise;;{value: -9.38973, sigma: 0.1}
+160.2;1;noise;noise_out;-9.38973
+160.2;1;noise;;{value: 16.6438, sigma: 0.1}
+160.3;1;noise;noise_out;16.6438
+160.3;1;noise;;{value: -3.19928, sigma: 0.1}
+160.4;1;noise;noise_out;-3.19928
+160.4;1;noise;;{value: 10.8397, sigma: 0.1}
+160.5;1;noise;noise_out;10.8397
+160.5;1;noise;;{value: 2.1301, sigma: 0.1}
+160.6;1;noise;noise_out;2.1301
+160.6;1;noise;;{value: -4.87239, sigma: 0.1}
+160.7;1;noise;noise_out;-4.87239
+160.7;1;noise;;{value: -16.2383, sigma: 0.1}
+160.8;1;noise;noise_out;-16.2383
+160.8;1;noise;;{value: 10.6385, sigma: 0.1}
+160.9;1;noise;noise_out;10.6385
+160.9;1;noise;;{value: -19.016, sigma: 0.1}
+161;1;noise;noise_out;-19.016
+161;1;noise;;{value: -7.84339, sigma: 0.1}
+161.1;1;noise;noise_out;-7.84339
+161.1;1;noise;;{value: 10.3027, sigma: 0.1}
+161.2;1;noise;noise_out;10.3027
+161.2;1;noise;;{value: 17.6199, sigma: 0.1}
+161.3;1;noise;noise_out;17.6199
+161.3;1;noise;;{value: -5.33036, sigma: 0.1}
+161.4;1;noise;noise_out;-5.33036
+161.4;1;noise;;{value: -16.0046, sigma: 0.1}
+161.5;1;noise;noise_out;-16.0046
+161.5;1;noise;;{value: 0.657729, sigma: 0.1}
+161.6;1;noise;noise_out;0.657729
+161.6;1;noise;;{value: 4.08003, sigma: 0.1}
+161.7;1;noise;noise_out;4.08003
+161.7;1;noise;;{value: 12.965, sigma: 0.1}
+161.8;1;noise;noise_out;12.965
+161.8;1;noise;;{value: -22.3011, sigma: 0.1}
+161.9;1;noise;noise_out;-22.3011
+161.9;1;noise;;{value: -19.17, sigma: 0.1}
+162;1;noise;noise_out;-19.17
+162;1;noise;;{value: 23.5522, sigma: 0.1}
+162.1;1;noise;noise_out;23.5522
+162.1;1;noise;;{value: -13.7994, sigma: 0.1}
+162.2;1;noise;noise_out;-13.7994
+162.2;1;noise;;{value: -13.2655, sigma: 0.1}
+162.3;1;noise;noise_out;-13.2655
+162.3;1;noise;;{value: -5.25077, sigma: 0.1}
+162.4;1;noise;noise_out;-5.25077
+162.4;1;noise;;{value: -1.50338, sigma: 0.1}
+162.5;1;noise;noise_out;-1.50338
+162.5;1;noise;;{value: -8.63817, sigma: 0.1}
+162.6;1;noise;noise_out;-8.63817
+162.6;1;noise;;{value: 0.445542, sigma: 0.1}
+162.7;1;noise;noise_out;0.445542
+162.7;1;noise;;{value: 0.943444, sigma: 0.1}
+162.8;1;noise;noise_out;0.943444
+162.8;1;noise;;{value: -20.0594, sigma: 0.1}
+162.9;1;noise;noise_out;-20.0594
+162.9;1;noise;;{value: 0.895097, sigma: 0.1}
+163;1;noise;noise_out;0.895097
+163;1;noise;;{value: -4.74947, sigma: 0.1}
+163.1;1;noise;noise_out;-4.74947
+163.1;1;noise;;{value: 2.83756, sigma: 0.1}
+163.2;1;noise;noise_out;2.83756
+163.2;1;noise;;{value: 1.60175, sigma: 0.1}
+163.3;1;noise;noise_out;1.60175
+163.3;1;noise;;{value: -17.054, sigma: 0.1}
+163.4;1;noise;noise_out;-17.054
+163.4;1;noise;;{value: 3.00931, sigma: 0.1}
+163.5;1;noise;noise_out;3.00931
+163.5;1;noise;;{value: -4.58027, sigma: 0.1}
+163.6;1;noise;noise_out;-4.58027
+163.6;1;noise;;{value: -2.40626, sigma: 0.1}
+163.7;1;noise;noise_out;-2.40626
+163.7;1;noise;;{value: 14.8707, sigma: 0.1}
+163.8;1;noise;noise_out;14.8707
+163.8;1;noise;;{value: 17.0038, sigma: 0.1}
+163.9;1;noise;noise_out;17.0038
+163.9;1;noise;;{value: 4.79018, sigma: 0.1}
+164;1;noise;noise_out;4.79018
+164;1;noise;;{value: 4.07637, sigma: 0.1}
+164.1;1;noise;noise_out;4.07637
+164.1;1;noise;;{value: 12.165, sigma: 0.1}
+164.2;1;noise;noise_out;12.165
+164.2;1;noise;;{value: 15.0614, sigma: 0.1}
+164.3;1;noise;noise_out;15.0614
+164.3;1;noise;;{value: 21.5389, sigma: 0.1}
+164.4;1;noise;noise_out;21.5389
+164.4;1;noise;;{value: 13.8497, sigma: 0.1}
+164.5;1;noise;noise_out;13.8497
+164.5;1;noise;;{value: -8.71699, sigma: 0.1}
+164.6;1;noise;noise_out;-8.71699
+164.6;1;noise;;{value: -14.3444, sigma: 0.1}
+164.7;1;noise;noise_out;-14.3444
+164.7;1;noise;;{value: -4.79913, sigma: 0.1}
+164.8;1;noise;noise_out;-4.79913
+164.8;1;noise;;{value: -0.849066, sigma: 0.1}
+164.9;1;noise;noise_out;-0.849066
+164.9;1;noise;;{value: -7.11972, sigma: 0.1}
+165;1;noise;noise_out;-7.11972
+165;1;noise;;{value: 3.1535, sigma: 0.1}
+165.1;1;noise;noise_out;3.1535
+165.1;1;noise;;{value: -2.31066, sigma: 0.1}
+165.2;1;noise;noise_out;-2.31066
+165.2;1;noise;;{value: -17.6041, sigma: 0.1}
+165.3;1;noise;noise_out;-17.6041
+165.3;1;noise;;{value: 5.98872, sigma: 0.1}
+165.4;1;noise;noise_out;5.98872
+165.4;1;noise;;{value: -12.3696, sigma: 0.1}
+165.5;1;noise;noise_out;-12.3696
+165.5;1;noise;;{value: 6.89779, sigma: 0.1}
+165.6;1;noise;noise_out;6.89779
+165.6;1;noise;;{value: -18.1113, sigma: 0.1}
+165.7;1;noise;noise_out;-18.1113
+165.7;1;noise;;{value: -5.43026, sigma: 0.1}
+165.8;1;noise;noise_out;-5.43026
+165.8;1;noise;;{value: -9.36896, sigma: 0.1}
+165.9;1;noise;noise_out;-9.36896
+165.9;1;noise;;{value: -4.61388, sigma: 0.1}
+166;1;noise;noise_out;-4.61388
+166;1;noise;;{value: 14.5696, sigma: 0.1}
+166.1;1;noise;noise_out;14.5696
+166.1;1;noise;;{value: 0.256245, sigma: 0.1}
+166.2;1;noise;noise_out;0.256245
+166.2;1;noise;;{value: -7.24812, sigma: 0.1}
+166.3;1;noise;noise_out;-7.24812
+166.3;1;noise;;{value: -1.14797, sigma: 0.1}
+166.4;1;noise;noise_out;-1.14797
+166.4;1;noise;;{value: -1.14843, sigma: 0.1}
+166.5;1;noise;noise_out;-1.14843
+166.5;1;noise;;{value: -11.0491, sigma: 0.1}
+166.6;1;noise;noise_out;-11.0491
+166.6;1;noise;;{value: 7.36256, sigma: 0.1}
+166.7;1;noise;noise_out;7.36256
+166.7;1;noise;;{value: -4.26798, sigma: 0.1}
+166.8;1;noise;noise_out;-4.26798
+166.8;1;noise;;{value: 4.91745, sigma: 0.1}
+166.9;1;noise;noise_out;4.91745
+166.9;1;noise;;{value: 20.9693, sigma: 0.1}
+167;1;noise;noise_out;20.9693
+167;1;noise;;{value: 13.5403, sigma: 0.1}
+167.1;1;noise;noise_out;13.5403
+167.1;1;noise;;{value: 1.55715, sigma: 0.1}
+167.2;1;noise;noise_out;1.55715
+167.2;1;noise;;{value: -7.24223, sigma: 0.1}
+167.3;1;noise;noise_out;-7.24223
+167.3;1;noise;;{value: 21.3251, sigma: 0.1}
+167.4;1;noise;noise_out;21.3251
+167.4;1;noise;;{value: -8.29379, sigma: 0.1}
+167.5;1;noise;noise_out;-8.29379
+167.5;1;noise;;{value: 26.4628, sigma: 0.1}
+167.6;1;noise;noise_out;26.4628
+167.6;1;noise;;{value: -13.2811, sigma: 0.1}
+167.7;1;noise;noise_out;-13.2811
+167.7;1;noise;;{value: 11.5676, sigma: 0.1}
+167.8;1;noise;noise_out;11.5676
+167.8;1;noise;;{value: -0.342802, sigma: 0.1}
+167.9;1;noise;noise_out;-0.342802
+167.9;1;noise;;{value: 5.62815, sigma: 0.1}
+168;1;noise;noise_out;5.62815
+168;1;noise;;{value: 7.80479, sigma: 0.1}
+168.1;1;noise;noise_out;7.80479
+168.1;1;noise;;{value: -6.11862, sigma: 0.1}
+168.2;1;noise;noise_out;-6.11862
+168.2;1;noise;;{value: -8.74274, sigma: 0.1}
+168.3;1;noise;noise_out;-8.74274
+168.3;1;noise;;{value: -7.0251, sigma: 0.1}
+168.4;1;noise;noise_out;-7.0251
+168.4;1;noise;;{value: -5.34472, sigma: 0.1}
+168.5;1;noise;noise_out;-5.34472
+168.5;1;noise;;{value: -7.97327, sigma: 0.1}
+168.6;1;noise;noise_out;-7.97327
+168.6;1;noise;;{value: -11.1233, sigma: 0.1}
+168.7;1;noise;noise_out;-11.1233
+168.7;1;noise;;{value: 15.3992, sigma: 0.1}
+168.8;1;noise;noise_out;15.3992
+168.8;1;noise;;{value: 13.0412, sigma: 0.1}
+168.9;1;noise;noise_out;13.0412
+168.9;1;noise;;{value: 6.65299, sigma: 0.1}
+169;1;noise;noise_out;6.65299
+169;1;noise;;{value: -8.08707, sigma: 0.1}
+169.1;1;noise;noise_out;-8.08707
+169.1;1;noise;;{value: -14.3005, sigma: 0.1}
+169.2;1;noise;noise_out;-14.3005
+169.2;1;noise;;{value: -3.03194, sigma: 0.1}
+169.3;1;noise;noise_out;-3.03194
+169.3;1;noise;;{value: 10.3666, sigma: 0.1}
+169.4;1;noise;noise_out;10.3666
+169.4;1;noise;;{value: -2.91442, sigma: 0.1}
+169.5;1;noise;noise_out;-2.91442
+169.5;1;noise;;{value: 5.23993, sigma: 0.1}
+169.6;1;noise;noise_out;5.23993
+169.6;1;noise;;{value: -4.81154, sigma: 0.1}
+169.7;1;noise;noise_out;-4.81154
+169.7;1;noise;;{value: 1.54775, sigma: 0.1}
+169.8;1;noise;noise_out;1.54775
+169.8;1;noise;;{value: -8.56703, sigma: 0.1}
+169.9;1;noise;noise_out;-8.56703
+169.9;1;noise;;{value: 6.52156, sigma: 0.1}
+170;1;noise;noise_out;6.52156
+170;1;noise;;{value: 21.9544, sigma: 0.1}
+170.1;1;noise;noise_out;21.9544
+170.1;1;noise;;{value: 0.615248, sigma: 0.1}
+170.2;1;noise;noise_out;0.615248
+170.2;1;noise;;{value: 12.5771, sigma: 0.1}
+170.3;1;noise;noise_out;12.5771
+170.3;1;noise;;{value: 14.5023, sigma: 0.1}
+170.4;1;noise;noise_out;14.5023
+170.4;1;noise;;{value: 12.9616, sigma: 0.1}
+170.5;1;noise;noise_out;12.9616
+170.5;1;noise;;{value: -4.82098, sigma: 0.1}
+170.6;1;noise;noise_out;-4.82098
+170.6;1;noise;;{value: -2.56992, sigma: 0.1}
+170.7;1;noise;noise_out;-2.56992
+170.7;1;noise;;{value: 6.10269, sigma: 0.1}
+170.8;1;noise;noise_out;6.10269
+170.8;1;noise;;{value: -0.541258, sigma: 0.1}
+170.9;1;noise;noise_out;-0.541258
+170.9;1;noise;;{value: -11.3247, sigma: 0.1}
+171;1;noise;noise_out;-11.3247
+171;1;noise;;{value: -5.76303, sigma: 0.1}
+171.1;1;noise;noise_out;-5.76303
+171.1;1;noise;;{value: -2.4226, sigma: 0.1}
+171.2;1;noise;noise_out;-2.4226
+171.2;1;noise;;{value: 5.22481, sigma: 0.1}
+171.3;1;noise;noise_out;5.22481
+171.3;1;noise;;{value: 10.0013, sigma: 0.1}
+171.4;1;noise;noise_out;10.0013
+171.4;1;noise;;{value: -23.4163, sigma: 0.1}
+171.5;1;noise;noise_out;-23.4163
+171.5;1;noise;;{value: 16.1807, sigma: 0.1}
+171.6;1;noise;noise_out;16.1807
+171.6;1;noise;;{value: -26.7625, sigma: 0.1}
+171.7;1;noise;noise_out;-26.7625
+171.7;1;noise;;{value: -8.27603, sigma: 0.1}
+171.8;1;noise;noise_out;-8.27603
+171.8;1;noise;;{value: 1.97315, sigma: 0.1}
+171.9;1;noise;noise_out;1.97315
+171.9;1;noise;;{value: 8.68604, sigma: 0.1}
+172;1;noise;noise_out;8.68604
+172;1;noise;;{value: -5.5833, sigma: 0.1}
+172.1;1;noise;noise_out;-5.5833
+172.1;1;noise;;{value: 6.41525, sigma: 0.1}
+172.2;1;noise;noise_out;6.41525
+172.2;1;noise;;{value: 3.98694, sigma: 0.1}
+172.3;1;noise;noise_out;3.98694
+172.3;1;noise;;{value: -8.31352, sigma: 0.1}
+172.4;1;noise;noise_out;-8.31352
+172.4;1;noise;;{value: -4.11366, sigma: 0.1}
+172.5;1;noise;noise_out;-4.11366
+172.5;1;noise;;{value: 20.7606, sigma: 0.1}
+172.6;1;noise;noise_out;20.7606
+172.6;1;noise;;{value: -9.34828, sigma: 0.1}
+172.7;1;noise;noise_out;-9.34828
+172.7;1;noise;;{value: 23.2563, sigma: 0.1}
+172.8;1;noise;noise_out;23.2563
+172.8;1;noise;;{value: 5.24212, sigma: 0.1}
+172.9;1;noise;noise_out;5.24212
+172.9;1;noise;;{value: 1.1246, sigma: 0.1}
+173;1;noise;noise_out;1.1246
+173;1;noise;;{value: -9.17848, sigma: 0.1}
+173.1;1;noise;noise_out;-9.17848
+173.1;1;noise;;{value: -3.56252, sigma: 0.1}
+173.2;1;noise;noise_out;-3.56252
+173.2;1;noise;;{value: -2.6842, sigma: 0.1}
+173.3;1;noise;noise_out;-2.6842
+173.3;1;noise;;{value: -11.7007, sigma: 0.1}
+173.4;1;noise;noise_out;-11.7007
+173.4;1;noise;;{value: -3.43274, sigma: 0.1}
+173.5;1;noise;noise_out;-3.43274
+173.5;1;noise;;{value: -9.83055, sigma: 0.1}
+173.6;1;noise;noise_out;-9.83055
+173.6;1;noise;;{value: 12.9344, sigma: 0.1}
+173.7;1;noise;noise_out;12.9344
+173.7;1;noise;;{value: 4.98045, sigma: 0.1}
+173.8;1;noise;noise_out;4.98045
+173.8;1;noise;;{value: -11.6605, sigma: 0.1}
+173.9;1;noise;noise_out;-11.6605
+173.9;1;noise;;{value: -0.0645406, sigma: 0.1}
+174;1;noise;noise_out;-0.0645406
+174;1;noise;;{value: 9.79131, sigma: 0.1}
+174.1;1;noise;noise_out;9.79131
+174.1;1;noise;;{value: 2.21241, sigma: 0.1}
+174.2;1;noise;noise_out;2.21241
+174.2;1;noise;;{value: -15.863, sigma: 0.1}
+174.3;1;noise;noise_out;-15.863
+174.3;1;noise;;{value: -21.9679, sigma: 0.1}
+174.4;1;noise;noise_out;-21.9679
+174.4;1;noise;;{value: 2.58872, sigma: 0.1}
+174.5;1;noise;noise_out;2.58872
+174.5;1;noise;;{value: -3.42362, sigma: 0.1}
+174.6;1;noise;noise_out;-3.42362
+174.6;1;noise;;{value: 2.19994, sigma: 0.1}
+174.7;1;noise;noise_out;2.19994
+174.7;1;noise;;{value: 3.8716, sigma: 0.1}
+174.8;1;noise;noise_out;3.8716
+174.8;1;noise;;{value: 2.11915, sigma: 0.1}
+174.9;1;noise;noise_out;2.11915
+174.9;1;noise;;{value: -2.2145, sigma: 0.1}
+175;1;noise;noise_out;-2.2145
+175;1;noise;;{value: 2.20527, sigma: 0.1}
+175.1;1;noise;noise_out;2.20527
+175.1;1;noise;;{value: 1.80523, sigma: 0.1}
+175.2;1;noise;noise_out;1.80523
+175.2;1;noise;;{value: -9.59796, sigma: 0.1}
+175.3;1;noise;noise_out;-9.59796
+175.3;1;noise;;{value: -3.20422, sigma: 0.1}
+175.4;1;noise;noise_out;-3.20422
+175.4;1;noise;;{value: 1.44028, sigma: 0.1}
+175.5;1;noise;noise_out;1.44028
+175.5;1;noise;;{value: -3.52482, sigma: 0.1}
+175.6;1;noise;noise_out;-3.52482
+175.6;1;noise;;{value: 0.809188, sigma: 0.1}
+175.7;1;noise;noise_out;0.809188
+175.7;1;noise;;{value: -2.23671, sigma: 0.1}
+175.8;1;noise;noise_out;-2.23671
+175.8;1;noise;;{value: -4.48795, sigma: 0.1}
+175.9;1;noise;noise_out;-4.48795
+175.9;1;noise;;{value: 18.92, sigma: 0.1}
+176;1;noise;noise_out;18.92
+176;1;noise;;{value: 30.2224, sigma: 0.1}
+176.1;1;noise;noise_out;30.2224
+176.1;1;noise;;{value: 20.0795, sigma: 0.1}
+176.2;1;noise;noise_out;20.0795
+176.2;1;noise;;{value: -17.3308, sigma: 0.1}
+176.3;1;noise;noise_out;-17.3308
+176.3;1;noise;;{value: -0.106956, sigma: 0.1}
+176.4;1;noise;noise_out;-0.106956
+176.4;1;noise;;{value: -8.67464, sigma: 0.1}
+176.5;1;noise;noise_out;-8.67464
+176.5;1;noise;;{value: -11.7957, sigma: 0.1}
+176.6;1;noise;noise_out;-11.7957
+176.6;1;noise;;{value: 5.49913, sigma: 0.1}
+176.7;1;noise;noise_out;5.49913
+176.7;1;noise;;{value: 2.29919, sigma: 0.1}
+176.8;1;noise;noise_out;2.29919
+176.8;1;noise;;{value: 12.3392, sigma: 0.1}
+176.9;1;noise;noise_out;12.3392
+176.9;1;noise;;{value: -12.5165, sigma: 0.1}
+177;1;noise;noise_out;-12.5165
+177;1;noise;;{value: 0.210273, sigma: 0.1}
+177.1;1;noise;noise_out;0.210273
+177.1;1;noise;;{value: 9.54478, sigma: 0.1}
+177.2;1;noise;noise_out;9.54478
+177.2;1;noise;;{value: -10.0401, sigma: 0.1}
+177.3;1;noise;noise_out;-10.0401
+177.3;1;noise;;{value: 6.56866, sigma: 0.1}
+177.4;1;noise;noise_out;6.56866
+177.4;1;noise;;{value: -7.63975, sigma: 0.1}
+177.5;1;noise;noise_out;-7.63975
+177.5;1;noise;;{value: -5.58641, sigma: 0.1}
+177.6;1;noise;noise_out;-5.58641
+177.6;1;noise;;{value: -8.85915, sigma: 0.1}
+177.7;1;noise;noise_out;-8.85915
+177.7;1;noise;;{value: -2.85145, sigma: 0.1}
+177.8;1;noise;noise_out;-2.85145
+177.8;1;noise;;{value: -2.95602, sigma: 0.1}
+177.9;1;noise;noise_out;-2.95602
+177.9;1;noise;;{value: 3.84634, sigma: 0.1}
+178;1;noise;noise_out;3.84634
+178;1;noise;;{value: -17.1112, sigma: 0.1}
+178.1;1;noise;noise_out;-17.1112
+178.1;1;noise;;{value: 1.1234, sigma: 0.1}
+178.2;1;noise;noise_out;1.1234
+178.2;1;noise;;{value: 5.73074, sigma: 0.1}
+178.3;1;noise;noise_out;5.73074
+178.3;1;noise;;{value: -6.35607, sigma: 0.1}
+178.4;1;noise;noise_out;-6.35607
+178.4;1;noise;;{value: 1.95611, sigma: 0.1}
+178.5;1;noise;noise_out;1.95611
+178.5;1;noise;;{value: 6.54379, sigma: 0.1}
+178.6;1;noise;noise_out;6.54379
+178.6;1;noise;;{value: -6.83377, sigma: 0.1}
+178.7;1;noise;noise_out;-6.83377
+178.7;1;noise;;{value: 9.45732, sigma: 0.1}
+178.8;1;noise;noise_out;9.45732
+178.8;1;noise;;{value: 6.35654, sigma: 0.1}
+178.9;1;noise;noise_out;6.35654
+178.9;1;noise;;{value: 10.1974, sigma: 0.1}
+179;1;noise;noise_out;10.1974
+179;1;noise;;{value: -1.24023, sigma: 0.1}
+179.1;1;noise;noise_out;-1.24023
+179.1;1;noise;;{value: 0.496422, sigma: 0.1}
+179.2;1;noise;noise_out;0.496422
+179.2;1;noise;;{value: -1.79201, sigma: 0.1}
+179.3;1;noise;noise_out;-1.79201
+179.3;1;noise;;{value: 7.30429, sigma: 0.1}
+179.4;1;noise;noise_out;7.30429
+179.4;1;noise;;{value: -8.5635, sigma: 0.1}
+179.5;1;noise;noise_out;-8.5635
+179.5;1;noise;;{value: -9.86302, sigma: 0.1}
+179.6;1;noise;noise_out;-9.86302
+179.6;1;noise;;{value: -1.5373, sigma: 0.1}
+179.7;1;noise;noise_out;-1.5373
+179.7;1;noise;;{value: -9.12947, sigma: 0.1}
+179.8;1;noise;noise_out;-9.12947
+179.8;1;noise;;{value: -10.2659, sigma: 0.1}
+179.9;1;noise;noise_out;-10.2659
+179.9;1;noise;;{value: 12.1474, sigma: 0.1}
+180;1;noise;noise_out;12.1474
+180;1;noise;;{value: 7.52962, sigma: 0.1}
+180.1;1;noise;noise_out;7.52962
+180.1;1;noise;;{value: -4.75432, sigma: 0.1}
+180.2;1;noise;noise_out;-4.75432
+180.2;1;noise;;{value: 3.43207, sigma: 0.1}
+180.3;1;noise;noise_out;3.43207
+180.3;1;noise;;{value: -0.123204, sigma: 0.1}
+180.4;1;noise;noise_out;-0.123204
+180.4;1;noise;;{value: -15.578, sigma: 0.1}
+180.5;1;noise;noise_out;-15.578
+180.5;1;noise;;{value: 2.80769, sigma: 0.1}
+180.6;1;noise;noise_out;2.80769
+180.6;1;noise;;{value: 0.574097, sigma: 0.1}
+180.7;1;noise;noise_out;0.574097
+180.7;1;noise;;{value: 4.92459, sigma: 0.1}
+180.8;1;noise;noise_out;4.92459
+180.8;1;noise;;{value: -0.422837, sigma: 0.1}
+180.9;1;noise;noise_out;-0.422837
+180.9;1;noise;;{value: -2.79628, sigma: 0.1}
+181;1;noise;noise_out;-2.79628
+181;1;noise;;{value: 16.4853, sigma: 0.1}
+181.1;1;noise;noise_out;16.4853
+181.1;1;noise;;{value: 1.7934, sigma: 0.1}
+181.2;1;noise;noise_out;1.7934
+181.2;1;noise;;{value: -2.01747, sigma: 0.1}
+181.3;1;noise;noise_out;-2.01747
+181.3;1;noise;;{value: 16.6608, sigma: 0.1}
+181.4;1;noise;noise_out;16.6608
+181.4;1;noise;;{value: -6.62766, sigma: 0.1}
+181.5;1;noise;noise_out;-6.62766
+181.5;1;noise;;{value: 8.25885, sigma: 0.1}
+181.6;1;noise;noise_out;8.25885
+181.6;1;noise;;{value: 13.9236, sigma: 0.1}
+181.7;1;noise;noise_out;13.9236
+181.7;1;noise;;{value: 6.17626, sigma: 0.1}
+181.8;1;noise;noise_out;6.17626
+181.8;1;noise;;{value: 3.20481, sigma: 0.1}
+181.9;1;noise;noise_out;3.20481
+181.9;1;noise;;{value: -7.75761, sigma: 0.1}
+182;1;noise;noise_out;-7.75761
+182;1;noise;;{value: 7.20946, sigma: 0.1}
+182.1;1;noise;noise_out;7.20946
+182.1;1;noise;;{value: 8.83403, sigma: 0.1}
+182.2;1;noise;noise_out;8.83403
+182.2;1;noise;;{value: -5.81038, sigma: 0.1}
+182.3;1;noise;noise_out;-5.81038
+182.3;1;noise;;{value: -1.20391, sigma: 0.1}
+182.4;1;noise;noise_out;-1.20391
+182.4;1;noise;;{value: 7.90121, sigma: 0.1}
+182.5;1;noise;noise_out;7.90121
+182.5;1;noise;;{value: -22.8788, sigma: 0.1}
+182.6;1;noise;noise_out;-22.8788
+182.6;1;noise;;{value: -13.9977, sigma: 0.1}
+182.7;1;noise;noise_out;-13.9977
+182.7;1;noise;;{value: 3.2929, sigma: 0.1}
+182.8;1;noise;noise_out;3.2929
+182.8;1;noise;;{value: 4.51174, sigma: 0.1}
+182.9;1;noise;noise_out;4.51174
+182.9;1;noise;;{value: -16.3768, sigma: 0.1}
+183;1;noise;noise_out;-16.3768
+183;1;noise;;{value: 6.46068, sigma: 0.1}
+183.1;1;noise;noise_out;6.46068
+183.1;1;noise;;{value: 3.3949, sigma: 0.1}
+183.2;1;noise;noise_out;3.3949
+183.2;1;noise;;{value: 6.66129, sigma: 0.1}
+183.3;1;noise;noise_out;6.66129
+183.3;1;noise;;{value: 13.6629, sigma: 0.1}
+183.4;1;noise;noise_out;13.6629
+183.4;1;noise;;{value: -3.61072, sigma: 0.1}
+183.5;1;noise;noise_out;-3.61072
+183.5;1;noise;;{value: 5.80354, sigma: 0.1}
+183.6;1;noise;noise_out;5.80354
+183.6;1;noise;;{value: -0.297264, sigma: 0.1}
+183.7;1;noise;noise_out;-0.297264
+183.7;1;noise;;{value: 7.00171, sigma: 0.1}
+183.8;1;noise;noise_out;7.00171
+183.8;1;noise;;{value: 4.04189, sigma: 0.1}
+183.9;1;noise;noise_out;4.04189
+183.9;1;noise;;{value: 18.8699, sigma: 0.1}
+184;1;noise;noise_out;18.8699
+184;1;noise;;{value: -6.8204, sigma: 0.1}
+184.1;1;noise;noise_out;-6.8204
+184.1;1;noise;;{value: 2.02811, sigma: 0.1}
+184.2;1;noise;noise_out;2.02811
+184.2;1;noise;;{value: -11.7377, sigma: 0.1}
+184.3;1;noise;noise_out;-11.7377
+184.3;1;noise;;{value: 1.5902, sigma: 0.1}
+184.4;1;noise;noise_out;1.5902
+184.4;1;noise;;{value: -5.02271, sigma: 0.1}
+184.5;1;noise;noise_out;-5.02271
+184.5;1;noise;;{value: 4.2178, sigma: 0.1}
+184.6;1;noise;noise_out;4.2178
+184.6;1;noise;;{value: -11.6364, sigma: 0.1}
+184.7;1;noise;noise_out;-11.6364
+184.7;1;noise;;{value: 10.3242, sigma: 0.1}
+184.8;1;noise;noise_out;10.3242
+184.8;1;noise;;{value: 1.20782, sigma: 0.1}
+184.9;1;noise;noise_out;1.20782
+184.9;1;noise;;{value: -4.78069, sigma: 0.1}
+185;1;noise;noise_out;-4.78069
+185;1;noise;;{value: 3.54858, sigma: 0.1}
+185.1;1;noise;noise_out;3.54858
+185.1;1;noise;;{value: -2.5593, sigma: 0.1}
+185.2;1;noise;noise_out;-2.5593
+185.2;1;noise;;{value: -3.81557, sigma: 0.1}
+185.3;1;noise;noise_out;-3.81557
+185.3;1;noise;;{value: 4.35377, sigma: 0.1}
+185.4;1;noise;noise_out;4.35377
+185.4;1;noise;;{value: 12.0286, sigma: 0.1}
+185.5;1;noise;noise_out;12.0286
+185.5;1;noise;;{value: 8.13461, sigma: 0.1}
+185.6;1;noise;noise_out;8.13461
+185.6;1;noise;;{value: -3.77895, sigma: 0.1}
+185.7;1;noise;noise_out;-3.77895
+185.7;1;noise;;{value: 0.151549, sigma: 0.1}
+185.8;1;noise;noise_out;0.151549
+185.8;1;noise;;{value: 15.5859, sigma: 0.1}
+185.9;1;noise;noise_out;15.5859
+185.9;1;noise;;{value: -16.4793, sigma: 0.1}
+186;1;noise;noise_out;-16.4793
+186;1;noise;;{value: -6.23959, sigma: 0.1}
+186.1;1;noise;noise_out;-6.23959
+186.1;1;noise;;{value: 7.61072, sigma: 0.1}
+186.2;1;noise;noise_out;7.61072
+186.2;1;noise;;{value: -18.4925, sigma: 0.1}
+186.3;1;noise;noise_out;-18.4925
+186.3;1;noise;;{value: -6.02016, sigma: 0.1}
+186.4;1;noise;noise_out;-6.02016
+186.4;1;noise;;{value: -4.09117, sigma: 0.1}
+186.5;1;noise;noise_out;-4.09117
+186.5;1;noise;;{value: -0.416559, sigma: 0.1}
+186.6;1;noise;noise_out;-0.416559
+186.6;1;noise;;{value: -0.855127, sigma: 0.1}
+186.7;1;noise;noise_out;-0.855127
+186.7;1;noise;;{value: -6.66439, sigma: 0.1}
+186.8;1;noise;noise_out;-6.66439
+186.8;1;noise;;{value: -2.75848, sigma: 0.1}
+186.9;1;noise;noise_out;-2.75848
+186.9;1;noise;;{value: -7.5306, sigma: 0.1}
+187;1;noise;noise_out;-7.5306
+187;1;noise;;{value: -3.84748, sigma: 0.1}
+187.1;1;noise;noise_out;-3.84748
+187.1;1;noise;;{value: -11.8923, sigma: 0.1}
+187.2;1;noise;noise_out;-11.8923
+187.2;1;noise;;{value: 2.09907, sigma: 0.1}
+187.3;1;noise;noise_out;2.09907
+187.3;1;noise;;{value: -2.07397, sigma: 0.1}
+187.4;1;noise;noise_out;-2.07397
+187.4;1;noise;;{value: 5.12014, sigma: 0.1}
+187.5;1;noise;noise_out;5.12014
+187.5;1;noise;;{value: -1.81964, sigma: 0.1}
+187.6;1;noise;noise_out;-1.81964
+187.6;1;noise;;{value: 3.46745, sigma: 0.1}
+187.7;1;noise;noise_out;3.46745
+187.7;1;noise;;{value: 9.6468, sigma: 0.1}
+187.8;1;noise;noise_out;9.6468
+187.8;1;noise;;{value: 2.03176, sigma: 0.1}
+187.9;1;noise;noise_out;2.03176
+187.9;1;noise;;{value: 5.31807, sigma: 0.1}
+188;1;noise;noise_out;5.31807
+188;1;noise;;{value: 12.8777, sigma: 0.1}
+188.1;1;noise;noise_out;12.8777
+188.1;1;noise;;{value: 0.019353, sigma: 0.1}
+188.2;1;noise;noise_out;0.019353
+188.2;1;noise;;{value: 17.3195, sigma: 0.1}
+188.3;1;noise;noise_out;17.3195
+188.3;1;noise;;{value: -11.9142, sigma: 0.1}
+188.4;1;noise;noise_out;-11.9142
+188.4;1;noise;;{value: -1.34847, sigma: 0.1}
+188.5;1;noise;noise_out;-1.34847
+188.5;1;noise;;{value: -8.54348, sigma: 0.1}
+188.6;1;noise;noise_out;-8.54348
+188.6;1;noise;;{value: 0.345298, sigma: 0.1}
+188.7;1;noise;noise_out;0.345298
+188.7;1;noise;;{value: -11.2798, sigma: 0.1}
+188.8;1;noise;noise_out;-11.2798
+188.8;1;noise;;{value: -5.8668, sigma: 0.1}
+188.9;1;noise;noise_out;-5.8668
+188.9;1;noise;;{value: -15.9267, sigma: 0.1}
+189;1;noise;noise_out;-15.9267
+189;1;noise;;{value: 6.78071, sigma: 0.1}
+189.1;1;noise;noise_out;6.78071
+189.1;1;noise;;{value: 24.325, sigma: 0.1}
+189.2;1;noise;noise_out;24.325
+189.2;1;noise;;{value: -6.85148, sigma: 0.1}
+189.3;1;noise;noise_out;-6.85148
+189.3;1;noise;;{value: 3.46878, sigma: 0.1}
+189.4;1;noise;noise_out;3.46878
+189.4;1;noise;;{value: -1.2535, sigma: 0.1}
+189.5;1;noise;noise_out;-1.2535
+189.5;1;noise;;{value: -19.4787, sigma: 0.1}
+189.6;1;noise;noise_out;-19.4787
+189.6;1;noise;;{value: 3.1549, sigma: 0.1}
+189.7;1;noise;noise_out;3.1549
+189.7;1;noise;;{value: 7.79075, sigma: 0.1}
+189.8;1;noise;noise_out;7.79075
+189.8;1;noise;;{value: 17.6478, sigma: 0.1}
+189.9;1;noise;noise_out;17.6478
+189.9;1;noise;;{value: 10.6941, sigma: 0.1}
+190;1;noise;noise_out;10.6941
+190;1;noise;;{value: -11.7264, sigma: 0.1}
+190.1;1;noise;noise_out;-11.7264
+190.1;1;noise;;{value: -0.269698, sigma: 0.1}
+190.2;1;noise;noise_out;-0.269698
+190.2;1;noise;;{value: 1.91996, sigma: 0.1}
+190.3;1;noise;noise_out;1.91996
+190.3;1;noise;;{value: -10.7398, sigma: 0.1}
+190.4;1;noise;noise_out;-10.7398
+190.4;1;noise;;{value: -19.3421, sigma: 0.1}
+190.5;1;noise;noise_out;-19.3421
+190.5;1;noise;;{value: 16.1829, sigma: 0.1}
+190.6;1;noise;noise_out;16.1829
+190.6;1;noise;;{value: 19.8885, sigma: 0.1}
+190.7;1;noise;noise_out;19.8885
+190.7;1;noise;;{value: -6.45609, sigma: 0.1}
+190.8;1;noise;noise_out;-6.45609
+190.8;1;noise;;{value: -5.41432, sigma: 0.1}
+190.9;1;noise;noise_out;-5.41432
+190.9;1;noise;;{value: 9.68927, sigma: 0.1}
+191;1;noise;noise_out;9.68927
+191;1;noise;;{value: 14.023, sigma: 0.1}
+191.1;1;noise;noise_out;14.023
+191.1;1;noise;;{value: 2.97087, sigma: 0.1}
+191.2;1;noise;noise_out;2.97087
+191.2;1;noise;;{value: -7.79499, sigma: 0.1}
+191.3;1;noise;noise_out;-7.79499
+191.3;1;noise;;{value: -5.11748, sigma: 0.1}
+191.4;1;noise;noise_out;-5.11748
+191.4;1;noise;;{value: 2.12469, sigma: 0.1}
+191.5;1;noise;noise_out;2.12469
+191.5;1;noise;;{value: 15.8265, sigma: 0.1}
+191.6;1;noise;noise_out;15.8265
+191.6;1;noise;;{value: 9.23076, sigma: 0.1}
+191.7;1;noise;noise_out;9.23076
+191.7;1;noise;;{value: 15.6687, sigma: 0.1}
+191.8;1;noise;noise_out;15.6687
+191.8;1;noise;;{value: -7.13407, sigma: 0.1}
+191.9;1;noise;noise_out;-7.13407
+191.9;1;noise;;{value: -12.6411, sigma: 0.1}
+192;1;noise;noise_out;-12.6411
+192;1;noise;;{value: -0.60077, sigma: 0.1}
+192.1;1;noise;noise_out;-0.60077
+192.1;1;noise;;{value: 4.53552, sigma: 0.1}
+192.2;1;noise;noise_out;4.53552
+192.2;1;noise;;{value: 6.87753, sigma: 0.1}
+192.3;1;noise;noise_out;6.87753
+192.3;1;noise;;{value: 5.2566, sigma: 0.1}
+192.4;1;noise;noise_out;5.2566
+192.4;1;noise;;{value: -25.602, sigma: 0.1}
+192.5;1;noise;noise_out;-25.602
+192.5;1;noise;;{value: 20.9984, sigma: 0.1}
+192.6;1;noise;noise_out;20.9984
+192.6;1;noise;;{value: -5.05127, sigma: 0.1}
+192.7;1;noise;noise_out;-5.05127
+192.7;1;noise;;{value: 0.570087, sigma: 0.1}
+192.8;1;noise;noise_out;0.570087
+192.8;1;noise;;{value: -1.74496, sigma: 0.1}
+192.9;1;noise;noise_out;-1.74496
+192.9;1;noise;;{value: -13.4748, sigma: 0.1}
+193;1;noise;noise_out;-13.4748
+193;1;noise;;{value: 8.02478, sigma: 0.1}
+193.1;1;noise;noise_out;8.02478
+193.1;1;noise;;{value: -0.727111, sigma: 0.1}
+193.2;1;noise;noise_out;-0.727111
+193.2;1;noise;;{value: 15.5083, sigma: 0.1}
+193.3;1;noise;noise_out;15.5083
+193.3;1;noise;;{value: -6.75259, sigma: 0.1}
+193.4;1;noise;noise_out;-6.75259
+193.4;1;noise;;{value: -28.2005, sigma: 0.1}
+193.5;1;noise;noise_out;-28.2005
+193.5;1;noise;;{value: -9.65432, sigma: 0.1}
+193.6;1;noise;noise_out;-9.65432
+193.6;1;noise;;{value: 0.934185, sigma: 0.1}
+193.7;1;noise;noise_out;0.934185
+193.7;1;noise;;{value: 5.42579, sigma: 0.1}
+193.8;1;noise;noise_out;5.42579
+193.8;1;noise;;{value: -16.1663, sigma: 0.1}
+193.9;1;noise;noise_out;-16.1663
+193.9;1;noise;;{value: 9.53563, sigma: 0.1}
+194;1;noise;noise_out;9.53563
+194;1;noise;;{value: 19.6566, sigma: 0.1}
+194.1;1;noise;noise_out;19.6566
+194.1;1;noise;;{value: -9.36961, sigma: 0.1}
+194.2;1;noise;noise_out;-9.36961
+194.2;1;noise;;{value: 2.06159, sigma: 0.1}
+194.3;1;noise;noise_out;2.06159
+194.3;1;noise;;{value: -0.432268, sigma: 0.1}
+194.4;1;noise;noise_out;-0.432268
+194.4;1;noise;;{value: -2.97282, sigma: 0.1}
+194.5;1;noise;noise_out;-2.97282
+194.5;1;noise;;{value: 1.50928, sigma: 0.1}
+194.6;1;noise;noise_out;1.50928
+194.6;1;noise;;{value: -0.262866, sigma: 0.1}
+194.7;1;noise;noise_out;-0.262866
+194.7;1;noise;;{value: 5.35852, sigma: 0.1}
+194.8;1;noise;noise_out;5.35852
+194.8;1;noise;;{value: -3.75122, sigma: 0.1}
+194.9;1;noise;noise_out;-3.75122
+194.9;1;noise;;{value: -14.4619, sigma: 0.1}
+195;1;noise;noise_out;-14.4619
+195;1;noise;;{value: 6.81182, sigma: 0.1}
+195.1;1;noise;noise_out;6.81182
+195.1;1;noise;;{value: -5.95371, sigma: 0.1}
+195.2;1;noise;noise_out;-5.95371
+195.2;1;noise;;{value: -11.6329, sigma: 0.1}
+195.3;1;noise;noise_out;-11.6329
+195.3;1;noise;;{value: -2.94074, sigma: 0.1}
+195.4;1;noise;noise_out;-2.94074
+195.4;1;noise;;{value: -7.88742, sigma: 0.1}
+195.5;1;noise;noise_out;-7.88742
+195.5;1;noise;;{value: 2.19239, sigma: 0.1}
+195.6;1;noise;noise_out;2.19239
+195.6;1;noise;;{value: 0.269252, sigma: 0.1}
+195.7;1;noise;noise_out;0.269252
+195.7;1;noise;;{value: -1.05933, sigma: 0.1}
+195.8;1;noise;noise_out;-1.05933
+195.8;1;noise;;{value: -0.460189, sigma: 0.1}
+195.9;1;noise;noise_out;-0.460189
+195.9;1;noise;;{value: -4.39615, sigma: 0.1}
+196;1;noise;noise_out;-4.39615
+196;1;noise;;{value: 17.5295, sigma: 0.1}
+196.1;1;noise;noise_out;17.5295
+196.1;1;noise;;{value: 23.4839, sigma: 0.1}
+196.2;1;noise;noise_out;23.4839
+196.2;1;noise;;{value: -3.57922, sigma: 0.1}
+196.3;1;noise;noise_out;-3.57922
+196.3;1;noise;;{value: 15.1364, sigma: 0.1}
+196.4;1;noise;noise_out;15.1364
+196.4;1;noise;;{value: 0.304225, sigma: 0.1}
+196.5;1;noise;noise_out;0.304225
+196.5;1;noise;;{value: -6.33446, sigma: 0.1}
+196.6;1;noise;noise_out;-6.33446
+196.6;1;noise;;{value: 1.14897, sigma: 0.1}
+196.7;1;noise;noise_out;1.14897
+196.7;1;noise;;{value: -17.2748, sigma: 0.1}
+196.8;1;noise;noise_out;-17.2748
+196.8;1;noise;;{value: 12.6936, sigma: 0.1}
+196.9;1;noise;noise_out;12.6936
+196.9;1;noise;;{value: 3.02448, sigma: 0.1}
+197;1;noise;noise_out;3.02448
+197;1;noise;;{value: -8.02518, sigma: 0.1}
+197.1;1;noise;noise_out;-8.02518
+197.1;1;noise;;{value: -8.92049, sigma: 0.1}
+197.2;1;noise;noise_out;-8.92049
+197.2;1;noise;;{value: 20.2887, sigma: 0.1}
+197.3;1;noise;noise_out;20.2887
+197.3;1;noise;;{value: 1.35287, sigma: 0.1}
+197.4;1;noise;noise_out;1.35287
+197.4;1;noise;;{value: 5.23812, sigma: 0.1}
+197.5;1;noise;noise_out;5.23812
+197.5;1;noise;;{value: -0.671751, sigma: 0.1}
+197.6;1;noise;noise_out;-0.671751
+197.6;1;noise;;{value: -6.62148, sigma: 0.1}
+197.7;1;noise;noise_out;-6.62148
+197.7;1;noise;;{value: 9.85026, sigma: 0.1}
+197.8;1;noise;noise_out;9.85026
+197.8;1;noise;;{value: -6.02043, sigma: 0.1}
+197.9;1;noise;noise_out;-6.02043
+197.9;1;noise;;{value: -1.30075, sigma: 0.1}
+198;1;noise;noise_out;-1.30075
+198;1;noise;;{value: -9.90647, sigma: 0.1}
+198.1;1;noise;noise_out;-9.90647
+198.1;1;noise;;{value: -10.9748, sigma: 0.1}
+198.2;1;noise;noise_out;-10.9748
+198.2;1;noise;;{value: -16.3699, sigma: 0.1}
+198.3;1;noise;noise_out;-16.3699
+198.3;1;noise;;{value: -3.77999, sigma: 0.1}
+198.4;1;noise;noise_out;-3.77999
+198.4;1;noise;;{value: 11.1401, sigma: 0.1}
+198.5;1;noise;noise_out;11.1401
+198.5;1;noise;;{value: 14.5962, sigma: 0.1}
+198.6;1;noise;noise_out;14.5962
+198.6;1;noise;;{value: -8.58868, sigma: 0.1}
+198.7;1;noise;noise_out;-8.58868
+198.7;1;noise;;{value: 0.371894, sigma: 0.1}
+198.8;1;noise;noise_out;0.371894
+198.8;1;noise;;{value: -1.43818, sigma: 0.1}
+198.9;1;noise;noise_out;-1.43818
+198.9;1;noise;;{value: -1.72417, sigma: 0.1}
+199;1;noise;noise_out;-1.72417
+199;1;noise;;{value: -0.174516, sigma: 0.1}
+199.1;1;noise;noise_out;-0.174516
+199.1;1;noise;;{value: 4.117, sigma: 0.1}
+199.2;1;noise;noise_out;4.117
+199.2;1;noise;;{value: -4.32802, sigma: 0.1}
+199.3;1;noise;noise_out;-4.32802
+199.3;1;noise;;{value: -25.4414, sigma: 0.1}
+199.4;1;noise;noise_out;-25.4414
+199.4;1;noise;;{value: -8.98315, sigma: 0.1}
+199.5;1;noise;noise_out;-8.98315
+199.5;1;noise;;{value: 4.96707, sigma: 0.1}
+199.6;1;noise;noise_out;4.96707
+199.6;1;noise;;{value: -2.64994, sigma: 0.1}
+199.7;1;noise;noise_out;-2.64994
+199.7;1;noise;;{value: 6.1794, sigma: 0.1}
+199.8;1;noise;noise_out;6.1794
+199.8;1;noise;;{value: 9.39507, sigma: 0.1}
+199.9;1;noise;noise_out;9.39507
+199.9;1;noise;;{value: 9.72844, sigma: 0.1}
+200;1;noise;noise_out;9.72844
+200;1;noise;;{value: 3.79361, sigma: 0.1}
+200;1;noise;;{value: 3.79361, sigma: 0.1}

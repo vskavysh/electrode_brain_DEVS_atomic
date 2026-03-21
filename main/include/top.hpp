@@ -2,7 +2,7 @@
 #define TOP_HPP
 
 #include <string>
-#include "cadmium/core/modeling/coupled.hpp"
+#include "cadmium/modeling/devs/coupled.hpp"
 #include "brain.hpp"
 #include "electrode.hpp"
 
